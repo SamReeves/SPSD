@@ -1,0 +1,2578 @@
+[
+  {
+    "id": 3090001,
+    "ep_num": 309,
+    "segment": 1,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Broflovski house. Gerald and Sheila are with Ike at his changing table in his room."
+  },
+  {
+    "id": 3090002,
+    "ep_num": 309,
+    "segment": 1,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Hold still, Ike! We have to get you dressed! Where the heck is Kyle?"
+  },
+  {
+    "id": 3090003,
+    "ep_num": 309,
+    "segment": 1,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "I don't kow. Come on, Kyle! You're gonna be late for Jew Scouts!"
+  },
+  {
+    "id": 3090004,
+    "ep_num": 309,
+    "segment": 2,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "Kyle looks in the bathroom mirror to make sure everything is set, and hums. Both he and Kyle have little pigtails hanging from their hair."
+  },
+  {
+    "id": 3090005,
+    "ep_num": 309,
+    "segment": 2,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle!"
+  },
+  {
+    "id": 3090006,
+    "ep_num": 309,
+    "segment": 2,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "I'm coming, Ma!"
+  },
+  {
+    "id": 3090007,
+    "ep_num": 309,
+    "segment": 2,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Go get the door, Kyle!"
+  },
+  {
+    "id": 3090008,
+    "ep_num": 309,
+    "segment": 2,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "\"Get ready,\" \"answer the door,\" Jesus Christ, make up your frickin' mind!"
+  },
+  {
+    "id": 3090009,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The living room. Kyle walks across to the front door and opens it"
+  },
+  {
+    "id": 3090010,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Oh! Hey, Kenny."
+  },
+  {
+    "id": 3090011,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Kyle, I'm gonna camp and watch the meteor shower. Do you wanna come and see it with me?)"
+  },
+  {
+    "id": 3090012,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "I can't watch the meteor shower with you, Kenny. I have to go to Jewbilee."
+  },
+  {
+    "id": 3090013,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(What's that?)"
+  },
+  {
+    "id": 3090014,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "It's what we do in Jew Scouts. Usually we just sit around and make stuff. But tonight, because there's a meteor shower, we're gonna do some big thing out in the woods. It's gonna suck ass, I'm sure."
+  },
+  {
+    "id": 3090015,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Oh, that's alright.)"
+  },
+  {
+    "id": 3090016,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Hey! Maybe you can come with me. Then it won't suck so hard."
+  },
+  {
+    "id": 3090017,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Really?)"
+  },
+  {
+    "id": 3090018,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Mom? Can Kenny go to Jewbilee with me?"
+  },
+  {
+    "id": 3090019,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "...Uhwell, Kyle, Jewbilee is sort of a ...special thing."
+  },
+  {
+    "id": 3090020,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "...Oh. Kenny isn't special?"
+  },
+  {
+    "id": 3090021,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Aw.)"
+  },
+  {
+    "id": 3090022,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "No, no, you're very special, Kenny. It's just that... well, Jewbilee is... for Jewish kids."
+  },
+  {
+    "id": 3090023,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "You see boys, Jew Scouts is a special group that borrows a little bit from all different Jewish denominations. From the Orthodox Jews, from the Hasidic Jews, from the Northern Italy Cave Jews... But you have to believe the basic tenets of Judaism to be a Scout."
+  },
+  {
+    "id": 3090024,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Kenny'll believe whatever you want him to."
+  },
+  {
+    "id": 3090025,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Yeah.)"
+  },
+  {
+    "id": 3090026,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle, eh, the problem is-"
+  },
+  {
+    "id": 3090027,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Please, Ma. I don't think Kenny has anywhere else to be tonight."
+  },
+  {
+    "id": 3090028,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "Oh, all right. Just don't let any of the elders know that he isn't Jewish, okay?"
+  },
+  {
+    "id": 3090029,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Woohoo!)"
+  },
+  {
+    "id": 3090030,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Come on, Ike!  It's time to go to Squirts!"
+  },
+  {
+    "id": 3090031,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Squirts?)"
+  },
+  {
+    "id": 3090032,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "You have to be in Squirts if you're too young to be a Jew Scout."
+  },
+  {
+    "id": 3090033,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Oh.)"
+  },
+  {
+    "id": 3090034,
+    "ep_num": 309,
+    "segment": 3,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Don't worry, Kenny. I'll fill you in on our faith on the way up there."
+  },
+  {
+    "id": 3090035,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "In the car. The family and Kenny drive south as a full moon rises. Sheila gives a quick overview of the Old Testament, or Tanakh"
+  },
+  {
+    "id": 3090036,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "And then, Kenny, Abraham's wife bore him no children. She had a handmaid, an Egyptian, whose name was Hagar. And Sarai said unto Abraham, \"Behold now, the Lord hath restrained me from bearing. I pray thee, go into my maid.\""
+  },
+  {
+    "id": 3090037,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Uh huh.)"
+  },
+  {
+    "id": 3090038,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Abraham begat Isaac, who the Lord then said to kill. But that was just a little silly trick to see if Abraham would do it."
+  },
+  {
+    "id": 3090039,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Uh huh!)"
+  },
+  {
+    "id": 3090040,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Eng jeck."
+  },
+  {
+    "id": 3090041,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "No, Ike! Ma, Ike keeps taking off his Squirt uniform!"
+  },
+  {
+    "id": 3090042,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Ike, you behave!"
+  },
+  {
+    "id": 3090043,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Buwor?"
+  },
+  {
+    "id": 3090044,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "No, Ike!"
+  },
+  {
+    "id": 3090045,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Buh buh buh buh"
+  },
+  {
+    "id": 3090046,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "I don't think Ike wants to go to Squirts."
+  },
+  {
+    "id": 3090047,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "Ike, your brother Kyle was in Squirts, and so was I. You have to go so someday you can be a big brave Jew Scout."
+  },
+  {
+    "id": 3090048,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "No-o"
+  },
+  {
+    "id": 3090049,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "Tell Ike how much fun Squirts is, Kyle."
+  },
+  {
+    "id": 3090050,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "What? You want me to lie?"
+  },
+  {
+    "id": 3090051,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "Yeah, lie."
+  },
+  {
+    "id": 3090052,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Oh. Ike, Squirts is so much fun-"
+  },
+  {
+    "id": 3090053,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Oh my God, what is that?!"
+  },
+  {
+    "id": 3090054,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "Hey, it's a bear!"
+  },
+  {
+    "id": 3090055,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Wow, cool."
+  },
+  {
+    "id": 3090056,
+    "ep_num": 309,
+    "segment": 4,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "This retreat really is out of the way, isn't it?"
+  },
+  {
+    "id": 3090057,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Jew Scout camp. The sign on the entrance reads, \"WELCOME TO JEWBILEE.\" They reach the Jew welcome station"
+  },
+  {
+    "id": 3090058,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "RANGER",
+    "text": "Welcome to Jewbilee. You folks find it okay?"
+  },
+  {
+    "id": 3090059,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "Yeah.  Actually, we saw a bear a few miles back."
+  },
+  {
+    "id": 3090060,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "He was huge."
+  },
+  {
+    "id": 3090061,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "RANGER",
+    "text": "Yeah. We spotted him a few days ago. Nothing to worry about, though. Your boys are safe with us."
+  },
+  {
+    "id": 3090062,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "I'm sure they are."
+  },
+  {
+    "id": 3090063,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE'S FATHER",
+    "text": "We'llbe back to pick you up after the meteor shower party, boys."
+  },
+  {
+    "id": 3090064,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Good-bye, boys. Kyle and Ike, you be safe. And Kenny?"
+  },
+  {
+    "id": 3090065,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Uh huh?)"
+  },
+  {
+    "id": 3090066,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE'S MOTHER",
+    "text": "Try and act Jewish."
+  },
+  {
+    "id": 3090067,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(How do you do that?)"
+  },
+  {
+    "id": 3090068,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Come on, Squirt! We're meeting over here!"
+  },
+  {
+    "id": 3090069,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Who are you?"
+  },
+  {
+    "id": 3090070,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "I'm the Squirt leader. I don't want to be the Squirt leader, but I don't have a choice; it's the only way I can earn my chutzpah badge. So I gotta spend all night instructing Squirts."
+  },
+  {
+    "id": 3090071,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "You have to go with him, Ike."
+  },
+  {
+    "id": 3090072,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Buh buh buh buh."
+  },
+  {
+    "id": 3090073,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Don't worry, Ike. Squirts is fun. And I'll be right over there in the next building."
+  },
+  {
+    "id": 3090074,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Boul ball."
+  },
+  {
+    "id": 3090075,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Come on!"
+  },
+  {
+    "id": 3090076,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "RANGER",
+    "text": "Name?"
+  },
+  {
+    "id": 3090077,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Kyle Broflovski."
+  },
+  {
+    "id": 3090078,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Kenny McCormick.)"
+  },
+  {
+    "id": 3090079,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "RANGER",
+    "text": "What?"
+  },
+  {
+    "id": 3090080,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Uh, Kenny McHeinenberg."
+  },
+  {
+    "id": 3090081,
+    "ep_num": 309,
+    "segment": 5,
+    "title": "JEWBILEE",
+    "role": "RANGER",
+    "text": "Alright, get to Meshuggeneh Hall! The meeting is already starting."
+  },
+  {
+    "id": 3090082,
+    "ep_num": 309,
+    "segment": 6,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "On the way to Meshuggeneh Hall. Kenny is curious about the buildings, naturally."
+  },
+  {
+    "id": 3090083,
+    "ep_num": 309,
+    "segment": 6,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(What's that?)"
+  },
+  {
+    "id": 3090084,
+    "ep_num": 309,
+    "segment": 6,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "This is where the elders meet. Nobody is allowed to go in there when they're having a meeting."
+  },
+  {
+    "id": 3090085,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The chamber of elders, the meeting. The Chief Elder sits on a futuristic throne, from which he can look down at the other elders"
+  },
+  {
+    "id": 3090086,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Baleilah hazein, Hame kadesh mekoh hikenazu puanazikeh hakeilah. (Now gather us, the elders, on this most holy of nights.)"
+  },
+  {
+    "id": 3090087,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "ELDRES",
+    "text": "Helalelah, het Moshe. (Praise Moses.)"
+  },
+  {
+    "id": 3090088,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "I want to welcome you all. Though we each come from a different sect of Judaism, on this night of Jewbilee, we all pray to Moses as one. Hineinih kureh leirukeshu. (May all the power of Moses show the way) Now, let us all introduce ourselves."
+  },
+  {
+    "id": 3090089,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "ELDER 1",
+    "text": "Elder Carn, from the Orthodox synagogue."
+  },
+  {
+    "id": 3090090,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "ELDER 2",
+    "text": "Elder Harris, from the Hasidic sect."
+  },
+  {
+    "id": 3090091,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "ELDER 3",
+    "text": "Elder Garth, from the synagogue of Anti-Semites."
+  },
+  {
+    "id": 3090092,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "I don't believe I've heard of the Anti-Semitic sect of Judaism before."
+  },
+  {
+    "id": 3090093,
+    "ep_num": 309,
+    "segment": 7,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "We're new."
+  },
+  {
+    "id": 3090094,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "Squirt's Lair. Stars of David are everywhere."
+  },
+  {
+    "id": 3090095,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Okay, Squirts, the elders have given us a very important task tonight. We are all going to make macaroni pictures, like this one,  using dry macaroni, paper, and glue."
+  },
+  {
+    "id": 3090096,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "SQUIRT 1",
+    "text": "How come we have to make macaroni pictures?"
+  },
+  {
+    "id": 3090097,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Because that's what Squirts do! Now, shut your pie-hole!"
+  },
+  {
+    "id": 3090098,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "SQUIRT 2",
+    "text": "What's your name?"
+  },
+  {
+    "id": 3090099,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Nor."
+  },
+  {
+    "id": 3090100,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "SQUIRT 2",
+    "text": "How come your head is lookin' so... funny-looking?"
+  },
+  {
+    "id": 3090101,
+    "ep_num": 309,
+    "segment": 8,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Uh uh."
+  },
+  {
+    "id": 3090102,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "Meshuggeneh Hall, the camp lodge, but inside it looks like a lecture hall. The banner outside says, \"Jew Scouts Meeting Hall\""
+  },
+  {
+    "id": 3090103,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "And that's how we'll be making tonight's craft. And so you see, Scouts, all you need is a bar of soap and a dull knife , and you can make nifty soap sculptures like these. Here's a giraffe.  And here's a cloud.  You can all pick up your bars of soap later on, as we will all be making soap sculptures tonight.  Now, this year we are pleased to announce that Jewbilee has grown to over one hundred Jew Scouts from all around the country. All new inductees, raise your hands."
+  },
+  {
+    "id": 3090104,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "That's you, Kenny. Raise your hand."
+  },
+  {
+    "id": 3090105,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Uuuuhh, yess, and what is your name, young man?"
+  },
+  {
+    "id": 3090106,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "INDUCTEE",
+    "text": "Junichi."
+  },
+  {
+    "id": 3090107,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "O-oh, wonderful, uh, uh, um.  Cuh, Could you run out and grab some- some of those candles for us?  There we go. Ahem. Now, I would like all the new inductees to step forward, please."
+  },
+  {
+    "id": 3090108,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "This part kinda sucks, Kenny, but don't screw it up."
+  },
+  {
+    "id": 3090109,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Raise your left hand and repeat after me: I pleadge to be a Jew Scout."
+  },
+  {
+    "id": 3090110,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "INDUCTEES",
+    "text": "I pledge to be a Jew Scout."
+  },
+  {
+    "id": 3090111,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "My honor, wide and true."
+  },
+  {
+    "id": 3090112,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "INDUCTEES",
+    "text": "My honor, wide and true."
+  },
+  {
+    "id": 3090113,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "I am proud to be a Jew Scout."
+  },
+  {
+    "id": 3090114,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "INDUCTEES",
+    "text": "I am proud to be a Jew Scout."
+  },
+  {
+    "id": 3090115,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Otherwise, I'd just be a Jew."
+  },
+  {
+    "id": 3090116,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "INDUCTEES",
+    "text": "Otherwise, I'd just be a Jew."
+  },
+  {
+    "id": 3090117,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Lahit chaim."
+  },
+  {
+    "id": 3090118,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "INDUCTEE 1",
+    "text": "Lahit chaim."
+  },
+  {
+    "id": 3090119,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Lahit chaim."
+  },
+  {
+    "id": 3090120,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "INDUCTEE 2",
+    "text": "Lahit chaim."
+  },
+  {
+    "id": 3090121,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Lahit chaim."
+  },
+  {
+    "id": 3090122,
+    "ep_num": 309,
+    "segment": 9,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Lahit chaim.)  (Ha, Hiheh haha.)  (Hah, Oh my God!)"
+  },
+  {
+    "id": 3090123,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "Squirt's Lair. Macaroni projects now due"
+  },
+  {
+    "id": 3090124,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Okay, Squirts, let's see what you made macaroni pictures of. Ishmael?"
+  },
+  {
+    "id": 3090125,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "ISHMAEL",
+    "text": "Apple."
+  },
+  {
+    "id": 3090126,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Good. Matthew?"
+  },
+  {
+    "id": 3090127,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "MATTHEW",
+    "text": "Cat."
+  },
+  {
+    "id": 3090128,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Joseph?"
+  },
+  {
+    "id": 3090129,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "JOSEPH",
+    "text": "Triangle."
+  },
+  {
+    "id": 3090130,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Okay. Ike?"
+  },
+  {
+    "id": 3090131,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Cokeshen."
+  },
+  {
+    "id": 3090132,
+    "ep_num": 309,
+    "segment": 10,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "...You don't make a macaroni picture of the Last Supper at a Jewish camp! What the Jeez?  Oh my God, it's that bear they've been talking about!  Where did it go?! Squirts, go grab your gear! We're gonna hunt us a bear! Then I'll get my Chutzpah badge for sure!"
+  },
+  {
+    "id": 3090133,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Chamber of Elders"
+  },
+  {
+    "id": 3090134,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Elehem hav dorim, ashoseveh laoleinu. Hakadosh boruku, omasheh hachreit. (Tonight, for the meteor shower, we will pray to Moses. Then we will give Moses thanks.)"
+  },
+  {
+    "id": 3090135,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Oh, enough already? What has Moses ever done for us?"
+  },
+  {
+    "id": 3090136,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "All sects of Judaism follow the words of Moses."
+  },
+  {
+    "id": 3090137,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Not mine. Tonight's meteor shower is a sign of the New Time, heh. We should use it to pray to Haman and enter into a new millennium faith, and ih-"
+  },
+  {
+    "id": 3090138,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Enough, elder! You will not speak the name of Haman here!"
+  },
+  {
+    "id": 3090139,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "All you ever do is worship Moses, but it says in the Book of Centuries that Haman will one day lead the Jews."
+  },
+  {
+    "id": 3090140,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "We pray to Moses here, elder."
+  },
+  {
+    "id": 3090141,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "If you guys love Moses so much, why don't you marry him?!"
+  },
+  {
+    "id": 3090142,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "We accept all denominations of Judaism here at Scouts, elder, but your synagogue of anti-Semites is too strange! Get out and do not return: you are no longer welcome here!"
+  },
+  {
+    "id": 3090143,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Fine!  Jewbilee is the time of Haman! You will all see how wrong you are, very soon! When Haman returns from the Ninth Tower of Disillusionment, and smotes Moses and all his followers into pillars of dust that would cry for their petty lives but can't, having recently been turned into dust and all, you will see! You will see thie very night!"
+  },
+  {
+    "id": 3090144,
+    "ep_num": 309,
+    "segment": 11,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Hello!"
+  },
+  {
+    "id": 3090145,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Campfire. The Jew Scouts form a ring around it and sit. Kyle and Kenny stand behind the chief elder."
+  },
+  {
+    "id": 3090146,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Come on, Kenny. You have to get in the circle."
+  },
+  {
+    "id": 3090147,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(What the fuck are we doing?)"
+  },
+  {
+    "id": 3090148,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "This is where we all stand in a circle and pray to Moses for guidance during Jewbilee."
+  },
+  {
+    "id": 3090149,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Uheheheheh, that's stupid.)"
+  },
+  {
+    "id": 3090150,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "It is not stupid, Kenny! This is my faith and you shouldn't make fun of it!"
+  },
+  {
+    "id": 3090151,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Alright, Jew Scouts, the meteor shower will start soon. Let's pray to Moses for guidance.  Moses, great leader, on this blessed night of Jewbilee, we ask for your tutelage."
+  },
+  {
+    "id": 3090152,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "THE SCOUTS",
+    "text": "May the teachings of Moses fill our ears and our hearts respectively."
+  },
+  {
+    "id": 3090153,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "ALL",
+    "text": "O."
+  },
+  {
+    "id": 3090154,
+    "ep_num": 309,
+    "segment": 12,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Stupid assholes. Moses ain't gonna teach them anything!  Do not fear, Haman. This night shall be yours, and the anti-Semitic Jews will once again rule the Earth."
+  },
+  {
+    "id": 3090155,
+    "ep_num": 309,
+    "segment": 13,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Squirts and their leader march through the woods"
+  },
+  {
+    "id": 3090156,
+    "ep_num": 309,
+    "segment": 13,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "We are Squirts, we are Squirts. We're so kosher that it hurts."
+  },
+  {
+    "id": 3090157,
+    "ep_num": 309,
+    "segment": 13,
+    "title": "JEWBILEE",
+    "role": "When we get older we'll be Scouts, but until then we are Squirts.",
+    "text": ""
+  },
+  {
+    "id": 3090158,
+    "ep_num": 309,
+    "segment": 13,
+    "title": "JEWBILEE",
+    "role": "MATTHEW",
+    "text": "Oh, funt.  No!"
+  },
+  {
+    "id": 3090159,
+    "ep_num": 309,
+    "segment": 13,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Oh, no!  Oh, God!  Oh, the bear took a Squirt. Oh, I'm gonna get it now!"
+  },
+  {
+    "id": 3090160,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "Back at the campfire, the Scouts are trying to summon Moses"
+  },
+  {
+    "id": 3090161,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "ALL",
+    "text": "O."
+  },
+  {
+    "id": 3090162,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(What's happening now?)"
+  },
+  {
+    "id": 3090163,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Sh. Shut up, Kenny."
+  },
+  {
+    "id": 3090164,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(WHAT THE FUCK IS THAT?!)"
+  },
+  {
+    "id": 3090165,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "That's Moses, stupid!"
+  },
+  {
+    "id": 3090166,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Great Moses, we, your most loyal followers, want to thank you a lot for coming."
+  },
+  {
+    "id": 3090167,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "The hour of Jewbilee is near. Let all debts be forgiven and all slaves freed. Mwaaaaaaaaaah!"
+  },
+  {
+    "id": 3090168,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "ALL",
+    "text": "Aaaaaaaaaah!"
+  },
+  {
+    "id": 3090169,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Alright Scouts, let's all show Moses our soap sculptures so that he may rejoice and be pleased."
+  },
+  {
+    "id": 3090170,
+    "ep_num": 309,
+    "segment": 14,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "It's a duck."
+  },
+  {
+    "id": 3090171,
+    "ep_num": 309,
+    "segment": 15,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "Behind the tree. Garth reads from the Book of Centuries"
+  },
+  {
+    "id": 3090172,
+    "ep_num": 309,
+    "segment": 15,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "And it was foretold that the spirit of Moses would finally rest when his spirit was imprisoned by Haman in a conch shell of blind faith. Conch shell, like this one, hnee."
+  },
+  {
+    "id": 3090173,
+    "ep_num": 309,
+    "segment": 16,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Campfire."
+  },
+  {
+    "id": 3090174,
+    "ep_num": 309,
+    "segment": 16,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Moses, the Squirts have made you tidings of macaroni pictures. They should be here any second.  Where the hell are the Squirts?  We need those macaroni pictures for Moses right now!"
+  },
+  {
+    "id": 3090175,
+    "ep_num": 309,
+    "segment": 17,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The woods. The Squirt leader is setting a trap for the bear. He places some bait on a tray swinging from a rope as the Squirts hold the rope steady from behind a bush. Then he pours some DED RAT grains onto the bait"
+  },
+  {
+    "id": 3090176,
+    "ep_num": 309,
+    "segment": 17,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Now, we'll just see how Mr. Bear likes rat poison.  Well now, that'll be enough to kill a stupid bear. Okay, raise the tray!  Chutzpah badge, here I come. Yikes!  Okay, here he comes. Easy now. Easy, Squirts.  Okay, Squirt, lower the tray.  That's it. That's it, you God-damned stupid bearface!"
+  },
+  {
+    "id": 3090177,
+    "ep_num": 309,
+    "segment": 17,
+    "title": "JEWBILEE",
+    "role": "SQUIRT",
+    "text": "Aaah!  Ah!  AAAAH!"
+  },
+  {
+    "id": 3090178,
+    "ep_num": 309,
+    "segment": 17,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Jesus! Hell, he got another Squirt!"
+  },
+  {
+    "id": 3090179,
+    "ep_num": 309,
+    "segment": 17,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Mommy."
+  },
+  {
+    "id": 3090180,
+    "ep_num": 309,
+    "segment": 17,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "You think you can stop me from getting my Chutzpah badge, you stupid bear?! Think again!"
+  },
+  {
+    "id": 3090181,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Campfire. The Scouts now sing \"Kumbaya,\" a spiritual"
+  },
+  {
+    "id": 3090182,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ALL",
+    "text": "Kumbaya, my Lord, Kumbaya. O Lord, Kumbaya."
+  },
+  {
+    "id": 3090183,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Great and honorable Moses, what do you desire from us, your children?"
+  },
+  {
+    "id": 3090184,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "I desire...  I desire... mamaroni pictures."
+  },
+  {
+    "id": 3090185,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Yeh yes, yes, the macaroni pictures are coming right away. Uh, anything else you want from us, O great leader of the people?"
+  },
+  {
+    "id": 3090186,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "I desire... popcorn necklaces."
+  },
+  {
+    "id": 3090187,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "You heard him. Get to making popcorn necklaces right away!  All you need is some popcorn, and a needle and thread."
+  },
+  {
+    "id": 3090188,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "Hold!  There is... an impurity."
+  },
+  {
+    "id": 3090189,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "GARTH",
+    "text": "Oh no, he's on to me, Haman."
+  },
+  {
+    "id": 3090190,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "An impurity, Moses?"
+  },
+  {
+    "id": 3090191,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "This child here is not kosher."
+  },
+  {
+    "id": 3090192,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Uh oh.)  (Help me, Kyle! What are we gonna do?)"
+  },
+  {
+    "id": 3090193,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Don't worry. I know what to do."
+  },
+  {
+    "id": 3090194,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Scout Broflovski, have you defiled Jew Scouts by bringing a non-Hebrew to Jewbilee?!"
+  },
+  {
+    "id": 3090195,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Elder, It's not my fault. He told me he was Jewish."
+  },
+  {
+    "id": 3090196,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(What?!)"
+  },
+  {
+    "id": 3090197,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "A non-Jew has inflitrated Jew Scouts and looked upon the face of Moses! He must be dealt with!"
+  },
+  {
+    "id": 3090198,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(I'm telling you, it's Kyle you want. He's the one who tried to get me in here, and you know it.)"
+  },
+  {
+    "id": 3090199,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "You are banished from here. You must leave before the great eating of carrot cake."
+  },
+  {
+    "id": 3090200,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(What?!)"
+  },
+  {
+    "id": 3090201,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "He doesn't get cake??"
+  },
+  {
+    "id": 3090202,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "No cake for the impurity!"
+  },
+  {
+    "id": 3090203,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Go now. You do not belong here."
+  },
+  {
+    "id": 3090204,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "Aaaaaaaah!"
+  },
+  {
+    "id": 3090205,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Infatu camdavid. David hakum ba'ikan shtud!"
+  },
+  {
+    "id": 3090206,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": ":\tElder, what are you doing?!"
+  },
+  {
+    "id": 3090207,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Shtud balaa shtud inca inca brusht!"
+  },
+  {
+    "id": 3090208,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "He's reading from the Book of Haman!"
+  },
+  {
+    "id": 3090209,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Enter the conch shell, Moses!"
+  },
+  {
+    "id": 3090210,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "Eo! Eh! Diu!"
+  },
+  {
+    "id": 3090211,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "And there you shall stay, trapped for all eternity!"
+  },
+  {
+    "id": 3090212,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Elder, what have you done?"
+  },
+  {
+    "id": 3090213,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "I told you, the meteor shower is the time of Haman! I am running Jewbilee now!"
+  },
+  {
+    "id": 3090214,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Release Moses, now!"
+  },
+  {
+    "id": 3090215,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "I don't think so!"
+  },
+  {
+    "id": 3090216,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "SCOUT",
+    "text": "When do we get to eat carrot cake?"
+  },
+  {
+    "id": 3090217,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Now. All of you into that building, or I shoot you where you stand!"
+  },
+  {
+    "id": 3090218,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "Elder, you cannot mean-."
+  },
+  {
+    "id": 3090219,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Move!"
+  },
+  {
+    "id": 3090220,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "Now! Now, Haman, your time has come!",
+    "text": ""
+  },
+  {
+    "id": 3090221,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Dude, what the hell is going on?!"
+  },
+  {
+    "id": 3090222,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "If he summons Haman, we will all be destroyed."
+  },
+  {
+    "id": 3090223,
+    "ep_num": 309,
+    "segment": 18,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Oh no!)"
+  },
+  {
+    "id": 3090224,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The woods. The Squirts still march"
+  },
+  {
+    "id": 3090225,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "We are Jew Squirts, we know Jewish"
+  },
+  {
+    "id": 3090226,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "Stick stick smiley smiley Stick stick smiley smiley",
+    "text": ""
+  },
+  {
+    "id": 3090227,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "dur dur dur dur dur-",
+    "text": ""
+  },
+  {
+    "id": 3090228,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "Hold it, Squirts! This is where we'll set our trap. Everyone ",
+    "text": "remember your squadron. Alpha-5 and Gamma-7 will be on recon teams. Alpha will take left flank and flush the bear out of sector three. Once we're in position, I want constant contact between all squad leaders. We'll flush him out and we'll attack him! [the bear comes up silently and snatches another Squirt]"
+  },
+  {
+    "id": 3090229,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "SQUIRT",
+    "text": "Ah! Aaaah!"
+  },
+  {
+    "id": 3090230,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Remember, this is only a bear. All we have to do is stick together, and we can spend the rest of the night making bear sandwiches!  Where's Zigmo?"
+  },
+  {
+    "id": 3090231,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "IKE",
+    "text": "Noh."
+  },
+  {
+    "id": 3090232,
+    "ep_num": 309,
+    "segment": 19,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "God-damnit! You stupid God-damned son of a bear, you've taken your last Squirt! Do you hear me?!"
+  },
+  {
+    "id": 3090233,
+    "ep_num": 309,
+    "segment": 20,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The Campire. Elder Garth is kneeling before it, summoning Haman."
+  },
+  {
+    "id": 3090234,
+    "ep_num": 309,
+    "segment": 20,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "And the Ancient One looked upon Haman as the new leader of the people!  And it was the night that stars flew around the sky!  Yes! Yess!!"
+  },
+  {
+    "id": 3090235,
+    "ep_num": 309,
+    "segment": 20,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "If he summons Haman, it will be the end of everything we hold dear."
+  },
+  {
+    "id": 3090236,
+    "ep_num": 309,
+    "segment": 20,
+    "title": "JEWBILEE",
+    "role": "SCOUT",
+    "text": "I wanna go home."
+  },
+  {
+    "id": 3090237,
+    "ep_num": 309,
+    "segment": 21,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The road. Kenny walks along the curb, then sees reflections of headlights in front of him. He turns to see a car coming and tries to stop it"
+  },
+  {
+    "id": 3090238,
+    "ep_num": 309,
+    "segment": 21,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Stop!)  (Officer Barbrady, I really need to talk to you!)  (Shit!)"
+  },
+  {
+    "id": 3090239,
+    "ep_num": 309,
+    "segment": 22,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The woods. The Squirt leader takes the Squirts back to camp."
+  },
+  {
+    "id": 3090240,
+    "ep_num": 309,
+    "segment": 22,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "That bear thinks he can outsmart me! Well, I'm not gonna let a stupid bear get the-  Hold! Look over there!  It's one of the Squirts the bear took. Maybe he's okay.  IT'S A TRAP!!  Damn! Damn damn damn! Okay, bear, that does it! You wanna kill all the Squirts?! You can have 'em! I give up! I don't need my Chutzpah badge, or Jew Scouts, or any of this crap! Forget it!"
+  },
+  {
+    "id": 3090241,
+    "ep_num": 309,
+    "segment": 23,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The campfire. The meteor shower continues"
+  },
+  {
+    "id": 3090242,
+    "ep_num": 309,
+    "segment": 23,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Let the New Tide turn! Let Haman rule his people once again!"
+  },
+  {
+    "id": 3090243,
+    "ep_num": 309,
+    "segment": 23,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "No!"
+  },
+  {
+    "id": 3090244,
+    "ep_num": 309,
+    "segment": 23,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "We await your return, Haman!  Your passage is safe from the enemies!"
+  },
+  {
+    "id": 3090245,
+    "ep_num": 309,
+    "segment": 23,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Ah!)"
+  },
+  {
+    "id": 3090246,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The building. The chief elder tries to burst through the door, but fails"
+  },
+  {
+    "id": 3090247,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "CHIEF ELDER",
+    "text": "It's hopeless."
+  },
+  {
+    "id": 3090248,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Haman will be summoned and we will be forced to obey him, or die."
+  },
+  {
+    "id": 3090249,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "Uh I'm fine with obeying."
+  },
+  {
+    "id": 3090250,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "ELDER",
+    "text": "Yeah, obeying should work out swell."
+  },
+  {
+    "id": 3090251,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Don't worry, you guys. He forgot about Kenny. Kenny will help us."
+  },
+  {
+    "id": 3090252,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "ELDER 2",
+    "text": "How?"
+  },
+  {
+    "id": 3090253,
+    "ep_num": 309,
+    "segment": 24,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Kenny will find a way."
+  },
+  {
+    "id": 3090254,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The bear cave. The bear brings Kenny in."
+  },
+  {
+    "id": 3090255,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Haaarrrrrh!)  (Huh?)"
+  },
+  {
+    "id": 3090256,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "SQUIRT",
+    "text": "Hey, welcome to the party.  See this li'l bear cub? It's his birthday."
+  },
+  {
+    "id": 3090257,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "SQUIRT 2",
+    "text": "Yeah, so his mommy brought us all over to play with him."
+  },
+  {
+    "id": 3090258,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "BEAR CUB",
+    "text": "Mrar."
+  },
+  {
+    "id": 3090259,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Aw.)  (Okay, you guys, we've gotta get back to the camp and ...)"
+  },
+  {
+    "id": 3090260,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "SQUIRT",
+    "text": "They are? Uh oh."
+  },
+  {
+    "id": 3090261,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Come on, Squirts, we gotta run! We're already God-damned late!)"
+  },
+  {
+    "id": 3090262,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "SQUIRT",
+    "text": "Come on, Squirts. We have to help them."
+  },
+  {
+    "id": 3090263,
+    "ep_num": 309,
+    "segment": 25,
+    "title": "JEWBILEE",
+    "role": "ALL",
+    "text": "Yeah!"
+  },
+  {
+    "id": 3090264,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The camp. The Squirt leader returns alone"
+  },
+  {
+    "id": 3090265,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SQUIRT LEADER",
+    "text": "Elder Schwartz, I lost the Squirts! I lost all the Squirts!  Well, screw you too! I don't need your Chutzpah badge anyway! Hello?"
+  },
+  {
+    "id": 3090266,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "Elder Schwartz\t[the chief elder] Shlomo, get us out of here!",
+    "text": ""
+  },
+  {
+    "id": 3090267,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SHLOMO",
+    "text": "What the Jeez?  What are you guys doing in there?"
+  },
+  {
+    "id": 3090268,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "Elder Schwartz\tGet the keys and unlock the door! [the Scouts ",
+    "text": "jump up and down]"
+  },
+  {
+    "id": 3090269,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SCHLOMO",
+    "text": "What?!"
+  },
+  {
+    "id": 3090270,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER SCHWARTZ",
+    "text": "Get the keys and unlock the door!"
+  },
+  {
+    "id": 3090271,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SCHLOMO",
+    "text": "I lost the Squirts!"
+  },
+  {
+    "id": 3090272,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER SCHWARTZ",
+    "text": "Look out!"
+  },
+  {
+    "id": 3090273,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SCHLOMO",
+    "text": "Huh?"
+  },
+  {
+    "id": 3090274,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Don't move!"
+  },
+  {
+    "id": 3090275,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SCHLOMO",
+    "text": "Oh, Jiminy gravy, what is this??"
+  },
+  {
+    "id": 3090276,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "It's the summoning of Haman, fool! The awakening of a new kingdom, heeheh!"
+  },
+  {
+    "id": 3090277,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SCHLOMO",
+    "text": "You can't wake Haman. What would Moses say?"
+  },
+  {
+    "id": 3090278,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Moses is trapped for all eternity in the conch of blind faith!"
+  },
+  {
+    "id": 3090279,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SCHLOMO",
+    "text": "Oh, no you don't!  OOWW!!"
+  },
+  {
+    "id": 3090280,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Enough of this waste of time!  Haman! The Great Summoning is done! Upon these words let your spirit come! Einich! Hos!"
+  },
+  {
+    "id": 3090281,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER SCHWARTZ",
+    "text": "It is lost."
+  },
+  {
+    "id": 3090282,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Zayak. Kareem!"
+  },
+  {
+    "id": 3090283,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Woohoo!)"
+  },
+  {
+    "id": 3090284,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Hey, give that back!"
+  },
+  {
+    "id": 3090285,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER SCHWARTZ",
+    "text": "It's the Squirts."
+  },
+  {
+    "id": 3090286,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Go, Ike!"
+  },
+  {
+    "id": 3090287,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER SCHWARTZ",
+    "text": "Unlock the door, Squirts! The keys are up there."
+  },
+  {
+    "id": 3090288,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "They'll never reach."
+  },
+  {
+    "id": 3090289,
+    "ep_num": 309,
+    "segment": 26,
+    "title": "JEWBILEE",
+    "role": "SQUIRT",
+    "text": "Squirts, fall in. Chinese formation."
+  },
+  {
+    "id": 3090290,
+    "ep_num": 309,
+    "segment": 27,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The woods. Elder Garth catches up to Kenny"
+  },
+  {
+    "id": 3090291,
+    "ep_num": 309,
+    "segment": 27,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Give me that book!"
+  },
+  {
+    "id": 3090292,
+    "ep_num": 309,
+    "segment": 27,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Ow!)"
+  },
+  {
+    "id": 3090293,
+    "ep_num": 309,
+    "segment": 27,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Haman will deal with you!"
+  },
+  {
+    "id": 3090294,
+    "ep_num": 309,
+    "segment": 27,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Ow!)"
+  },
+  {
+    "id": 3090295,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "description",
+    "text": "The camp. The Squirts have finished the pillar, with Ike at the very top. Ike gets the key and the pillar falls apart to form two rows of four Squirts each, and Ike alone at the top of the steps. He jumps up to the padlock and unlocks it. He then removes the lock. The door opens and everyone inside pours out. Elder Harris moves out into the open"
+  },
+  {
+    "id": 3090296,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "Oh, no. It's too late!"
+  },
+  {
+    "id": 3090297,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Ramek shtud!"
+  },
+  {
+    "id": 3090298,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "What is that?"
+  },
+  {
+    "id": 3090299,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER SCHWARTZ",
+    "text": "It is Haman."
+  },
+  {
+    "id": 3090300,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Yes! Yes!"
+  },
+  {
+    "id": 3090301,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "HAMAN",
+    "text": "Free! Free to punish those that imprisoned me!"
+  },
+  {
+    "id": 3090302,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Haman! It's me, Garth! I freed you!"
+  },
+  {
+    "id": 3090303,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Look!"
+  },
+  {
+    "id": 3090304,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(It's okay, I'll use my head!)"
+  },
+  {
+    "id": 3090305,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Kenny! Noooooo!"
+  },
+  {
+    "id": 3090306,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "KENNY",
+    "text": "(Heeeeeyah! Ugh!)"
+  },
+  {
+    "id": 3090307,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "HAMAN",
+    "text": "Moses! Nooo!"
+  },
+  {
+    "id": 3090308,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "Nooo! Eheh. Nooo!  Moses. Uh I, I apologize for any inconvenience, eheh. Uh yuh you see, I was just uh-"
+  },
+  {
+    "id": 3090309,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "Die!"
+  },
+  {
+    "id": 3090310,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER GARTH",
+    "text": "No! Aaaaaah! Ooww!"
+  },
+  {
+    "id": 3090311,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ALL",
+    "text": "Hooray!"
+  },
+  {
+    "id": 3090312,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "Kenny!"
+  },
+  {
+    "id": 3090313,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "That blow to his head must have killed him."
+  },
+  {
+    "id": 3090314,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER CARN",
+    "text": "He saved us. He saved all the Jews."
+  },
+  {
+    "id": 3090315,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "KYLE",
+    "text": "You know, I think we all learned something today. It's fine to have your own beliefs and your own traditions, but as soon as you start excluding people from your ways, only because of their race, you become separatists. And being a separatist sucks ass."
+  },
+  {
+    "id": 3090316,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "We've learned a lot from you and your great friend, Kenny."
+  },
+  {
+    "id": 3090317,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "Every year we shall gather here in this special place and bring Kenny tidings of soap sculptures and macaroni pictures."
+  },
+  {
+    "id": 3090318,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "Yes."
+  },
+  {
+    "id": 3090319,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "And those little shaker things where... you put beans inside of paper plates that are glued together."
+  },
+  {
+    "id": 3090320,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER HARRIS",
+    "text": "Paper-plate bean shakers."
+  },
+  {
+    "id": 3090321,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "MOSES",
+    "text": "And let us put patterns of glue on the outside of those paper plates so we can then pour glitter on them so they can look nice and sparkly."
+  },
+  {
+    "id": 3090322,
+    "ep_num": 309,
+    "segment": 28,
+    "title": "JEWBILEE",
+    "role": "ELDER SCHWARTZ",
+    "text": "You heard him, Scouts! Let's get to work!"
+  }
+]

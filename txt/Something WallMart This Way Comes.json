@@ -1,0 +1,2146 @@
+[
+  {
+    "id": 8090001,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "South Park, day. A lovely tree appears and the camera pans down to street level. Stan and friends are on the sidewalk across the street moving along."
+  },
+  {
+    "id": 8090002,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "You guys know what? Um, the last thing you do when you die, is crap your pants."
+  },
+  {
+    "id": 8090003,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "...What?"
+  },
+  {
+    "id": 8090004,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Yeah, when you die, your jowels release and crap comes flying out your ass."
+  },
+  {
+    "id": 8090005,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "That is fucking stupid, Cartman!"
+  },
+  {
+    "id": 8090006,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Oh yeah?! I'll bet you five bucks that when you die you crap your pants, asshole!"
+  },
+  {
+    "id": 8090007,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. GARRISON",
+    "text": "Hey everybody, it's time!  It's time!"
+  },
+  {
+    "id": 8090008,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "TOWNSFOLK",
+    "text": "It's time. Oh, it's time? It's happening. It's happening now? Let's go!"
+  },
+  {
+    "id": 8090009,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "It's time for what?"
+  },
+  {
+    "id": 8090010,
+    "ep_num": 809,
+    "segment": 1,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. GARRISON",
+    "text": "Get down to Metzger's Field! It's about to happen!"
+  },
+  {
+    "id": 8090011,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Metzger's Field, later. A man is speaking to the crowd gathered there."
+  },
+  {
+    "id": 8090012,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "OFFICIAL",
+    "text": "People of South Park I am pleased to be with you on this most historic day. A day you were certainly all remember... as the day your town... became great. The grand opening of the first South Park... WALL*MART!"
+  },
+  {
+    "id": 8090013,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Look at it, honey. It's so big."
+  },
+  {
+    "id": 8090014,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. GARRISON",
+    "text": "It's like we're a real town now."
+  },
+  {
+    "id": 8090015,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Whoa, awesome!"
+  },
+  {
+    "id": 8090016,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Hey! Isn't there where Stark's Pond used to be? Where we used to kayak and fish?"
+  },
+  {
+    "id": 8090017,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MAN",
+    "text": "Yeah! Now it's a Wall*Mart!"
+  },
+  {
+    "id": 8090018,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "OFFICIAL",
+    "text": "I know that with the opening of the South Park branch of Wall*Mart, you will all see your town completely change... Now, shop friends. Shop!"
+  },
+  {
+    "id": 8090019,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "It's beautiful!"
+  },
+  {
+    "id": 8090020,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "GRAMPA MARSH",
+    "text": "Welcome to Wall*Mart. Welcome to Wall*Mart. ...Welcome to Wall*Mart."
+  },
+  {
+    "id": 8090021,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE'S MOTHER",
+    "text": "Sharon, isn't that your father?"
+  },
+  {
+    "id": 8090022,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "SHARON",
+    "text": "Yes. Wall*Mart is the leading employer of seniors. And they also employ the handicapped."
+  },
+  {
+    "id": 8090023,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "JIMMY",
+    "text": "Hello, Mrs. M-marsh. Can I help g... Can I help you get a sh- shopping cart today?"
+  },
+  {
+    "id": 8090024,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "SHARON",
+    "text": "Why yes I'd love one, Jimmy."
+  },
+  {
+    "id": 8090025,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CHEF",
+    "text": "My God. Look at all these incedible bargains."
+  },
+  {
+    "id": 8090026,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Dude, check it out! Time Cop on DVD. Three copies for eighteen bucks!"
+  },
+  {
+    "id": 8090027,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Why the hell would you want three copies of the same movie?"
+  },
+  {
+    "id": 8090028,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Because one copy is nine ninety-eight! But this way you save like twenty bucks!"
+  },
+  {
+    "id": 8090029,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "You only need one copy, artard!"
+  },
+  {
+    "id": 8090030,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Okay, fine, dumbass, YOU go ahead and buy one copy for nine ninety-eight!"
+  },
+  {
+    "id": 8090031,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Okay, fine, I will!  Huh, wait a minute! I don't even want ONE copy of Time Cop!"
+  },
+  {
+    "id": 8090032,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Dude, you can't shop for crap."
+  },
+  {
+    "id": 8090033,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WOMAN 1",
+    "text": "I can't believe these bargains."
+  },
+  {
+    "id": 8090034,
+    "ep_num": 809,
+    "segment": 2,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "OFFICIAL",
+    "text": "Fools. Ignorant fools."
+  },
+  {
+    "id": 8090035,
+    "ep_num": 809,
+    "segment": 3,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "The Marsh house, night. The living room has been redecorated with items got from Wall*Mart. The family is enjoying snacks in fancy plasticware"
+  },
+  {
+    "id": 8090036,
+    "ep_num": 809,
+    "segment": 3,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Just look at the Marsh family, huh? Brand-new television, new plastic dishware and cups, and enough bulk-buy ramen to last us a thousand winters."
+  },
+  {
+    "id": 8090037,
+    "ep_num": 809,
+    "segment": 3,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dad, how come Wall*Mart is able to sell everything so cheap?"
+  },
+  {
+    "id": 8090038,
+    "ep_num": 809,
+    "segment": 3,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "It's simple economics, son. I don't understand it at all, but, God I love it."
+  },
+  {
+    "id": 8090039,
+    "ep_num": 809,
+    "segment": 4,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "The Marsh house, later. The house is asleep; Randy is dreaming, and reacting to his dreams."
+  },
+  {
+    "id": 8090040,
+    "ep_num": 809,
+    "segment": 4,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WHISPERS",
+    "text": "six nienty-nine, fifteen dollars, etc."
+  },
+  {
+    "id": 8090041,
+    "ep_num": 809,
+    "segment": 4,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "AAAH!  Yeaaah..."
+  },
+  {
+    "id": 8090042,
+    "ep_num": 809,
+    "segment": 4,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "SHARON",
+    "text": "Randy, what are you doing?"
+  },
+  {
+    "id": 8090043,
+    "ep_num": 809,
+    "segment": 4,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Anu-nothing!  I'ma I'ma, I'm just gonna head down to the Wall*Mart real quick."
+  },
+  {
+    "id": 8090044,
+    "ep_num": 809,
+    "segment": 4,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "SHARON",
+    "text": "It's almost midnight."
+  },
+  {
+    "id": 8090045,
+    "ep_num": 809,
+    "segment": 4,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Yeah, think about it. If I go there now, there won't be anybody else there. I can all the bargains to myself!"
+  },
+  {
+    "id": 8090046,
+    "ep_num": 809,
+    "segment": 5,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Wall*Mart, midnight. Randy enters dressed in pajamas and robe, only to find more shoppers in there. Wall*Mart never closes, and it's never empty. An elderly lady greets him"
+  },
+  {
+    "id": 8090047,
+    "ep_num": 809,
+    "segment": 5,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "ELDERLY WOMAN",
+    "text": "Thanks for coming to Wall*Mart.  All are welcome. All are welcome!"
+  },
+  {
+    "id": 8090048,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Next morning, the boys are on a sidewalk heading towards downtown"
+  },
+  {
+    "id": 8090049,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Excuse me! Hello! Can somebody tell my why we're going to Jim's Drugs to buy Voltar cards when Wall*Mart has them for three bucks cheaper?"
+  },
+  {
+    "id": 8090050,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Dude, I can't deal with Wall*Mart right now. My parents had me there for three hours last night."
+  },
+  {
+    "id": 8090051,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "JIM",
+    "text": "Oh, sorry boys. I'm going out of business."
+  },
+  {
+    "id": 8090052,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Why, Mr. Farkle?"
+  },
+  {
+    "id": 8090053,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. FARKLE",
+    "text": "I can't compete with Wall*Mart's low prices. Everyone is shopping there now, and... well, I can make ends meet. I've got to sell the store and try to find another line of work."
+  },
+  {
+    "id": 8090054,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Cartman, stop it!"
+  },
+  {
+    "id": 8090055,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "What? I just felt like playing a little violin, Kyle."
+  },
+  {
+    "id": 8090056,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. FARKLE",
+    "text": "I appreciate your business, boys, but you'll have to try somewhere else in town."
+  },
+  {
+    "id": 8090057,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "See? That sucks, dude!"
+  },
+  {
+    "id": 8090058,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "That's called progress, Kyle."
+  },
+  {
+    "id": 8090059,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yeah, but what about all the people getting laid off from the grocery stores? And what about all the-"
+  },
+  {
+    "id": 8090060,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "... Whatever. I can go get another one at Wall*Mart. It was only five bucks."
+  },
+  {
+    "id": 8090061,
+    "ep_num": 809,
+    "segment": 6,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Come on, let's go to Main Street and support one of those stores."
+  },
+  {
+    "id": 8090062,
+    "ep_num": 809,
+    "segment": 7,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Downtown, later. The boys arrive at Main Street and are startled"
+  },
+  {
+    "id": 8090063,
+    "ep_num": 809,
+    "segment": 7,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "What the hell?"
+  },
+  {
+    "id": 8090064,
+    "ep_num": 809,
+    "segment": 7,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Butters?"
+  },
+  {
+    "id": 8090065,
+    "ep_num": 809,
+    "segment": 7,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Butters? Uh what the hell are you doing?"
+  },
+  {
+    "id": 8090066,
+    "ep_num": 809,
+    "segment": 7,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "BUTTERS",
+    "text": "Wull ah I'm just playin' Monster. It's kinda spooky out here."
+  },
+  {
+    "id": 8090067,
+    "ep_num": 809,
+    "segment": 7,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dude, we gotta show our parents what Wall*Mart is doing to our town."
+  },
+  {
+    "id": 8090068,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "The Marsh house, later. Stan, Kyle, and Kenny enter to find a house stuffed with Wall*Mart items."
+  },
+  {
+    "id": 8090069,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dad?  Jesus Christ, Dad. Dad??"
+  },
+  {
+    "id": 8090070,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "So-o-o-o-on?"
+  },
+  {
+    "id": 8090071,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dad, oh my God!"
+  },
+  {
+    "id": 8090072,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Son..."
+  },
+  {
+    "id": 8090073,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "What? D-dad, are are you dying?"
+  },
+  {
+    "id": 8090074,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "No, I'm just... really really tired. I... was shopping at Wall*Mart all night."
+  },
+  {
+    "id": 8090075,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "But you-your face!"
+  },
+  {
+    "id": 8090076,
+    "ep_num": 809,
+    "segment": 8,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Checkout line... They had these... little stickers filled with glitter! They were only ninety nine cents for 15 of them. I couldn't resist! Do you want one? Here. It's a little turtle."
+  },
+  {
+    "id": 8090077,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Wall*Mart, later. Shopping continues as usual. In his office, the official, now store manager, reaches into his desk drawer and pulls out a bottle of liquor. He takes two sips and quickly hides it when he hears a knock at his door"
+  },
+  {
+    "id": 8090078,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MANAGER",
+    "text": "Come in?  Oh hello, fine shoppers."
+  },
+  {
+    "id": 8090079,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CHEF",
+    "text": "Sir, we just had a big town meeting, and decided we don't want your Wall*Mart here anymore."
+  },
+  {
+    "id": 8090080,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "We're sorry, but it seems our Main Street is dying and good people are losing their jobs. We'd all like you... out of South Park."
+  },
+  {
+    "id": 8090081,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MANAGER",
+    "text": "Well  What? What, you think I want to be here? I hate this place. But it... won't let me leave."
+  },
+  {
+    "id": 8090082,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "But you run the Wall*Mart."
+  },
+  {
+    "id": 8090083,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MANAGER",
+    "text": "Oh you're wrong!  Wall*Mart... isn't run by anybody! First it reels you in with its bargains. Next thing you know you, you're workingbe at the Wall*Mart because it has all the jobs. Then you're sitting in a little office, trapped on all sides."
+  },
+  {
+    "id": 8090084,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CHEF",
+    "text": "They why don't you just quit?!"
+  },
+  {
+    "id": 8090085,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MANAGER",
+    "text": "Not so loud! It can hear you."
+  },
+  {
+    "id": 8090086,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "You hate Wall*Mart too?"
+  },
+  {
+    "id": 8090087,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MANAGER",
+    "text": "ACK!  I didn't say that! I love Wall*Mart! With all its... fantastic bargains and one-stop shopping, who can't love it, right?  Uh, Wa-Wall*Mart takes the hassle out of shopping and, and makes it both affordable and fun.  Ah- and Wall*Mart really gives back to the community! Us people are certainly happy to have a store like Wall*Mart, aren't we?"
+  },
+  {
+    "id": 8090088,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Hey, wait a minute, I think we just got squirreled."
+  },
+  {
+    "id": 8090089,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE'S FATHER",
+    "text": "Yeah. That guy probably thinks he can get us to go away by being so goofy!"
+  },
+  {
+    "id": 8090090,
+    "ep_num": 809,
+    "segment": 9,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Ha! You owe me five bucks, Kyle!"
+  },
+  {
+    "id": 8090091,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "The Marsh house, night. The family is at table waiting for dinner. Sharon walks in with"
+  },
+  {
+    "id": 8090092,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "SHARON",
+    "text": "Here we go, everyone. I got three nice steaks from South Park Grocery. We'll have to share them."
+  },
+  {
+    "id": 8090093,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Eh, I remember when we could afford to buy six steaks when we shopped at Wall*Mart."
+  },
+  {
+    "id": 8090094,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Yeah, but Dad, the whole town agreed not to shop at Wall*Mart anymore."
+  },
+  {
+    "id": 8090095,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "I know, I KNOW! GOD!!  BLEHH!"
+  },
+  {
+    "id": 8090096,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Mom, Dad, when people die, do they always crap their-"
+  },
+  {
+    "id": 8090097,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "SHELLEY",
+    "text": "Oh, you stupid turd!"
+  },
+  {
+    "id": 8090098,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Oh Jesus, a broken glass! Well, I don't see any choice now! We have to go to Wall*Mart!"
+  },
+  {
+    "id": 8090099,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "SHARON",
+    "text": "We do?"
+  },
+  {
+    "id": 8090100,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Huh! Where else are we gonna get a new glass at this hour?! Everyone get your shoes on, we're goin' to Wall*Mart!"
+  },
+  {
+    "id": 8090101,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "But Dad, we're not supposed to shop at-"
+  },
+  {
+    "id": 8090102,
+    "ep_num": 809,
+    "segment": 10,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Stan! One family buying one glass isn't gonna make a difference!"
+  },
+  {
+    "id": 8090103,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Wall*Mart, night. The Marsh family arrives and sees what Randy saw before"
+  },
+  {
+    "id": 8090104,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Hey...  Gerald, what are you doing?! We said we weren't going to shop at the Wall*Mart anymore!"
+  },
+  {
+    "id": 8090105,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE'S FATHER",
+    "text": "Well where else was I gonna get a napkin dispenser at nine thirty at night?"
+  },
+  {
+    "id": 8090106,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Mr. Garrison! Chef! Jimbo!  Now, come on people! What the hell is wrong with you?! Don't you see what you're all doing?!"
+  },
+  {
+    "id": 8090107,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. GARRISON",
+    "text": "Well what are you doing here, Randy?"
+  },
+  {
+    "id": 8090108,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "I came because I wanted to make sure nobody was shopping here."
+  },
+  {
+    "id": 8090109,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dad!"
+  },
+  {
+    "id": 8090110,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Oh all right, em maybe I was gonna buy a glass. One glass! ... And some chips... And butter.  And some new pliers."
+  },
+  {
+    "id": 8090111,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE'S FATHER",
+    "text": "Jesus! Look at us! We all don't like the Wall*Mart, but we can't stop coming here."
+  },
+  {
+    "id": 8090112,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "JIMBO",
+    "text": "It's like some mystical evil force."
+  },
+  {
+    "id": 8090113,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Yeah. This place has a power over us we can't resist! We have to find a way to put the South Park Wall*Mart out of business once and for all!"
+  },
+  {
+    "id": 8090114,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. GARRISON",
+    "text": "Let's burn it down!"
+  },
+  {
+    "id": 8090115,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CHEF",
+    "text": "No no no! Let's freeze it!"
+  },
+  {
+    "id": 8090116,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STEPHEN",
+    "text": "I think it's best we try to reason with it."
+  },
+  {
+    "id": 8090117,
+    "ep_num": 809,
+    "segment": 11,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "No! All we have to do is not shop at Wall*Mart anymore! If you want it to go away, all it takes is a little self-control and personal responsibility."
+  },
+  {
+    "id": 8090118,
+    "ep_num": 809,
+    "segment": 12,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Outside, later. The Wall*Mart is on fire and the shoppers are watching it burn"
+  },
+  {
+    "id": 8090119,
+    "ep_num": 809,
+    "segment": 12,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Kumbaya, my Lord, Kumbaya."
+  },
+  {
+    "id": 8090120,
+    "ep_num": 809,
+    "segment": 12,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "ALL",
+    "text": "Kumbaya, my Lord, Kumbaya. Kumbaya, my Lord..."
+  },
+  {
+    "id": 8090121,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Sidewalk, next day. The boys are walking along"
+  },
+  {
+    "id": 8090122,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "You butthole, Kyle. You just had to go and ruin everything, didn't you?"
+  },
+  {
+    "id": 8090123,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "It wasn't my idea to burn the Wall*Mart down."
+  },
+  {
+    "id": 8090124,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "No, but YOU got everyone all worked up! You're jealous of the Wall*Mart. You always hated it."
+  },
+  {
+    "id": 8090125,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Dude, our town is going to be better without the-  What the?"
+  },
+  {
+    "id": 8090126,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Oh, awesome!"
+  },
+  {
+    "id": 8090127,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "How... How did this happen?  Mom, Dad? Why are you shopping here?"
+  },
+  {
+    "id": 8090128,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE'S FATHER",
+    "text": "We can't destroy it, son. We have to learn to live with it."
+  },
+  {
+    "id": 8090129,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "A MAN",
+    "text": "Can I help you?"
+  },
+  {
+    "id": 8090130,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dad, what are you doing?!"
+  },
+  {
+    "id": 8090131,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "You get a discount working here. Ten percent. That means the bargains are even better."
+  },
+  {
+    "id": 8090132,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dad, you're a geologist!"
+  },
+  {
+    "id": 8090133,
+    "ep_num": 809,
+    "segment": 13,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "I'll make less money, sure, but... as long as I buy everything at Wall-Mart, it'll all even out. Don't you see? Wall*Mart isn't our enemy, it's our neighborhood friend."
+  },
+  {
+    "id": 8090134,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Outside. The boys walk away from Wall*Mart and see a driver lifting I-beams into place with his crane"
+  },
+  {
+    "id": 8090135,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Hey! Hey!  Who the hell told you to put this thing back up?!"
+  },
+  {
+    "id": 8090136,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "DRIVER",
+    "text": "Sorry kid, we've got orders from corporate headquarters."
+  },
+  {
+    "id": 8090137,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "But nobody wants a Wall*Mart here!"
+  },
+  {
+    "id": 8090138,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "DRIVER",
+    "text": "You're gonna have to talk to the higher-ups."
+  },
+  {
+    "id": 8090139,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Where are they?"
+  },
+  {
+    "id": 8090140,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "DRIVER",
+    "text": "Bentonville, Arkansas. That's where Wall*Mart started, that's where all the bigwigs are."
+  },
+  {
+    "id": 8090141,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Looks like we're gonna have to go to Arkansas. Come on, guys. We're gonna put a stop to Wall*Mart once and for all!"
+  },
+  {
+    "id": 8090142,
+    "ep_num": 809,
+    "segment": 14,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Whoa, Pixie Sticks, twenty-nine cents? Wall*Mart? ...Are you speaking to me? ...My friends? ...Trying to hurt you again?  Yes, Wall*Mart. I understand."
+  },
+  {
+    "id": 8090143,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Coyote Lines, night. Stan, Kyle, and Kenny are at the ticket booth"
+  },
+  {
+    "id": 8090144,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Three tickets to Bentonville, Arkansas, please."
+  },
+  {
+    "id": 8090145,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Wait guys! Hold on! I wanna go with you and help out."
+  },
+  {
+    "id": 8090146,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "No way! You wanna go with us so you can betray us at some point and keep us from destroying the Wall*Mart."
+  },
+  {
+    "id": 8090147,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Nuh uh."
+  },
+  {
+    "id": 8090148,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yeah huh! You wanna go with us so that later you go, \"Haha, I was working for Wall*Mart all along\" or something."
+  },
+  {
+    "id": 8090149,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "I AM NOT, Kyle!"
+  },
+  {
+    "id": 8090150,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dude, just let him come. The bus is about to leave."
+  },
+  {
+    "id": 8090151,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "All right, fine. Come on, fatass!"
+  },
+  {
+    "id": 8090152,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Haha. You fools have no idea that I wuold never let you hurt the Wall*Mart."
+  },
+  {
+    "id": 8090153,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "I heard that!"
+  },
+  {
+    "id": 8090154,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "You heard what?"
+  },
+  {
+    "id": 8090155,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "You said we have no idea that you're never let us hurt Wall*Mart!"
+  },
+  {
+    "id": 8090156,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "That's not what I said!"
+  },
+  {
+    "id": 8090157,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dude, come on!"
+  },
+  {
+    "id": 8090158,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "He is working for the Wall*Mart to stup us from succeeding!"
+  },
+  {
+    "id": 8090159,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dude, we have to go!"
+  },
+  {
+    "id": 8090160,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "God-damnit!"
+  },
+  {
+    "id": 8090161,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Well hurry up if you're coming, Cartman!"
+  },
+  {
+    "id": 8090162,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Hehe. You stupid fools have no idea that I'm actually working for the Wall*Mart to stup you from succeeding!"
+  },
+  {
+    "id": 8090163,
+    "ep_num": 809,
+    "segment": 15,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "Welcome to Bentonville, Home of Wall*Mart",
+    "text": ""
+  },
+  {
+    "id": 8090164,
+    "ep_num": 809,
+    "segment": 16,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "A bus pulls up to the store's headquarters and lets the four boys off"
+  },
+  {
+    "id": 8090165,
+    "ep_num": 809,
+    "segment": 16,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Goddamn that took a long time."
+  },
+  {
+    "id": 8090166,
+    "ep_num": 809,
+    "segment": 16,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "It would've been faster if Cartman hadn't slashed the tires!"
+  },
+  {
+    "id": 8090167,
+    "ep_num": 809,
+    "segment": 16,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "I did not! I wanna close Wall*Mart just as much as you guys do!"
+  },
+  {
+    "id": 8090168,
+    "ep_num": 809,
+    "segment": 17,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Corporate Headquarters, inside. A cavernous warehouse opens up before them, with busy workers, and a receptionist greets them"
+  },
+  {
+    "id": 8090169,
+    "ep_num": 809,
+    "segment": 17,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RECEPTIONIST",
+    "text": "Can I help you?"
+  },
+  {
+    "id": 8090170,
+    "ep_num": 809,
+    "segment": 17,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yeah. We've come to complain. We don't want a Wall*Mart in our town."
+  },
+  {
+    "id": 8090171,
+    "ep_num": 809,
+    "segment": 17,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RECEPTIONIST",
+    "text": "Who does? Nobody likes what the Wall*Mart does, but it keeps... right on doing it."
+  },
+  {
+    "id": 8090172,
+    "ep_num": 809,
+    "segment": 17,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "We want to talk to who's in charge."
+  },
+  {
+    "id": 8090173,
+    "ep_num": 809,
+    "segment": 17,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RECEPTIONIST",
+    "text": "In charge? I guess that would be Harvey Brown. He's the current president of Wall*Mart. One of the original creators."
+  },
+  {
+    "id": 8090174,
+    "ep_num": 809,
+    "segment": 17,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Where's he?"
+  },
+  {
+    "id": 8090175,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "An ashtray. A hand rubs spent cigarette butts into it. The camera pulls out to reveal the president and the boys, and lots of empty glasses of liquor."
+  },
+  {
+    "id": 8090176,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "HARVEY BROWN",
+    "text": "We... invented the Wall*Mart Super Center in 1987. The idea was simple: build a store for one-stop shopping where bulk purchases could keep prices incredibly low.  We didn't know what we were doing. In just four years, it was out of control."
+  },
+  {
+    "id": 8090177,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "So how do we stop it?"
+  },
+  {
+    "id": 8090178,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "HARVEY BROWN",
+    "text": "You don't stop it."
+  },
+  {
+    "id": 8090179,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "There has to be a way!"
+  },
+  {
+    "id": 8090180,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "HARVEY BROWN",
+    "text": "There's nothing! Don't you understand?! Nothing can stop the Wall*Mart in your town! ...Unless...of course, you can find and destroy its heart."
+  },
+  {
+    "id": 8090181,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "The heart of Wall*Mart?"
+  },
+  {
+    "id": 8090182,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Sir, don't you think you're talking a little too much?"
+  },
+  {
+    "id": 8090183,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "HARVEY BROWN",
+    "text": "Every Wall*Mart has a heart, somewhere near the television department. Destroy the heart and you could reverse the entire process!"
+  },
+  {
+    "id": 8090184,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "You speak too much, sir!"
+  },
+  {
+    "id": 8090185,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Why don't you guys just destroy the heart?"
+  },
+  {
+    "id": 8090186,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "HARVEY BROWN",
+    "text": "Because the Wall*Mart stops you. Many have tried, kid. Union leaders, nature activists, even the best fair-trade lawyers tried to stop the Wall*Mart and now? They are Wall*Mart shoppers all."
+  },
+  {
+    "id": 8090187,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "All right. Come on you guys, we have to get back home."
+  },
+  {
+    "id": 8090188,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "HARVEY BROWN",
+    "text": "It won't work, don't you understand?! It isn't gonna stop until there's nothing but Wall*Mart left! Jesus, what did we do?? WHAT DID WE DO??  Boys!  Tell the world... Im sorry!"
+  },
+  {
+    "id": 8090189,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "No, dude, don't!"
+  },
+  {
+    "id": 8090190,
+    "ep_num": 809,
+    "segment": 18,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "That's ten bucks you owe me, dickface!"
+  },
+  {
+    "id": 8090191,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "A stormy night in front of Wall*Mart. Stan, Kyle, and Kenny arrive dressed in camouflage."
+  },
+  {
+    "id": 8090192,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "All right, this is it! If Wall*Mart has a heart, we have to find it and destroy it! No matter what the Wall*Mart does to try to stop us, we have to be strong! Let's do it."
+  },
+  {
+    "id": 8090193,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "I'm afraid not, Kyle! Wall*Mart is a great store! I could not let you fools ruin its terrific bargains! You see, I was working for Wall*Mart all along!"
+  },
+  {
+    "id": 8090194,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "I knew you were!"
+  },
+  {
+    "id": 8090195,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "No you didn't."
+  },
+  {
+    "id": 8090196,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yes I did! I said from the beginning that you would do this!"
+  },
+  {
+    "id": 8090197,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "No you didn't."
+  },
+  {
+    "id": 8090198,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yes I did!!"
+  },
+  {
+    "id": 8090199,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "No you didn't."
+  },
+  {
+    "id": 8090200,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yes I did!!"
+  },
+  {
+    "id": 8090201,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "No you didn't."
+  },
+  {
+    "id": 8090202,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yes I did!!"
+  },
+  {
+    "id": 8090203,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "No you didn't."
+  },
+  {
+    "id": 8090204,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Yes I did!!"
+  },
+  {
+    "id": 8090205,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "... You see, Kyle, it was me who slashed the bu-"
+  },
+  {
+    "id": 8090206,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "-slashed the bus tires in Arkansas! I said so! I told you the minute that I-  -and I told you that-"
+  },
+  {
+    "id": 8090207,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "I can't hear you! Lalalalalala!  I'm sorry, boys. but if you want to hurt the Wall*Mart, you'll have to go through me!"
+  },
+  {
+    "id": 8090208,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "We don't have time for this! Kenny, keep him away from us!"
+  },
+  {
+    "id": 8090209,
+    "ep_num": 809,
+    "segment": 19,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CARTMAN",
+    "text": "Very well, Kenny! Let us battle!  No, Kenny. Kenny! Knock it off."
+  },
+  {
+    "id": 8090210,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Stan and Kyle enter the store and walk past the greeterm Marvin Marsh."
+  },
+  {
+    "id": 8090211,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "GRANDPA MARSH",
+    "text": "Welcome to Wall*Mart."
+  },
+  {
+    "id": 8090212,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Save it, Grandpa!"
+  },
+  {
+    "id": 8090213,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "We've gotta find the television department."
+  },
+  {
+    "id": 8090214,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Boys, these axes are only four ninety-nine."
+  },
+  {
+    "id": 8090215,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Dad, we know how to destroy the Wall*Mart."
+  },
+  {
+    "id": 8090216,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Shhhhh! What are you talking about?"
+  },
+  {
+    "id": 8090217,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "One of the creators told us. You have to take your keys over to the television department."
+  },
+  {
+    "id": 8090218,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Television department... All right, come on, let's go!  Oh my God!"
+  },
+  {
+    "id": 8090219,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "What?!"
+  },
+  {
+    "id": 8090220,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Those two-dollar salt-and-pepper shakers! They were three dollars five minutes ago! The Wall*Mart is lowering its prices trying to stop us!"
+  },
+  {
+    "id": 8090221,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Come on, we've got to try to make it to the back!"
+  },
+  {
+    "id": 8090222,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Gaaahh! Don't look! Don't look at its bargains!"
+  },
+  {
+    "id": 8090223,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "I think I see the television department in the back!"
+  },
+  {
+    "id": 8090224,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Is that the right way, Dad? Dad??  Dad!"
+  },
+  {
+    "id": 8090225,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "The screwdrivier set is only nine ninety-eight!"
+  },
+  {
+    "id": 8090226,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Come on, Dad!"
+  },
+  {
+    "id": 8090227,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "I can't make it, boys! You're gonna have to go on without me!"
+  },
+  {
+    "id": 8090228,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "No, dad! We need your keys!"
+  },
+  {
+    "id": 8090229,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "This bargain is too great for me! I'm gonna have to buy these! Here! Take the keys and go on!  The television department is near the back! Next to the cell phones! Go! Hurry! I'm gonna go buy these screwdrivers!"
+  },
+  {
+    "id": 8090230,
+    "ep_num": 809,
+    "segment": 20,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "There! The television department!"
+  },
+  {
+    "id": 8090231,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "The television department. The wall is lined with TVs of all sizes. A hand appears and presses a button, and all the TVs turn on, showing the boys on screen. The camera pans over to the two boys, who are looking at a man dressed in white."
+  },
+  {
+    "id": 8090232,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MAN",
+    "text": "Hello, boys. Congratulations on getting this far."
+  },
+  {
+    "id": 8090233,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Who are you?"
+  },
+  {
+    "id": 8090234,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MAN",
+    "text": "I am... Wall*Mart."
+  },
+  {
+    "id": 8090235,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "You?"
+  },
+  {
+    "id": 8090236,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WALL*MART",
+    "text": "I've taken this form in order to talk to you. But I can take many forms. Does this suit you better? Or perhaps you prefer this form?  I can take whichever form I like."
+  },
+  {
+    "id": 8090237,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "We don't want your store in our town; we come to destroy you."
+  },
+  {
+    "id": 8090238,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Where's the heart?"
+  },
+  {
+    "id": 8090239,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WALL*MART",
+    "text": "To find the heart of Wall*Mart, one must first ask oneself, \"Who is it that asked the question?\""
+  },
+  {
+    "id": 8090240,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Mr. I'm asking the question."
+  },
+  {
+    "id": 8090241,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WALL*MART",
+    "text": "Ah, yes, but who are you?"
+  },
+  {
+    "id": 8090242,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Stan Marsh. Now, where's the heart?"
+  },
+  {
+    "id": 8090243,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WALL*MART",
+    "text": "Ah. You know the answer, but not the question!"
+  },
+  {
+    "id": 8090244,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "The question is, \"Where is the heart?\""
+  },
+  {
+    "id": 8090245,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WALL*MART",
+    "text": "Very well. You want to see the heart of Wall*Mart? It lies beyond that plasna-screen television."
+  },
+  {
+    "id": 8090246,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "It's a mirror."
+  },
+  {
+    "id": 8090247,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WALL*MART",
+    "text": "Yes, don't you see? That is the heart of Wall*Mart. You, the consumer. I take may forms: Wall*Mart, Kay*Mart, Target, but I am one single entity: Desire!"
+  },
+  {
+    "id": 8090248,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Well, the guy in Arkansas said to destroy the heart."
+  },
+  {
+    "id": 8090249,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "WALL*MART",
+    "text": "Gaaah! NO! NO, what have you done?? Now you shall see my true form!  Now you see me as I truly am!"
+  },
+  {
+    "id": 8090250,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "We'd better get out of here."
+  },
+  {
+    "id": 8090251,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CHEF",
+    "text": "Get out! It's gonna blow!"
+  },
+  {
+    "id": 8090252,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "STAN",
+    "text": "Hey, come on! We've gotta get out!"
+  },
+  {
+    "id": 8090253,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Too late for me, son! I have to buy this stuff!"
+  },
+  {
+    "id": 8090254,
+    "ep_num": 809,
+    "segment": 21,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "The Wall*Mart is exploding! Everybody out now!"
+  },
+  {
+    "id": 8090255,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Outside on the parking lot, night. The building begins to collapse as everyone gathers in the parking lot. The building implodes into a shining blue dot, then reappears as crap, which falls to the ground where the Wall*Mart once stood. Cartman looks on in astonishment, then cracks up and walks away"
+  },
+  {
+    "id": 8090256,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. GARRISON",
+    "text": "Boys, you did it! You killed the Wall*Mart!"
+  },
+  {
+    "id": 8090257,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE'S FATHER",
+    "text": "How did you do it, Kyle?"
+  },
+  {
+    "id": 8090258,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "All Wall*Marts start a self-destruction sequence if you break a mirror in the back."
+  },
+  {
+    "id": 8090259,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CHEF",
+    "text": "We know how to destroy it now. Spread the word to all the towns!"
+  },
+  {
+    "id": 8090260,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "Wait. I think I understand the symbolism of the mirror. The Wall*Mart... is us."
+  },
+  {
+    "id": 8090261,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE",
+    "text": "Duh."
+  },
+  {
+    "id": 8090262,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "You see boys, if we like our small-town charm more than the big corporate bullies, we all have to be willing to... pay a little bit more. Do you understand?"
+  },
+  {
+    "id": 8090263,
+    "ep_num": 809,
+    "segment": 22,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "KYLE'S FATHER",
+    "text": "Yeah! Let's all go shop at Jim's Drugs down the street!"
+  },
+  {
+    "id": 8090264,
+    "ep_num": 809,
+    "segment": 23,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "description",
+    "text": "Jim's Drugs, later. He reopens for business and the crowd flocks to his store. Later, the small store is replaced by a larger two-story building, which in turn is replaced by a huge building reminiscent of the departed Wall*Mart, which in turn leads to Jim's Drugs' demise by fire"
+  },
+  {
+    "id": 8090265,
+    "ep_num": 809,
+    "segment": 23,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CROWD",
+    "text": "...Oh Lord, Kumbaya."
+  },
+  {
+    "id": 8090266,
+    "ep_num": 809,
+    "segment": 23,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "RANDY",
+    "text": "All right, let's not make that mistake again."
+  },
+  {
+    "id": 8090267,
+    "ep_num": 809,
+    "segment": 23,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "MR. GARRISON",
+    "text": "Yeah, lets all shop over at Tru-Value!"
+  },
+  {
+    "id": 8090268,
+    "ep_num": 809,
+    "segment": 23,
+    "title": "SOMETHING WALL MART THIS WAY COMES",
+    "role": "CROWD",
+    "text": "Let's go! Yeah!"
+  }
+]

@@ -1,0 +1,3378 @@
+[
+  {
+    "id": 6040001,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "A ranch, day. A rancher stands next to his cow corral as the South Park Elementary bus drives up. The bus stops and Ms. Choksondiksteps off"
+  },
+  {
+    "id": 6040002,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "MS. CHOKSONDIK",
+    "text": "Okay children, step off the bus and form a group next to the nice redneck - I mean, rancher."
+  },
+  {
+    "id": 6040003,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER",
+    "text": "Hello, boys and girls. My name is Rancher Bob."
+  },
+  {
+    "id": 6040004,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "MS. CHOKSONDIK",
+    "text": "Let's all say hello to Rancher Bob."
+  },
+  {
+    "id": 6040005,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "KIDS",
+    "text": "Hi, Rancher Bob."
+  },
+  {
+    "id": 6040006,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "I'm pleased to show you all the wonderful world of beef. Follow me."
+  },
+  {
+    "id": 6040007,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "City kids get to go to museums for field trips. We get cow farms."
+  },
+  {
+    "id": 6040008,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Now, out here you can see our cattle. This is where the magic begins as the cows eat and sleep and prepare for certain death."
+  },
+  {
+    "id": 6040009,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "They look so delicious."
+  },
+  {
+    "id": 6040010,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Now here we have the slaughterhouse. This is where we turn the cows into steaks and burgers."
+  },
+  {
+    "id": 6040011,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "KIDS",
+    "text": "Eewwww!!"
+  },
+  {
+    "id": 6040012,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Aw, dude."
+  },
+  {
+    "id": 6040013,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Hey, anybody want a free sample?"
+  },
+  {
+    "id": 6040014,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Memememee!"
+  },
+  {
+    "id": 6040015,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "And in here, boys and girls, we have our...  veal ranch.  You see, with veal the whole key is keepin' the cows chained so they can't walk around or get any exercise. That way, their muscle tissue stays soft, and makes for tender veal."
+  },
+  {
+    "id": 6040016,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Wiat a minute. Veal is... little baby cows??"
+  },
+  {
+    "id": 6040017,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Yeppir."
+  },
+  {
+    "id": 6040018,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Then why the hell do they call it \"veal\"??"
+  },
+  {
+    "id": 6040019,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Well, if we called it \"little baby cow\" people might not eat it."
+  },
+  {
+    "id": 6040020,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Yeah, I wouldn't have."
+  },
+  {
+    "id": 6040021,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Huh, me neither."
+  },
+  {
+    "id": 6040022,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh, man, look at that one!  It looks delicious"
+  },
+  {
+    "id": 6040023,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "What??"
+  },
+  {
+    "id": 6040024,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Mm, succulent and juicy.  Can we have a free sample of these, too?"
+  },
+  {
+    "id": 6040025,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Well, no, but all these veals are goin' to the slaughterhouse tomorrow mornin'. They'll be steaks by tommorow afternoon and then you can buy them at your grocery store."
+  },
+  {
+    "id": 6040026,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Alriiight!"
+  },
+  {
+    "id": 6040027,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Tomorrow morning?  Dude, we gotta help them."
+  },
+  {
+    "id": 6040028,
+    "ep_num": 604,
+    "segment": 1,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Yeah."
+  },
+  {
+    "id": 6040029,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Cartman's house, night. A light is on in the living room. Catman is asleep in his bed. Butters, Stan and Kyle climb up to his window."
+  },
+  {
+    "id": 6040030,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Pst, Cartman."
+  },
+  {
+    "id": 6040031,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "No, Uncle Jesse, no!"
+  },
+  {
+    "id": 6040032,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Cartman, wake up!"
+  },
+  {
+    "id": 6040033,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "What? What the hell are you guys doing??"
+  },
+  {
+    "id": 6040034,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Come on, we've gotta go!"
+  },
+  {
+    "id": 6040035,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Where are we going?"
+  },
+  {
+    "id": 6040036,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "We're gonna go to save the little baby cows, fatass!"
+  },
+  {
+    "id": 6040037,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "What? Why?"
+  },
+  {
+    "id": 6040038,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "'Cause they're gonna get slaughtered tomorrow, butthole!"
+  },
+  {
+    "id": 6040039,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "So?"
+  },
+  {
+    "id": 6040040,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "So we can't let 'em die, douchebag! You're our friend; now come help us!"
+  },
+  {
+    "id": 6040041,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Well, lessee, in the last three point two seconds you've called me \"fatass,\" \"butthole,\" and \"douchebag.\" I really don't feel like you guys's friend."
+  },
+  {
+    "id": 6040042,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "We're sorry, you are our friend. We need you to help us because friends stick together."
+  },
+  {
+    "id": 6040043,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Uh-wait. I thought... yoyou said we needed him because he has the \"Mission Impossible Breaking and Entering playset.\""
+  },
+  {
+    "id": 6040044,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Damnit Butters, will you shut up?!"
+  },
+  {
+    "id": 6040045,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oho! So you me and my Mission Impossible Breaking and Entering playset!"
+  },
+  {
+    "id": 6040046,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Yes we do. We're those little baby cows' only hope. Will you help us?"
+  },
+  {
+    "id": 6040047,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Yes. Yes I will. If Kyle will kiss my black ass."
+  },
+  {
+    "id": 6040048,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "What?!"
+  },
+  {
+    "id": 6040049,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Just give it a little kiss and I'll help."
+  },
+  {
+    "id": 6040050,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Screw you, Cartman!"
+  },
+  {
+    "id": 6040051,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Hokay, but if you want my help you have to give it just a little kiss.  Kiss it."
+  },
+  {
+    "id": 6040052,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Go on, dude it's the only way."
+  },
+  {
+    "id": 6040053,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "No!"
+  },
+  {
+    "id": 6040054,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Kiss it. Come on.  Kiss it."
+  },
+  {
+    "id": 6040055,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Just do it really fast, and we can go."
+  },
+  {
+    "id": 6040056,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Have Butters kiss it."
+  },
+  {
+    "id": 6040057,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "No, it has to be Kyle."
+  },
+  {
+    "id": 6040058,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Awww!"
+  },
+  {
+    "id": 6040059,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh man, that was soho awesome!"
+  },
+  {
+    "id": 6040060,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Sick! I felt it on my face!"
+  },
+  {
+    "id": 6040061,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Okay, very funny Cartman, now come on!"
+  },
+  {
+    "id": 6040062,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Hell, I'm not goin' with you!"
+  },
+  {
+    "id": 6040063,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Hyaaaa!"
+  },
+  {
+    "id": 6040064,
+    "ep_num": 604,
+    "segment": 2,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Heeeey!"
+  },
+  {
+    "id": 6040065,
+    "ep_num": 604,
+    "segment": 3,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Rancher Bob's ranch, night. The boys are walking on the roof of the veal ranch. They stop, and Stan opens the playset to put on the costume and harness"
+  },
+  {
+    "id": 6040066,
+    "ep_num": 604,
+    "segment": 3,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Oh I don't know about this, fellas. It says right here on the Mission Impossible Breaking and Entering playset: \"Not for actual breaking and entereing. B-breaking and entering is a cr-riime.\""
+  },
+  {
+    "id": 6040067,
+    "ep_num": 604,
+    "segment": 3,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Yeah, well killing little helpless baby cows should be a crime, too!  How does this thing work, Cartman?"
+  },
+  {
+    "id": 6040068,
+    "ep_num": 604,
+    "segment": 3,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Jesus, don't you guys have any toys? First you put on the black ski mask and use the torch to cut a hole in the roof."
+  },
+  {
+    "id": 6040069,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "The hold is created, and Stan, now dressed in black and in harness, is lowered into the ranch. He stops just short of the ground"
+  },
+  {
+    "id": 6040070,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Okay, that's far enough. I'm going to go delta."
+  },
+  {
+    "id": 6040071,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "You have to talk louder. I forgot the double-A batteries for the SuperTalk play-action headset."
+  },
+  {
+    "id": 6040072,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "I said that's far enough!  Don't be scared, little baby cow. We're here to set you loose.  There you go. You're free. Run away!  Go! They're gonna murder you."
+  },
+  {
+    "id": 6040073,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Stan, could you hurry it up? I'm freezing my ass off."
+  },
+  {
+    "id": 6040074,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "You need to freeze some of your ass off."
+  },
+  {
+    "id": 6040075,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "O! At least I have as ass, Jew!"
+  },
+  {
+    "id": 6040076,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "What?"
+  },
+  {
+    "id": 6040077,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Come on, you stupid baby cows!  You have to get out of here."
+  },
+  {
+    "id": 6040078,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Huuh what's the matter?"
+  },
+  {
+    "id": 6040079,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "They aren't leaving."
+  },
+  {
+    "id": 6040080,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "See? Maybe they want to become sweet juicy veal steaks."
+  },
+  {
+    "id": 6040081,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Hey. They've never been allowed to walk before. They just don't know how."
+  },
+  {
+    "id": 6040082,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Oh yeah, they're too weak to move. Well, we've gotta get 'em out of here. We'll just keep them at Butters' house until they can get their strength back."
+  },
+  {
+    "id": 6040083,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "No no no no no! I can't bring cows into my house. I'll get grounded."
+  },
+  {
+    "id": 6040084,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Okay, fine Butters! I guess you're not a team player! We'll bring them to my house."
+  },
+  {
+    "id": 6040085,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Dude! How are we gonna move twenty three calves to your house?"
+  },
+  {
+    "id": 6040086,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "I dno't know."
+  },
+  {
+    "id": 6040087,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "I've got it. We could kill Butters, and then float the calves on a river of blood."
+  },
+  {
+    "id": 6040088,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Don't be stupid, Cartman! Butters doesn't hve that much blood in him!"
+  },
+  {
+    "id": 6040089,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Eh yeah I do too!"
+  },
+  {
+    "id": 6040090,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "We're just gonna have to carry them one by one.  Come on, you guys."
+  },
+  {
+    "id": 6040091,
+    "ep_num": 604,
+    "segment": 4,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Eh!"
+  },
+  {
+    "id": 6040092,
+    "ep_num": 604,
+    "segment": 5,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "The boys are shown walking down an icy road, each carrying a calf... except... one calf is sliding across the ice, then stops. Cartman appears to follow it, but he approaches it and stands next to it"
+  },
+  {
+    "id": 6040093,
+    "ep_num": 604,
+    "segment": 5,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Check it out, you guys. I'm calf-curling."
+  },
+  {
+    "id": 6040094,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, day. The boys and the calves are in Stan's room. Three of the boys are there with the calves"
+  },
+  {
+    "id": 6040095,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Man, these calves smell like crap! I don't see how you're gonna hide them from your mom much longer."
+  },
+  {
+    "id": 6040096,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "We won't have to. Butters said he has something in his house that makes baby cows strong again. He's bringing it over."
+  },
+  {
+    "id": 6040097,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Butters has that at his house?"
+  },
+  {
+    "id": 6040098,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Hey fellas!"
+  },
+  {
+    "id": 6040099,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Butters!  Did you bring it?"
+  },
+  {
+    "id": 6040100,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "I sure did. We'll have those poor baby cows in shape in no time!"
+  },
+  {
+    "id": 6040101,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "All right!"
+  },
+  {
+    "id": 6040102,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "\"Susanne Sommers' Calf Exerciser.\""
+  },
+  {
+    "id": 6040103,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "What?"
+  },
+  {
+    "id": 6040104,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "\"Makes your calves stronger in just - two days!\""
+  },
+  {
+    "id": 6040105,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Oh, God-damnit! That's your plan?"
+  },
+  {
+    "id": 6040106,
+    "ep_num": 604,
+    "segment": 6,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Eh, you thnk it's a gimmick? Susanne promises right on the box that it works."
+  },
+  {
+    "id": 6040107,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, front door, moments later. Rancher Bob and Officer Barbrady are at the front door. Barbrady knocks. Sharon opens the door and Rancher Bob tips his hat to her"
+  },
+  {
+    "id": 6040108,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "Hello, Mr. Marsh."
+  },
+  {
+    "id": 6040109,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Officer Barbrady. What can I do for you?"
+  },
+  {
+    "id": 6040110,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "Well, we've got a little problem. Gent here caught your boy and his friends trespassing on his ranch. They stole some of his property."
+  },
+  {
+    "id": 6040111,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Stole? A-a-are you sure?"
+  },
+  {
+    "id": 6040112,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "I followed a calf-curling path right to your house, ma'am."
+  },
+  {
+    "id": 6040113,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHELLEY",
+    "text": "Ooo, Stan's in trouble. Let me kick his ass, Mom."
+  },
+  {
+    "id": 6040114,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Not now - my son is not a thief. I'm sure this is just some kind of a misunderstanding. Stanley, did you see-?"
+  },
+  {
+    "id": 6040115,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Aw crap!"
+  },
+  {
+    "id": 6040116,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Stanley, what are you doing with those calves?"
+  },
+  {
+    "id": 6040117,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "That asshole is gonna kill them and feed them to people!"
+  },
+  {
+    "id": 6040118,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "Stanley, they belong to him."
+  },
+  {
+    "id": 6040119,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "They don't belong to anybody! Please Mom, we don't want these calves to die."
+  },
+  {
+    "id": 6040120,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHELLEY",
+    "text": "Let me hit him, Mom!"
+  },
+  {
+    "id": 6040121,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Stanley, this isn't up for discussion. The rancher is gonna take his cows back and  you don't have a choice!  Stanley! Stanley, you open this door right now or you're gonna get it!"
+  },
+  {
+    "id": 6040122,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "No!"
+  },
+  {
+    "id": 6040123,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "Stan, you're behaving like a kid!"
+  },
+  {
+    "id": 6040124,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "You're the ones who made me eat veal without telling me what it was! You're the onew who know we were making little baby animals suffer!"
+  },
+  {
+    "id": 6040125,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Open this door, now!"
+  },
+  {
+    "id": 6040126,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Kiss my ass!"
+  },
+  {
+    "id": 6040127,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Oh Jeez, he said \"ass\" to his parents."
+  },
+  {
+    "id": 6040128,
+    "ep_num": 604,
+    "segment": 7,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "You're getting in pretty deep, dude."
+  },
+  {
+    "id": 6040129,
+    "ep_num": 604,
+    "segment": 8,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, living room. The adults have gone back downstairs."
+  },
+  {
+    "id": 6040130,
+    "ep_num": 604,
+    "segment": 8,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "I apologize for this, Mr. rancher person."
+  },
+  {
+    "id": 6040131,
+    "ep_num": 604,
+    "segment": 8,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Oh, why, why don't you just tell them that the cows will be safe. And when they come out I can take them back."
+  },
+  {
+    "id": 6040132,
+    "ep_num": 604,
+    "segment": 8,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "I can't lie to my son, okay? If I betrayed him like that, I'd pay for it the rest of my life."
+  },
+  {
+    "id": 6040133,
+    "ep_num": 604,
+    "segment": 8,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Well that's just too bad. Look it, that's eight hundred dollars' worth of veal up there and I have to ship it out Friday. What are you goin' to do, Officer Barbrady?"
+  },
+  {
+    "id": 6040134,
+    "ep_num": 604,
+    "segment": 8,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "Me?? How did I get into this mess?"
+  },
+  {
+    "id": 6040135,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's room. Stan paces the floor."
+  },
+  {
+    "id": 6040136,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "So what happens now?"
+  },
+  {
+    "id": 6040137,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "I'm gonna lock myself in here with these cows until we have a guarantee of their safety, in writing."
+  },
+  {
+    "id": 6040138,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "We're with you, dude."
+  },
+  {
+    "id": 6040139,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Yeah."
+  },
+  {
+    "id": 6040140,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Don't be so sure. Because I'm gonna tell you: this is gonna get ugly. Real ugly. When all is said and done you could all be looking at being grounded for three, perhaps even four weeks. So if any of you guys want out, just say the word now."
+  },
+  {
+    "id": 6040141,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "I want out."
+  },
+  {
+    "id": 6040142,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Shut up, Cartman."
+  },
+  {
+    "id": 6040143,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "We're with you, Stan."
+  },
+  {
+    "id": 6040144,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Hey y-yeah. W-w-we can't let those little baby cows down. Why, they've got no one else to turn to."
+  },
+  {
+    "id": 6040145,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Then it's settled. One for all and all for one! Except Cartman."
+  },
+  {
+    "id": 6040146,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE, BUTTERS",
+    "text": "Yeah!"
+  },
+  {
+    "id": 6040147,
+    "ep_num": 604,
+    "segment": 9,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Yeah! Wait-what?"
+  },
+  {
+    "id": 6040148,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stna's house, living room, night. Kyle's parents have joined the other adults."
+  },
+  {
+    "id": 6040149,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "And so that's the situation. Our boys have locked themselves in Stan's room until we can promosie them the calves will live free, in writing."
+  },
+  {
+    "id": 6040150,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "Well, this is ridiculous! I don't know how you raise your kids, but my son does not play negotiator with me!"
+  },
+  {
+    "id": 6040151,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "We excuse me, Sheila, but it wasn't that simple!"
+  },
+  {
+    "id": 6040152,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "HA! Give me fifteen seconds with Kyle and I'll have that door open!  Kyle?! This is your mother! You will open this door right now!"
+  },
+  {
+    "id": 6040153,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "...No I won't."
+  },
+  {
+    "id": 6040154,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Yes, I see what you mean, Sheila. That was very impressive."
+  },
+  {
+    "id": 6040155,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle, if you don't do as you're told, I'm going to be very angry!"
+  },
+  {
+    "id": 6040156,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Well you made me eat veal and didn't tell me what it was. So go ahead and be angry, you baby calf-killing bitch!"
+  },
+  {
+    "id": 6040157,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Very persuasive."
+  },
+  {
+    "id": 6040158,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "AAAAA! Open this door!! Open this door!!"
+  },
+  {
+    "id": 6040159,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "CHRIS",
+    "text": "Whoa-ho-ho, let, let me try.  Butters? Butters, this is your father."
+  },
+  {
+    "id": 6040160,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Oh, sweet Jesus. Uh, what do I do?"
+  },
+  {
+    "id": 6040161,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Be strong, Butters. You knew it would come to this."
+  },
+  {
+    "id": 6040162,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "CHRIS",
+    "text": "Butters? Answer me!"
+  },
+  {
+    "id": 6040163,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "But they-ah they're angry at me."
+  },
+  {
+    "id": 6040164,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Don't panic. I'll tell you what to say. You can tell them..."
+  },
+  {
+    "id": 6040165,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "CHRIS",
+    "text": "Butters! Right now!"
+  },
+  {
+    "id": 6040166,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Dad, uh, why don't you suck my fat one?"
+  },
+  {
+    "id": 6040167,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "CHRIS",
+    "text": "WHAT?!"
+  },
+  {
+    "id": 6040168,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Oh, sweet Jesus."
+  },
+  {
+    "id": 6040169,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "CHRIS",
+    "text": "What's gotten into them?"
+  },
+  {
+    "id": 6040170,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Alright, Stanley, this has gone on long enough! Your little game is over!"
+  },
+  {
+    "id": 6040171,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "This isn't a game, Mom. We're not coming out until know the calves will be safe."
+  },
+  {
+    "id": 6040172,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Well that's fine! You boys can just stay in there and starve to death. Us parents are going to go to Pizza Shack and have pepperoni pizza and ice cream."
+  },
+  {
+    "id": 6040173,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh, God-damnit you guys."
+  },
+  {
+    "id": 6040174,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Cartman, stay away from that door!"
+  },
+  {
+    "id": 6040175,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "You'll have to come out sooner or later, boys. The longer you wait, the more trouble you'll be in."
+  },
+  {
+    "id": 6040176,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "Mmmrragh!!"
+  },
+  {
+    "id": 6040177,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Round one is over. We made it."
+  },
+  {
+    "id": 6040178,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "We didn't make it! Your mother's right, douchebag! What are we gonna do? Stand here until we starve?!"
+  },
+  {
+    "id": 6040179,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Our parents would never let us starve. They're bluffing. This is a battle of wills. If we hold out long enough, they'll give in."
+  },
+  {
+    "id": 6040180,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "But we will have to sleep, dude."
+  },
+  {
+    "id": 6040181,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Three of us can sleep while one keeps watch. We'll shift every couple of hours."
+  },
+  {
+    "id": 6040182,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Hehey! This is gonna be just like Vietnam, huh fellas! Whoopie!"
+  },
+  {
+    "id": 6040183,
+    "ep_num": 604,
+    "segment": 10,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "We'll stay in this room with these baby cows for as long as it takes!"
+  },
+  {
+    "id": 6040184,
+    "ep_num": 604,
+    "segment": 11,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, living room, after dinner. The women wait at the sofa while the men try to reason with the boys. Liane is now present as Sheila crosses her arms and pats her left shoulder with her right hand. Moments later, the men come down the stairs"
+  },
+  {
+    "id": 6040185,
+    "ep_num": 604,
+    "segment": 11,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "Well we tried everything. We can't get through the door without tearing apart the house."
+  },
+  {
+    "id": 6040186,
+    "ep_num": 604,
+    "segment": 11,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S FATHER",
+    "text": "Dear God, it's been over thirteen hours!"
+  },
+  {
+    "id": 6040187,
+    "ep_num": 604,
+    "segment": 11,
+    "title": "FUN WITH VEAL",
+    "role": "LIANE",
+    "text": "Oh, but my poor little poopsie must be getting so hungry. Maybe we should get them a little food."
+  },
+  {
+    "id": 6040188,
+    "ep_num": 604,
+    "segment": 11,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Ms. Cartman, this is a battle of wills. We need our boys to know that we're not gonna cave in, at all."
+  },
+  {
+    "id": 6040189,
+    "ep_num": 604,
+    "segment": 11,
+    "title": "FUN WITH VEAL",
+    "role": "LIANE",
+    "text": "Oh, all right."
+  },
+  {
+    "id": 6040190,
+    "ep_num": 604,
+    "segment": 11,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "Let's all just go to bed and let them play their little game for as long as they can."
+  },
+  {
+    "id": 6040191,
+    "ep_num": 604,
+    "segment": 12,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's room, night. From outside, his room is the only one lit. Inside, Cartman, Kyle and Butters are in his bed while Stan sits at his desk"
+  },
+  {
+    "id": 6040192,
+    "ep_num": 604,
+    "segment": 12,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Good night, fellas!"
+  },
+  {
+    "id": 6040193,
+    "ep_num": 604,
+    "segment": 12,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Good night."
+  },
+  {
+    "id": 6040194,
+    "ep_num": 604,
+    "segment": 12,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Good night, Patches. Good night, Halloway. Good night, Nepture. Good night, Davis. Good night, Bud. Good night, Red. Good night, Paulette. Good night, Chastity."
+  },
+  {
+    "id": 6040195,
+    "ep_num": 604,
+    "segment": 12,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Butters, I'm going to kill you over and over again."
+  },
+  {
+    "id": 6040196,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's room, fade to day. Hour 29. The boys are all drowsy and a little disheveled. Stan sits on his bed stroking a calf, Butters sits on the floor, Cartman rests against a calf, Kyle holds his stomach"
+  },
+  {
+    "id": 6040197,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Can't go on. Need... food..."
+  },
+  {
+    "id": 6040198,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "We didn't realize hunger made you feel so bad."
+  },
+  {
+    "id": 6040199,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "There's only one alternative, you guys. We're gonna have to eat a calf."
+  },
+  {
+    "id": 6040200,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "No, Cartman, we're not eating a calf!"
+  },
+  {
+    "id": 6040201,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "All right. Then we're gonna have to eat Butters."
+  },
+  {
+    "id": 6040202,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "He might be right, dude."
+  },
+  {
+    "id": 6040203,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Aw, heck."
+  },
+  {
+    "id": 6040204,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Wait, what is that?  Dude!"
+  },
+  {
+    "id": 6040205,
+    "ep_num": 604,
+    "segment": 13,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Food!"
+  },
+  {
+    "id": 6040206,
+    "ep_num": 604,
+    "segment": 14,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, outside. Liane lowers her pole as Sharan and Sheila go outside to see what's going on."
+  },
+  {
+    "id": 6040207,
+    "ep_num": 604,
+    "segment": 14,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Ms. Cartman, what are you doing?"
+  },
+  {
+    "id": 6040208,
+    "ep_num": 604,
+    "segment": 14,
+    "title": "FUN WITH VEAL",
+    "role": "LIANE",
+    "text": "Oh, I just can't stand to see my baby suffer"
+  },
+  {
+    "id": 6040209,
+    "ep_num": 604,
+    "segment": 14,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Oh dear God, you've ruined everything."
+  },
+  {
+    "id": 6040210,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's room, moments later. The boys take shares of food out of the basket.. Stan walks away with two apples."
+  },
+  {
+    "id": 6040211,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "All right!"
+  },
+  {
+    "id": 6040212,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "See? Now we can hold out for weeks!"
+  },
+  {
+    "id": 6040213,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Look you guys! Beef jerky!"
+  },
+  {
+    "id": 6040214,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Yeah! And fried chicken!"
+  },
+  {
+    "id": 6040215,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Wha?"
+  },
+  {
+    "id": 6040216,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE, CARTMAN",
+    "text": "Mmmmm."
+  },
+  {
+    "id": 6040217,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Dude, what are you guys doing?"
+  },
+  {
+    "id": 6040218,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "We're eating, dude."
+  },
+  {
+    "id": 6040219,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "You're eating meat! What the hell do you guys think we're doing all this for?!"
+  },
+  {
+    "id": 6040220,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Hey! I'm doing it to save little baby cows. I'm not gonna stop eating meat altogether."
+  },
+  {
+    "id": 6040221,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Me neither."
+  },
+  {
+    "id": 6040222,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Yeah, if you don't eat meat at all, you become a pussy."
+  },
+  {
+    "id": 6040223,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "That's fine! You guys can live off of flesh, but I'm never eating meat again!"
+  },
+  {
+    "id": 6040224,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Go ahead, that's more for us.  You want some beef jerky, buddy? Yes, who's the buddy? Who's hungry?  Who's the hungry man?"
+  },
+  {
+    "id": 6040225,
+    "ep_num": 604,
+    "segment": 15,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Dude, that's messed up."
+  },
+  {
+    "id": 6040226,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, night, Hour 34. Police and fire departments and an ambulance are at the house, with a kleig light shining into Stan's room from the fire truck. Inside, Stan sits on the floor still eating his apples, Cartman stands next to the chair, Butters sits on the bed. The sound of breaking news is heard"
+  },
+  {
+    "id": 6040227,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "You guys, check this out!"
+  },
+  {
+    "id": 6040228,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "FIELD REPORTER",
+    "text": "Tom, I'm standing in front of the house where three insane boy terrorists have barricaded themselves inside a room with twenty-three live infant cattle."
+  },
+  {
+    "id": 6040229,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Hey, look. Some other kids are doin' the same thing we are.  Eugh"
+  },
+  {
+    "id": 6040230,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "FIELD REPORTER",
+    "text": "Several attempts to break into the room have proven unsuccessful, Tom, and the crisis is intensifying. Here's what some people have to say."
+  },
+  {
+    "id": 6040231,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "CRAIG'S FATHER, TOM",
+    "text": "We were sleeping when suddenly we heard all the commotion. I mean, to think this could happen right here in our own community."
+  },
+  {
+    "id": 6040232,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "We gave those kids everything, and they turned into little... John Walkers!"
+  },
+  {
+    "id": 6040233,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "FIELD REPORTER",
+    "text": "The police chief of South Park says that there will be no negotiations with terrorists."
+  },
+  {
+    "id": 6040234,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Oh no. Eh this is big-time trouble now, fellas."
+  },
+  {
+    "id": 6040235,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "No, this is exactly what we wanted."
+  },
+  {
+    "id": 6040236,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "It is?"
+  },
+  {
+    "id": 6040237,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Yeah, don't you see? This validates everything that we're doing. If we're making the news, then this is obviously important to people."
+  },
+  {
+    "id": 6040238,
+    "ep_num": 604,
+    "segment": 16,
+    "title": "FUN WITH VEAL",
+    "role": "FIELD REPORTER",
+    "text": "Tom, it looks like I have an update: Yes, it looks like the boy terrorist story is not interesting news to anyone. Uh, nothing else was going on, Tom, so this was the only story we had to make seem important, but people are just simply tuning out. So, HBC will now be switching programming once again to \"Puppoies from Around the World.\""
+  },
+  {
+    "id": 6040239,
+    "ep_num": 604,
+    "segment": 17,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "the news break switches to a series of dog scenes. First, dalmatians run across a field to the tune of bagpipes, then a small dog looks around to the tune of Chinese music, then a puppy in a basket as a mariachi band is heard, then another dog is shown, then another, then a puppy is shown following a tennis ball, then another dog plays with the camera as more mariachi music is heard"
+  },
+  {
+    "id": 6040240,
+    "ep_num": 604,
+    "segment": 17,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "...I don't believe it."
+  },
+  {
+    "id": 6040241,
+    "ep_num": 604,
+    "segment": 17,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Ehuh, the Chinese puppy's... my favorite so far."
+  },
+  {
+    "id": 6040242,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, fade to day. Hour 53. Stan and Butters are sleeping, and Butters, sleeping face down, has his left arm across Stan's chest. Stan stirs and opens his eyes."
+  },
+  {
+    "id": 6040243,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Butters? Buh-Butters! You have your arm around me!"
+  },
+  {
+    "id": 6040244,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Oh, sorry. I thought you were Mr. Pickles."
+  },
+  {
+    "id": 6040245,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "VOICES",
+    "text": "We must help the helpless, we must save the unsaved"
+  },
+  {
+    "id": 6040246,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Huh, what the hell is that?"
+  },
+  {
+    "id": 6040247,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "HIPPIES",
+    "text": "If we... fight together we can make sure the road is paved."
+  },
+  {
+    "id": 6040248,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "For a... brighter tomorrow...",
+    "text": ""
+  },
+  {
+    "id": 6040249,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Hippies!"
+  },
+  {
+    "id": 6040250,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "What are they doing here?"
+  },
+  {
+    "id": 6040251,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "HIPPIE",
+    "text": "We're with you boys! Your message is real and your voice is just."
+  },
+  {
+    "id": 6040252,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "HIPPIES",
+    "text": "Hooray! Hooray!"
+  },
+  {
+    "id": 6040253,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Dude! Those gaywads are on our side?"
+  },
+  {
+    "id": 6040254,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Ew, they're all dirty."
+  },
+  {
+    "id": 6040255,
+    "ep_num": 604,
+    "segment": 18,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "What did I tell you, Stan! We save some baby cows from being eaten, and now we're no-good dirty God-damned hippies!"
+  },
+  {
+    "id": 6040256,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, night, Hour 75. Police and fire departments and an ambulance have returned. HBC News is there again with its field reporter"
+  },
+  {
+    "id": 6040257,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "FIELD REPORTER",
+    "text": "Tom, the calf terrorist standoff continues as now members of the FBI arrive to put an end to the conflict."
+  },
+  {
+    "id": 6040258,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "Oh Jesus Christ."
+  },
+  {
+    "id": 6040259,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Who's in charge here?"
+  },
+  {
+    "id": 6040260,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "I am. But I don't want to be."
+  },
+  {
+    "id": 6040261,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Where's the negotiator?"
+  },
+  {
+    "id": 6040262,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "FBI NEGOTIATOR",
+    "text": "Right here! Glen Dumont, Negotiator Squad"
+  },
+  {
+    "id": 6040263,
+    "ep_num": 604,
+    "segment": 19,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "All right, see what you can do."
+  },
+  {
+    "id": 6040264,
+    "ep_num": 604,
+    "segment": 20,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's room. Stan is petting a calf. Kyle looks on. Stan coughs and sniffs"
+  },
+  {
+    "id": 6040265,
+    "ep_num": 604,
+    "segment": 20,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Dude, are you okay?"
+  },
+  {
+    "id": 6040266,
+    "ep_num": 604,
+    "segment": 20,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Aw, I just feel so rundown. I don't know what's wrong with me. I've got these sores."
+  },
+  {
+    "id": 6040267,
+    "ep_num": 604,
+    "segment": 20,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "What is that?"
+  },
+  {
+    "id": 6040268,
+    "ep_num": 604,
+    "segment": 20,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Dude, maybe we should end this."
+  },
+  {
+    "id": 6040269,
+    "ep_num": 604,
+    "segment": 20,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "No!"
+  },
+  {
+    "id": 6040270,
+    "ep_num": 604,
+    "segment": 21,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, outside. The negotiator walks up to the negotiation van, which has all the equipment he needs to handle a negotiation"
+  },
+  {
+    "id": 6040271,
+    "ep_num": 604,
+    "segment": 21,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Give me a hard line to the phone in that house!"
+  },
+  {
+    "id": 6040272,
+    "ep_num": 604,
+    "segment": 21,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBARDY",
+    "text": "The terrorists already said there's no way they're coming out."
+  },
+  {
+    "id": 6040273,
+    "ep_num": 604,
+    "segment": 21,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Don't worry, I'm a negotiator. It's my job to talk to freaks like this and bring about a peaceful resolution using clever psychology."
+  },
+  {
+    "id": 6040274,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's room. The phone rings and Stan goes to answer it"
+  },
+  {
+    "id": 6040275,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Hello?"
+  },
+  {
+    "id": 6040276,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Hello, my name is Mike. I'm a negotiator. Is it okay if I talk to you?"
+  },
+  {
+    "id": 6040277,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Ah, hold on.  It's some negotiator named Mike. What do I do?"
+  },
+  {
+    "id": 6040278,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Don't give him anything!"
+  },
+  {
+    "id": 6040279,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Waht do I say??"
+  },
+  {
+    "id": 6040280,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Dah, give me that!  Talk to me Mike."
+  },
+  {
+    "id": 6040281,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "I'm here to make sure we can all end this peacefully. You want that, right?"
+  },
+  {
+    "id": 6040282,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Sure, sure."
+  },
+  {
+    "id": 6040283,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "How about we make a trade, just show that we can trust each other."
+  },
+  {
+    "id": 6040284,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "What do you have in mind?"
+  },
+  {
+    "id": 6040285,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Well, how about you send out one of the calves?"
+  },
+  {
+    "id": 6040286,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh, Mike, you're breakin' my balls here, Mike."
+  },
+  {
+    "id": 6040287,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Just one, that's all we want."
+  },
+  {
+    "id": 6040288,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "All right, how 'bout this? You guys have all the leverage and we have nothing. So how about we give you one calf... -"
+  },
+  {
+    "id": 6040289,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Cartman, no!"
+  },
+  {
+    "id": 6040290,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Dude!"
+  },
+  {
+    "id": 6040291,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "We'll give you one calf, if you give us... some guns and ammunition of our own."
+  },
+  {
+    "id": 6040292,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "What? I, I can't do that."
+  },
+  {
+    "id": 6040293,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh, I'm sorry. I thought we were talkin' here, but I guess you're not talkin' to me. Goodbye."
+  },
+  {
+    "id": 6040294,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "No no wait, oh, I'm sorry, I'm sorry. Yuh, you're right. What reason do you have to trust me? I'm just a guy from Lakewood trying to make ends meet, you know? Just a blue-collar guy like your dad."
+  },
+  {
+    "id": 6040295,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Don't have a dad, Mike. That's not gonna work."
+  },
+  {
+    "id": 6040296,
+    "ep_num": 604,
+    "segment": 22,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Oh. All right, fine, son of a gun, let me see what I can do."
+  },
+  {
+    "id": 6040297,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, night, Hour 154. The authorities are still there, waiting out the standoff"
+  },
+  {
+    "id": 6040298,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Okay. Up a little... left a little... Almost there."
+  },
+  {
+    "id": 6040299,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "What is that?"
+  },
+  {
+    "id": 6040300,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "We're giving the boys some guns in return for our calves"
+  },
+  {
+    "id": 6040301,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "What?"
+  },
+  {
+    "id": 6040302,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "You're giving my baby guns?"
+  },
+  {
+    "id": 6040303,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Hey, this is a negotiation process, okay? Did you people go to negotiator school? No, you didn't!  Get them on the line for me!"
+  },
+  {
+    "id": 6040304,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Hello."
+  },
+  {
+    "id": 6040305,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Alright, you see that? I keep my end of the bargain."
+  },
+  {
+    "id": 6040306,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "All right, we'll keep ours. We'll send out one calf."
+  },
+  {
+    "id": 6040307,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Well, ha- how about you send out two calves?"
+  },
+  {
+    "id": 6040308,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh, Jesus! You know, there's just no talking to you, is there, Mike?!"
+  },
+  {
+    "id": 6040309,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "O-ogh..."
+  },
+  {
+    "id": 6040310,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "We had a deal! Do you think I'm stupid?! Don't treat me like I'm stupid here!"
+  },
+  {
+    "id": 6040311,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "I'm sorry, I'm sorry.  Damnit, I'm losing them.  Okay, I'm sorry. Just send out one calf."
+  },
+  {
+    "id": 6040312,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh nonono, now you're gonna have to get us something else!"
+  },
+  {
+    "id": 6040313,
+    "ep_num": 604,
+    "segment": 23,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "What do you have in mind?"
+  },
+  {
+    "id": 6040314,
+    "ep_num": 604,
+    "segment": 24,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's house, day. Hour 169. This makes one week and an hour since the standoff began"
+  },
+  {
+    "id": 6040315,
+    "ep_num": 604,
+    "segment": 24,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "A little to the left...  Okay, that's good. A little to the right."
+  },
+  {
+    "id": 6040316,
+    "ep_num": 604,
+    "segment": 24,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "You're giving them a missile??"
+  },
+  {
+    "id": 6040317,
+    "ep_num": 604,
+    "segment": 24,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Stand down, ma'am! Stand down! This is a delicate process! I've almost earned their trust!"
+  },
+  {
+    "id": 6040318,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Stan's room"
+  },
+  {
+    "id": 6040319,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Stan's getting worse, you guys."
+  },
+  {
+    "id": 6040320,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Mike, speak."
+  },
+  {
+    "id": 6040321,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "How are we doin'?"
+  },
+  {
+    "id": 6040322,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "We got a real sick kid here, Mike. Did you get the other things for us?"
+  },
+  {
+    "id": 6040323,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Weh ah I did manage to get the FDA to officially change the word \"veal\" to \"tortured baby cow.\""
+  },
+  {
+    "id": 6040324,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Good, good."
+  },
+  {
+    "id": 6040325,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "But I couldn't get you North and South Dakota."
+  },
+  {
+    "id": 6040326,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh, Mike, breakin' my balls, Mike."
+  },
+  {
+    "id": 6040327,
+    "ep_num": 604,
+    "segment": 25,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Now, now please can, can we get you to come out?"
+  },
+  {
+    "id": 6040328,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Outside Stan's house, night"
+  },
+  {
+    "id": 6040329,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "All right, everythng has worked out. The boys have promised to come out and bring the cows out with them."
+  },
+  {
+    "id": 6040330,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "ADULTS",
+    "text": "Yes! All right! Woohoo!"
+  },
+  {
+    "id": 6040331,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "Whoops, sorry I doubted your abilities, Mr. Negotiator."
+  },
+  {
+    "id": 6040332,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "They're coming out now?"
+  },
+  {
+    "id": 6040333,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "Yes. All we need to do in return is get a cattle-transporting semi-truck that will take the boys and the cattle to Denver International Airport, where we have a fully-gassed airplane waiting to take them all to Mexico."
+  },
+  {
+    "id": 6040334,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "SHARON",
+    "text": "What??"
+  },
+  {
+    "id": 6040335,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "And they want the guy that plays Mr. Worf on \"Star Trek\" to drive the truck. In full makeup."
+  },
+  {
+    "id": 6040336,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "Jesus Christ!"
+  },
+  {
+    "id": 6040337,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "All right, that does it! You are in fact the worst negotiator I've ever seen in action!"
+  },
+  {
+    "id": 6040338,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "GLEN DUMONT",
+    "text": "All right, all right, I'll give you that. But in return, I want three staples."
+  },
+  {
+    "id": 6040339,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Get out of here!  We'll get them the semi, and we'll get them the Worf guy. If they see that, thay'll come out and then, we could take them."
+  },
+  {
+    "id": 6040340,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "But isn't that dishonest?"
+  },
+  {
+    "id": 6040341,
+    "ep_num": 604,
+    "segment": 26,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Maybe so, but if we don't do something soon, there could be fifty, even sixty people who'll have to go without veal for dinner. Are you prepared to let that happen?"
+  },
+  {
+    "id": 6040342,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Outside Stan's house, night. Hour 201, just after sunset. The semi-truck Cartman ordered arrives."
+  },
+  {
+    "id": 6040343,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "All right. Where is Mr. Dorn?"
+  },
+  {
+    "id": 6040344,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "I was woken up at three in the mornng, told I had to put on makeup, and come to this town.  What the hell is gong on?!"
+  },
+  {
+    "id": 6040345,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "I'm sorry, Mr. Dorn. It's FBI business. We've got terrorists making demands and we need your help."
+  },
+  {
+    "id": 6040346,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "This is highly unusual!"
+  },
+  {
+    "id": 6040347,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "All right boys, we have your truck. And we have an airplane on the tarmac at Denver International."
+  },
+  {
+    "id": 6040348,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "And Worf?"
+  },
+  {
+    "id": 6040349,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "My name is Michael Dorn. I play a character called Worf."
+  },
+  {
+    "id": 6040350,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Stan! It worked!"
+  },
+  {
+    "id": 6040351,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "It... did?"
+  },
+  {
+    "id": 6040352,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "They got us a truck, and an airplane, and Mr. Worf! The calves are gonna be okay!"
+  },
+  {
+    "id": 6040353,
+    "ep_num": 604,
+    "segment": 27,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Pick me up. I... I want to see."
+  },
+  {
+    "id": 6040354,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Outside Stan's house, night. The authorities prepare for the kids' surrender. The front door opens and Cartman looks out. The FBI agents take aim."
+  },
+  {
+    "id": 6040355,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Step back! Tell those men to step back!"
+  },
+  {
+    "id": 6040356,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Do it!"
+  },
+  {
+    "id": 6040357,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENTS",
+    "text": "Mmrrrr."
+  },
+  {
+    "id": 6040358,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "HIPPIES",
+    "text": "All right! Woohoo! Yeah!"
+  },
+  {
+    "id": 6040359,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Aw, shut up, you freakin' hippies! Alright, Mr. Worf, start the engine and put her in gear. Oh, amd you must refer to me as \"Captain.\""
+  },
+  {
+    "id": 6040360,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "Where am I supposed to drive to?"
+  },
+  {
+    "id": 6040361,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "No. See, must say, \"Captain, where am I supposed to drive to?\""
+  },
+  {
+    "id": 6040362,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "Captain, where am I supposed to drive to?"
+  },
+  {
+    "id": 6040363,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "You're going to back the truck up to the door of the house so we can safely load in the calves."
+  },
+  {
+    "id": 6040364,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "This whole thing is ridiculous!"
+  },
+  {
+    "id": 6040365,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "\"Captain, this whole thing is ridiculous!\""
+  },
+  {
+    "id": 6040366,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "Captain, this whole thing is ridiculous."
+  },
+  {
+    "id": 6040367,
+    "ep_num": 604,
+    "segment": 28,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Okay, all set!"
+  },
+  {
+    "id": 6040368,
+    "ep_num": 604,
+    "segment": 29,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "An overhead view of the scene shows a News 4 helicopter covering the story  from the camera of another News 4 helicopter"
+  },
+  {
+    "id": 6040369,
+    "ep_num": 604,
+    "segment": 29,
+    "title": "FUN WITH VEAL",
+    "role": "FIELD REPORTER",
+    "text": "Tom, it looks as though the terrorists are now loading the baby cows into the back of a semi. This is still very uninteresting news, Tom."
+  },
+  {
+    "id": 6040370,
+    "ep_num": 604,
+    "segment": 30,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Ground view, inside the trailer"
+  },
+  {
+    "id": 6040371,
+    "ep_num": 604,
+    "segment": 30,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Okay Cartman!"
+  },
+  {
+    "id": 6040372,
+    "ep_num": 604,
+    "segment": 31,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Ground view, on the street"
+  },
+  {
+    "id": 6040373,
+    "ep_num": 604,
+    "segment": 31,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Step on it, Mr. Worf!"
+  },
+  {
+    "id": 6040374,
+    "ep_num": 604,
+    "segment": 31,
+    "title": "FUN WITH VEAL",
+    "role": "BOYS",
+    "text": "All right!"
+  },
+  {
+    "id": 6040375,
+    "ep_num": 604,
+    "segment": 32,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "inside the trailer"
+  },
+  {
+    "id": 6040376,
+    "ep_num": 604,
+    "segment": 32,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "We're going!"
+  },
+  {
+    "id": 6040377,
+    "ep_num": 604,
+    "segment": 32,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Mexico here we come!"
+  },
+  {
+    "id": 6040378,
+    "ep_num": 604,
+    "segment": 33,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "in the cab. Police cars follow the semi"
+  },
+  {
+    "id": 6040379,
+    "ep_num": 604,
+    "segment": 33,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Wait a minute. They're following us! Full speed, Mr. Worf!"
+  },
+  {
+    "id": 6040380,
+    "ep_num": 604,
+    "segment": 33,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "We cannot keep going fast on these icy roads!"
+  },
+  {
+    "id": 6040381,
+    "ep_num": 604,
+    "segment": 33,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "\"Captain, we cannot keep going fast on these icy roads?\""
+  },
+  {
+    "id": 6040382,
+    "ep_num": 604,
+    "segment": 33,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "Captain, we cannot keep going fast on these icy roads."
+  },
+  {
+    "id": 6040383,
+    "ep_num": 604,
+    "segment": 33,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Alright, Mr. Worf. Then reduce speed to forty-five and maintain distance from those police cruisers."
+  },
+  {
+    "id": 6040384,
+    "ep_num": 604,
+    "segment": 34,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "inside the trailer. Stan casts his eyes down at the floor"
+  },
+  {
+    "id": 6040385,
+    "ep_num": 604,
+    "segment": 34,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Stan, we're almost there. You've got to hold on."
+  },
+  {
+    "id": 6040386,
+    "ep_num": 604,
+    "segment": 35,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "On the street. The semi passes by Rancher Bob's ranch"
+  },
+  {
+    "id": 6040387,
+    "ep_num": 604,
+    "segment": 35,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Alright, they're in front of the cattle ranch. Hit it!"
+  },
+  {
+    "id": 6040388,
+    "ep_num": 604,
+    "segment": 35,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Oh, it's a double-cross!!"
+  },
+  {
+    "id": 6040389,
+    "ep_num": 604,
+    "segment": 35,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Alright, boys! The game is over! Get out of the truck with your hands up!"
+  },
+  {
+    "id": 6040390,
+    "ep_num": 604,
+    "segment": 36,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "in the trailer"
+  },
+  {
+    "id": 6040391,
+    "ep_num": 604,
+    "segment": 36,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Oh no! No!!"
+  },
+  {
+    "id": 6040392,
+    "ep_num": 604,
+    "segment": 37,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "in the cab"
+  },
+  {
+    "id": 6040393,
+    "ep_num": 604,
+    "segment": 37,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "What are you waiting for? Go kill them, Worf!"
+  },
+  {
+    "id": 6040394,
+    "ep_num": 604,
+    "segment": 37,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "I'm NOT killing anybody!"
+  },
+  {
+    "id": 6040395,
+    "ep_num": 604,
+    "segment": 37,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Egh! Some God-damned Klingon you are!"
+  },
+  {
+    "id": 6040396,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Rancher Bob's Cattle Ranch, moments later. The FBI agents take the calves into the veal ranch as the boys stand next to the semi. Michael Dorn is there as well."
+  },
+  {
+    "id": 6040397,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "We're sorry, cows. We tried. We tried!"
+  },
+  {
+    "id": 6040398,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "FBI AGENT",
+    "text": "Alright boys, just stay right there until your parents arrive."
+  },
+  {
+    "id": 6040399,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "MICHAEL DORN",
+    "text": "Can I go now?"
+  },
+  {
+    "id": 6040400,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "Here you go, Mr. Rancher. I got your cattle back for you"
+  },
+  {
+    "id": 6040401,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Oh.  Well, it doesn't matter now."
+  },
+  {
+    "id": 6040402,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "OFFICER BARBRADY",
+    "text": "What you do mean?"
+  },
+  {
+    "id": 6040403,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "You see, in the six days since the word \"veal\" was officially changed to \"little tortured baby cow\" the market has gone dry. Seems that people see \"little tortured baby cow\" on their menus, they don't feel like orderin'."
+  },
+  {
+    "id": 6040404,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Really?"
+  },
+  {
+    "id": 6040405,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "RANCHER BOB",
+    "text": "Yep, damn things ain't worth spit now. I'll let 'em live outside with the other cows and live a normal life."
+  },
+  {
+    "id": 6040406,
+    "ep_num": 604,
+    "segment": 38,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Do you hear that, Stan? It worked! We've shut down the veal industry!  Stan? Stan??"
+  },
+  {
+    "id": 6040407,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "description",
+    "text": "Hell's Pass Hospital, next day. The boys and their families are present at Stan's hospital bed. Stan is half-awake now, hooked up to IVs and all."
+  },
+  {
+    "id": 6040408,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "DR. DOCTOR",
+    "text": "He's very luck you got him here when you did. He was in a very advanced state of vaginitis."
+  },
+  {
+    "id": 6040409,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "RANDY",
+    "text": "Vaginitis?"
+  },
+  {
+    "id": 6040410,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "DR. DOCTOR",
+    "text": "It occurs when a person stops eating meat. Those sores on his skin were actually small vaginas. If we hadn't stopped it in time, Stan would have eventually just become one great big giant pussy."
+  },
+  {
+    "id": 6040411,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "Whoa, dude."
+  },
+  {
+    "id": 6040412,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "DR. DOCTOR",
+    "text": "We've got an IV of pure beef blood pumping into Stan's veins and the... sores are fading."
+  },
+  {
+    "id": 6040413,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "CARTMAN",
+    "text": "Thank God we stopped it in time."
+  },
+  {
+    "id": 6040414,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "STAN",
+    "text": "Well, I guess we learned somethng today: it's wrong to eat veal because the animals are so horribly mistreated, but if you don't eat meat at all you break out in vaginas."
+  },
+  {
+    "id": 6040415,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Hear hear."
+  },
+  {
+    "id": 6040416,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S MOTHER",
+    "text": "All right boys, it's time to go home. You've got some serious grounding time to start."
+  },
+  {
+    "id": 6040417,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "CHRIS",
+    "text": "I'll say!"
+  },
+  {
+    "id": 6040418,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "BUTTERS",
+    "text": "Aw, we're still grounded?"
+  },
+  {
+    "id": 6040419,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE",
+    "text": "But, but we, we learned things, and took up a cause."
+  },
+  {
+    "id": 6040420,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "KYLE'S FATHER",
+    "text": "Yes Kyle, but you still defied your parents. And you need to learn that terrorism is never the answer."
+  },
+  {
+    "id": 6040421,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "CHRIS",
+    "text": "That's right, let's get these terrorists to their rooms.  But first,  maybe we can grab some burgers."
+  },
+  {
+    "id": 6040422,
+    "ep_num": 604,
+    "segment": 39,
+    "title": "FUN WITH VEAL",
+    "role": "THE BOYS",
+    "text": "All right!"
+  }
+]

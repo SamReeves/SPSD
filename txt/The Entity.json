@@ -1,0 +1,2834 @@
+[
+  {
+    "id": 5110001,
+    "ep_num": 511,
+    "segment": 1,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Denver International Airport, day. Inside the terminal people are in long lines waiting to get their tickets or get on a plane. Mr. Garrison waits in line to have his bags scanned."
+  },
+  {
+    "id": 5110002,
+    "ep_num": 511,
+    "segment": 1,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Jesus Christ, these lines are ridiculous! I'm gonna miss my flight!  E- Excuse me, there are two other security checkpoints. Why can't you open those, too?"
+  },
+  {
+    "id": 5110003,
+    "ep_num": 511,
+    "segment": 1,
+    "title": "THE ENTITY",
+    "role": "SECURITY GUARD",
+    "text": "Uh I don't know nothin'."
+  },
+  {
+    "id": 5110004,
+    "ep_num": 511,
+    "segment": 1,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "But you work for the-  uh, God-damnit!!"
+  },
+  {
+    "id": 5110005,
+    "ep_num": 511,
+    "segment": 1,
+    "title": "THE ENTITY",
+    "role": "VOICE",
+    "text": "Snooty Airlines announces the arrival of flight 239 from Connecticut."
+  },
+  {
+    "id": 5110006,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "The Broflovskis stand in front of a perfume shop"
+  },
+  {
+    "id": 5110007,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "That's your cousin's flight, Kyle. Hold the sign up nice and high so he can find us."
+  },
+  {
+    "id": 5110008,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "What's he look like?"
+  },
+  {
+    "id": 5110009,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "He's your age and about your height."
+  },
+  {
+    "id": 5110010,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I'm stoked my cousin is comin' to live with us. It'll be just like having a brother."
+  },
+  {
+    "id": 5110011,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "IKE",
+    "text": "I todd a nurra"
+  },
+  {
+    "id": 5110012,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Oh, there he is.  Over here, Kyle!"
+  },
+  {
+    "id": 5110013,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "BOY",
+    "text": "Hello, Aunt Sheila."
+  },
+  {
+    "id": 5110014,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "How was your flight?"
+  },
+  {
+    "id": 5110015,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "BOY",
+    "text": ":\tOh, it was terrible. They they recycled the air on board and it really did a number on my asthma. I-I-e-I asked them to turn up the oxygen and they wouldn't."
+  },
+  {
+    "id": 5110016,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "You rememer uncle Gerry."
+  },
+  {
+    "id": 5110017,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "BOY",
+    "text": ":\tHi, Uncle Gerry."
+  },
+  {
+    "id": 5110018,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": ":\t And these are your cousin, Ike and Kyle"
+  },
+  {
+    "id": 5110019,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Hey dude."
+  },
+  {
+    "id": 5110020,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "BOY",
+    "text": "It's nice to meet you."
+  },
+  {
+    "id": 5110021,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Let's get down to the baggage claim, Kyle."
+  },
+  {
+    "id": 5110022,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "BOTH BOYS",
+    "text": "Okay:"
+  },
+  {
+    "id": 5110023,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Oooh, that's right! We've got two Kyles now. We'll just call you  Kyle, and you can be Kyle...  Two!"
+  },
+  {
+    "id": 5110024,
+    "ep_num": 511,
+    "segment": 2,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Cool."
+  },
+  {
+    "id": 5110025,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Ticket counter. Mr. Garrison's turn has come up and he approaches the counter"
+  },
+  {
+    "id": 5110026,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "CLERK",
+    "text": "Next?"
+  },
+  {
+    "id": 5110027,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Oh, I feel like I've run a marathon."
+  },
+  {
+    "id": 5110028,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "CLERK",
+    "text": "Mmmokay, the 2:30 flight to Cheyenne has boarded. Looks like you didn't make it."
+  },
+  {
+    "id": 5110029,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "What? Well of course I didn't make it. The line to check in was two hours long, and the security line was two hours more!"
+  },
+  {
+    "id": 5110030,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "CLERK",
+    "text": "Nnnyeah, no problem, though. We'll get you on the 7 a.m. flight tomorrow morning."
+  },
+  {
+    "id": 5110031,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "I can't go tomorrow, the Jizzfest is tonight!"
+  },
+  {
+    "id": 5110032,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "CLERK",
+    "text": "Would you like a window or an aisle seat?"
+  },
+  {
+    "id": 5110033,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "This is unbelievable! You know, I seem to remember when the airlines said, \"We need a 15 billion dollar bailout from the taxpayers-\"!"
+  },
+  {
+    "id": 5110034,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "CLERK",
+    "text": "Mmokay, and have any of your personal items been out of your possession since you left?"
+  },
+  {
+    "id": 5110035,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Well we gave them the 15 billion dollar bailout and they fired their employees anyway! So now we have three people to clear 400 passengers!"
+  },
+  {
+    "id": 5110036,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MAN",
+    "text": "Hey,he's right!"
+  },
+  {
+    "id": 5110037,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "PEOPLE",
+    "text": "YEAH!"
+  },
+  {
+    "id": 5110038,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "CLERK",
+    "text": "Okay, and bags have been with you at all times?"
+  },
+  {
+    "id": 5110039,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "So where did that money go? I'll tell you where it went: it went into the pockets of the preseidents and CEOs of the airlines, so they can keep their miltimillion dollar salaries!"
+  },
+  {
+    "id": 5110040,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "PEOPLE",
+    "text": "YEAH!"
+  },
+  {
+    "id": 5110041,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "CLERK",
+    "text": "And here's your boarding pass for tomorrow morning."
+  },
+  {
+    "id": 5110042,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "You think you can treat us however you want because we HAVE to fly! Well I'll tell you what, Sally Sassalot, I'm gonna come up with a NEW mode of transportation! A ahah brand new vehicle that'll put all you bastards out of business!"
+  },
+  {
+    "id": 5110043,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "PEOPLE",
+    "text": "YEAH! ALRIGHT! GO!"
+  },
+  {
+    "id": 5110044,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "You think I can't do it?! I got a master's degree in mechanical engineering at Denver Community College! You watch me!!  Come on, everybody!"
+  },
+  {
+    "id": 5110045,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "PEOPLE",
+    "text": "YEAH!"
+  },
+  {
+    "id": 5110046,
+    "ep_num": 511,
+    "segment": 3,
+    "title": "THE ENTITY",
+    "role": "MAN",
+    "text": "Can I get on that 7:30 a.m. flight?"
+  },
+  {
+    "id": 5110047,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "The Broflovski house, night. The family is seated around the dining room table as Sheila enters with soup in hand"
+  },
+  {
+    "id": 5110048,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Here we go, Kyle Two.  And here's yours, Kyle."
+  },
+  {
+    "id": 5110049,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh, uh, wawawhat is this?"
+  },
+  {
+    "id": 5110050,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Mom's special stew. She makes it every Monday and I love it."
+  },
+  {
+    "id": 5110051,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh is, is this beef?"
+  },
+  {
+    "id": 5110052,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Yeah, dude, it's great!"
+  },
+  {
+    "id": 5110053,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Uha, wa, actually, I, I can't eat beef. I have a degenerative problem with my intestinal lining, and beef really gives me gaass."
+  },
+  {
+    "id": 5110054,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Oh, I'm so sorry, Kyle. What else can I fix you?"
+  },
+  {
+    "id": 5110055,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh no, I d- I don't want to be a bother, I uh-"
+  },
+  {
+    "id": 5110056,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Nonsense. Can't I make you some nice pasta? Or a frozen fish fillet?"
+  },
+  {
+    "id": 5110057,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "We-ull, some fish would be great if it isn't too much trouble."
+  },
+  {
+    "id": 5110058,
+    "ep_num": 511,
+    "segment": 4,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "I'll put it in the microwave right away."
+  },
+  {
+    "id": 5110059,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Kitchen, moments later. Sheila has gotten the fish and breaks it apart on the kitchen counter. Kyle Two appears at the doorway"
+  },
+  {
+    "id": 5110060,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Mom?"
+  },
+  {
+    "id": 5110061,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Yes, Kyle Two?"
+  },
+  {
+    "id": 5110062,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "How am I related to him again?"
+  },
+  {
+    "id": 5110063,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "He's your cousin, Kyle Two. I told you already."
+  },
+  {
+    "id": 5110064,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Yeah, but like... first cousin or distant cousin?"
+  },
+  {
+    "id": 5110065,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "He's my sister's son. That makes him your first cousin."
+  },
+  {
+    "id": 5110066,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "So we have the same blood?"
+  },
+  {
+    "id": 5110067,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Now Kyle Two, listen to me. Kyle is going through a very tough time in his life. His mother is very sick and he's in a whole new place. He's going to rely on you to make sure he fits in at your school."
+  },
+  {
+    "id": 5110068,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "What?? How the hell am I supposed to do that??"
+  },
+  {
+    "id": 5110069,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "I'm sure your friends will love him."
+  },
+  {
+    "id": 5110070,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "What about Cartman, huh? He rips on me for being Jewish! He's gonna tear this kid apart!"
+  },
+  {
+    "id": 5110071,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle Two, he's your responsibility."
+  },
+  {
+    "id": 5110072,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Oh my God."
+  },
+  {
+    "id": 5110073,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "I'm sure you two will become great friends with lots of late night pillow talk."
+  },
+  {
+    "id": 5110074,
+    "ep_num": 511,
+    "segment": 5,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Well what do you mean?  What room is he sleeping in?"
+  },
+  {
+    "id": 5110075,
+    "ep_num": 511,
+    "segment": 6,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Kyle's room, past bed time. Both Kyles are in bed, the cousin getting used to the bed."
+  },
+  {
+    "id": 5110076,
+    "ep_num": 511,
+    "segment": 6,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "What's this comforter filled with? Um, it isn't filled with down, is it?"
+  },
+  {
+    "id": 5110077,
+    "ep_num": 511,
+    "segment": 6,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I don't know, dude."
+  },
+  {
+    "id": 5110078,
+    "ep_num": 511,
+    "segment": 6,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Ih it sure is quiet up here in the mountains and it's dry, too. Do you have a humidi-humidifier?"
+  },
+  {
+    "id": 5110079,
+    "ep_num": 511,
+    "segment": 6,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I don't think so."
+  },
+  {
+    "id": 5110080,
+    "ep_num": 511,
+    "segment": 6,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Uh, can you take my stupid glasses and put them on the night stand. Make sure they're close by, because that fish upset my stomach and I might need them if I have to go to he bathroom later on."
+  },
+  {
+    "id": 5110081,
+    "ep_num": 511,
+    "segment": 6,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Okay."
+  },
+  {
+    "id": 5110082,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Mr. Garrison's house, night. He's working at an artist's desk in his bedroom. On the wall are drawings of various types of aircraft, and on the floor around him are bits and pieces of all kinds of vehicles, including bicycle gears, airplane propellers, car motors, a muffler. To his right is a dresser with a small color TV on top. Mr. Hat is present on his right hand, as always."
+  },
+  {
+    "id": 5110083,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Now it's got to be simple. Like a moped, but with the ability to travel at much faster speeds. The designs of our electrical moped were altered with a- no, nonono this won't work either!"
+  },
+  {
+    "id": 5110084,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. HAT",
+    "text": "What was wrong with that plan?"
+  },
+  {
+    "id": 5110085,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "It has to be more stable, Mr. Hat! A moped would be too dangerous at those speeds. Damnit!  Now, what if the jet power of an aircraft could be scaled down into a personal vehicle?"
+  },
+  {
+    "id": 5110086,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. HAT",
+    "text": "Boy, that Enrique Iglesias can sure gyrate his hot ass around."
+  },
+  {
+    "id": 5110087,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "ENRIQUE IGLESIAS",
+    "text": "...I think about you day and night. I think about you..."
+  },
+  {
+    "id": 5110088,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Oh, Mr. Hat! Would you stop drooling over Enrique Iglesias and... wait a minute. What did you say?"
+  },
+  {
+    "id": 5110089,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. HAT",
+    "text": "I said Enrique Iglesias can sure gyrate his hot ass!"
+  },
+  {
+    "id": 5110090,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "That's it. Gyration.  A gyrascope. It would allow for maximum balance and yet... Mr. Hat! You're a genius!  It's so simple and yet genius!"
+  },
+  {
+    "id": 5110091,
+    "ep_num": 511,
+    "segment": 7,
+    "title": "THE ENTITY",
+    "role": "MR. HAT",
+    "text": "Check out his hot bulge, too."
+  },
+  {
+    "id": 5110092,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Bus stop, next day. Kenny, Stan and Cartman wait at the stop. The two Kyles walk up to them."
+  },
+  {
+    "id": 5110093,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "Hey dude."
+  },
+  {
+    "id": 5110094,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "What's that thing?"
+  },
+  {
+    "id": 5110095,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Cartman, I need to talk to you."
+  },
+  {
+    "id": 5110096,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Hello, I'm Kyle's cousin Kyle."
+  },
+  {
+    "id": 5110097,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Cartman, I'm gonna make you a deal."
+  },
+  {
+    "id": 5110098,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "What?"
+  },
+  {
+    "id": 5110099,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "That kid over there is my cousin from the East Coast. He's having a really hard time right now, so I'm going to offer you forty dollars to not rip on him."
+  },
+  {
+    "id": 5110100,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Forty bucks?"
+  },
+  {
+    "id": 5110101,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "But you can't make fun of him AT ALL. No smartass comments, nothin'."
+  },
+  {
+    "id": 5110102,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Alrigh, alright."
+  },
+  {
+    "id": 5110103,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "And you especially can't say anythng about Jews!"
+  },
+  {
+    "id": 5110104,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Aw, Jesus, why don't you just cut off my balls?"
+  },
+  {
+    "id": 5110105,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Cartman, no Jew jokes! All you have to do is keep your mouth shut, and you've got forty bucks! Can you do it?"
+  },
+  {
+    "id": 5110106,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I can't believe how cold it is out here."
+  },
+  {
+    "id": 5110107,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Cold be tough. But I'll give it a shot."
+  },
+  {
+    "id": 5110108,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Alright."
+  },
+  {
+    "id": 5110109,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "It's a reall dry cold; that's the problem. It- the cold air makes me wheeze."
+  },
+  {
+    "id": 5110110,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Kyle, this is Cartman, my sort of... friend- ish."
+  },
+  {
+    "id": 5110111,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Ot- Nice to meet you, Cartman. Yuh you know, I saw that same jacket you're wearing at Bosco's for 29.95. How much was yours? Um, I juh- I was just wondering if Bosco's is a ripoff?"
+  },
+  {
+    "id": 5110112,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "...Oh, man."
+  },
+  {
+    "id": 5110113,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Cartman?!"
+  },
+  {
+    "id": 5110114,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Uh, it's nice to meet you, Kyle. I can certainly tell you're a relative of my good friend Kyle here."
+  },
+  {
+    "id": 5110115,
+    "ep_num": 511,
+    "segment": 8,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "What the hell was that?"
+  },
+  {
+    "id": 5110116,
+    "ep_num": 511,
+    "segment": 9,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Neighborhood, day. Barbardy stops Craig's father in his car and is writing out a ticket when the large wheel zips by them."
+  },
+  {
+    "id": 5110117,
+    "ep_num": 511,
+    "segment": 9,
+    "title": "THE ENTITY",
+    "role": "OFFICER BARBRADY",
+    "text": "Uh what the hell was that?"
+  },
+  {
+    "id": 5110118,
+    "ep_num": 511,
+    "segment": 10,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Dowtown South Park. People walk about doing stuff. The giant wheel zips by them as well, but few seem to notice."
+  },
+  {
+    "id": 5110119,
+    "ep_num": 511,
+    "segment": 10,
+    "title": "THE ENTITY",
+    "role": "STUART",
+    "text": "What the hell was that?"
+  },
+  {
+    "id": 5110120,
+    "ep_num": 511,
+    "segment": 10,
+    "title": "THE ENTITY",
+    "role": "RANDY",
+    "text": "I dunno, it was going so fast I couldn't see it.  But I want one."
+  },
+  {
+    "id": 5110121,
+    "ep_num": 511,
+    "segment": 10,
+    "title": "THE ENTITY",
+    "role": "STUART",
+    "text": "Yep, me too."
+  },
+  {
+    "id": 5110122,
+    "ep_num": 511,
+    "segment": 11,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Garrison's house, curb level. The giant wheel stops and two legs dismount. It's Mr. Garrison, beaming with pride and confidence"
+  },
+  {
+    "id": 5110123,
+    "ep_num": 511,
+    "segment": 11,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "We've done it, Mr. Hat. Airline companies be damned. We've invented a whole new mode of transportation! Get some investors on the phone!  Well what are you waiting for?!"
+  },
+  {
+    "id": 5110124,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "South Park Elementary, day. Class is now in session."
+  },
+  {
+    "id": 5110125,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "MS. CHOKSONDIK",
+    "text": "And I know you'll all be very nice to our new student.  Kyle, why don't you tell us a little about yourself?"
+  },
+  {
+    "id": 5110126,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh well, I I grew up in the shity, ah ah I really don't care for it. Ah I come from a Jewish family, which of course you already know, because Kyle's form the same family.  I like to read, and I have these polyps on the backs of my hands - I don't know what they are."
+  },
+  {
+    "id": 5110127,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Ohmigod, I'm not gonna make it. I'm not gonna make it."
+  },
+  {
+    "id": 5110128,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "...Oh, and I hope one day to be an investment banker."
+  },
+  {
+    "id": 5110129,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "I... must.. fight it! Need... forty... dollars!"
+  },
+  {
+    "id": 5110130,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "MS. CHOKSONDIK",
+    "text": "Okay, why don't you go ahead and take a seat, Kyle?"
+  },
+  {
+    "id": 5110131,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Uh where should I sit? There's no place to sit down here."
+  },
+  {
+    "id": 5110132,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "MS. CHOKSONDIK",
+    "text": "Yes, unfortunately the school seems to be completely out of extra desks. So you'll just have to share with your cousin."
+  },
+  {
+    "id": 5110133,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "What?"
+  },
+  {
+    "id": 5110134,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Eh, oh, alright."
+  },
+  {
+    "id": 5110135,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "MS. CHOKSONDIK",
+    "text": "Now let's get on with our lesson on the-"
+  },
+  {
+    "id": 5110136,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Ah-ah-ah-are wooden desks all that available? I usually prefer the plastic ones because these give me splinters."
+  },
+  {
+    "id": 5110137,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Ugh, ugh!"
+  },
+  {
+    "id": 5110138,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "MS. CHOKSONDIK",
+    "text": "I'm sorry, Kyle. You'll just have to make do.  Now let's get back to the le-"
+  },
+  {
+    "id": 5110139,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Is it cold in here? I realize we're in the mountains, but do we have to freeze to death?"
+  },
+  {
+    "id": 5110140,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "MS. CHOKSONDIK",
+    "text": "Now Kyle, I need you to be quiet. In my class you need to be able to concentrate."
+  },
+  {
+    "id": 5110141,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Oh!"
+  },
+  {
+    "id": 5110142,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "MS. CHOKSONDIK",
+    "text": "Concentration is the key to succeeding in my class."
+  },
+  {
+    "id": 5110143,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Maybe we'll have to send him to concentration camp. AWGH! Damnit, damnit, damnit!"
+  },
+  {
+    "id": 5110144,
+    "ep_num": 511,
+    "segment": 12,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "CARTMAN!"
+  },
+  {
+    "id": 5110145,
+    "ep_num": 511,
+    "segment": 13,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "News 4 Newsbreak. An anchor soon appears with a window of Mr. Garrsion beside him"
+  },
+  {
+    "id": 5110146,
+    "ep_num": 511,
+    "segment": 13,
+    "title": "THE ENTITY",
+    "role": "ANCHOR",
+    "text": "Kindergarten teacher Herbert Garrison has apparently invented a new vehicle that will give the airlines a run for their money. Mr. Garrison is putting the final touches on his top secret device, which he simply calls \"IT\". So what exactly is \"IT\"?  Here with a report is a Hispanic man with some gravy stains on his lapel."
+  },
+  {
+    "id": 5110147,
+    "ep_num": 511,
+    "segment": 13,
+    "title": "THE ENTITY",
+    "role": "HISPANIC REPORTER",
+    "text": "Thanks, Tom, I-oh...  Thanks, Tom. So far Herbert Garrison hasn't let anyone get a look at his invention. He claims that the vehicle is sooo genius and revolutionary that it could cause one's eyes to bleed if not properly prepared to see it. But earlier today HBC News got footage of some of the country's top investors and richest people who have been invited for a first look, including: Steve Forbes , Steve Jobs , Ted Turner , Donald Trump , Bill Gates , and Yasmine Bleeth . Their curiosity is piqued, Tom, and so is ours. What is \"IT\"? What does \"IT\"do? And when will IT be somewhere where I can buy one? Reporting live, Jeff Arrando , HBC News."
+  },
+  {
+    "id": 5110148,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Playground, day. Kids are on swings, hobby elephants, slides, etc, as the camera pans across. At the end of the pan, Kyle and Kyle Two face each other in a clearing"
+  },
+  {
+    "id": 5110149,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "You need to learn to play some sports, Kyle. So we're gonna start with a tough one called, \"Catch the Ball.\" I throw the football to you; you throw it back to me."
+  },
+  {
+    "id": 5110150,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh, bu- but isn't the cold air making the ball really hard? Ih-it's gonna hurt my hands."
+  },
+  {
+    "id": 5110151,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "It's fine!"
+  },
+  {
+    "id": 5110152,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Alright then, hu-how do I catch it?"
+  },
+  {
+    "id": 5110153,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Ih it's a football, dude. You just- put your arms out and catch it.  Alright, here we go."
+  },
+  {
+    "id": 5110154,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Now what?"
+  },
+  {
+    "id": 5110155,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Now throw it back to me."
+  },
+  {
+    "id": 5110156,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "But it's down in the snow."
+  },
+  {
+    "id": 5110157,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "...So dig it out."
+  },
+  {
+    "id": 5110158,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "But I'll get snow on my gloves and then it will melt and I'll have wet hands."
+  },
+  {
+    "id": 5110159,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "...Well, then we'll dry them off!"
+  },
+  {
+    "id": 5110160,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Alright, then."
+  },
+  {
+    "id": 5110161,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Oh my God."
+  },
+  {
+    "id": 5110162,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Kyle, Kyle!  I just found out that in World War II, some Jewish people were sent to concentration camps."
+  },
+  {
+    "id": 5110163,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Yeah! They WERE, Cartman!"
+  },
+  {
+    "id": 5110164,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Oh, and see, I didn't realize that. But I understand now how you might've felt what I said in the classroom was a racial slut. But see, I had no idea."
+  },
+  {
+    "id": 5110165,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "You did, too! You are so full of crap!"
+  },
+  {
+    "id": 5110166,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "No, I'm seriously! Becuase, um, I was, I was talkin' to Craig, and Craig was all like, \"Hey, did you know that in World War II they really HAD concentration camps?\" And I was all like, \"No way!\" And this little light went on in my head like, \"Aw man, no wonder Kyle thought what I said in the class, seemed like it was directed at his cousin.\" But, but I was literally talkin' about a concentration camp, you know, where you go for a week to learn and focus, you know. Oh, mahan.  What a misunderstanding, huh?"
+  },
+  {
+    "id": 5110167,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "You blew the deal, Cartman!"
+  },
+  {
+    "id": 5110168,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Goddamnit, give me another chance!"
+  },
+  {
+    "id": 5110169,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Nuh-uh, I knew you were gonna make fun of my lame cousin, so I paid you the forty bucks NOT to rip on him! You ripped on him, deal's off!"
+  },
+  {
+    "id": 5110170,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Uh you did what?"
+  },
+  {
+    "id": 5110171,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Oh no."
+  },
+  {
+    "id": 5110172,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Haha,  serves you right, asshole."
+  },
+  {
+    "id": 5110173,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "You, you paid your friends tuh...  not make fun of me?"
+  },
+  {
+    "id": 5110174,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Look, ih it's not because anything's wrong with you."
+  },
+  {
+    "id": 5110175,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Wow uh, you think it takes forty dollars to get people to like me."
+  },
+  {
+    "id": 5110176,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Kyle, I-eh I'm sorry"
+  },
+  {
+    "id": 5110177,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Becuase I m-I mean I really think you could have done it for about 12.50."
+  },
+  {
+    "id": 5110178,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "What?"
+  },
+  {
+    "id": 5110179,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Well, I mean, you didn't just start at 40, didja? You you gotta low-ball these things so you have a place to go."
+  },
+  {
+    "id": 5110180,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Uh-uh-uh oh, dude. Uh"
+  },
+  {
+    "id": 5110181,
+    "ep_num": 511,
+    "segment": 14,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Boy it sure is dry out here."
+  },
+  {
+    "id": 5110182,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Mr. Garrison's house, backyard. The invited guest sit in two rows of chairs"
+  },
+  {
+    "id": 5110183,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Gentlemen, imagine being able to travel safely at incredibly fast speeds, and not having to go to the stupid fartface airports!"
+  },
+  {
+    "id": 5110184,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "MR. HAT",
+    "text": "That sounds incredible, Mr. Garrison."
+  },
+  {
+    "id": 5110185,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "It IS incredible, Mr. Hat. And what makes IT possible  is IT's patented gyroscope design.  Gentlemen, I give you, IT!"
+  },
+  {
+    "id": 5110186,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "GUESTS",
+    "text": "Whoa."
+  },
+  {
+    "id": 5110187,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "STEVE FORBES",
+    "text": "Nice"
+  },
+  {
+    "id": 5110188,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "DONALD TRUMP",
+    "text": "Sweet."
+  },
+  {
+    "id": 5110189,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "IT gets over 300 miles to the gallon, and is safely capable of speeks of over 200 miles per hour."
+  },
+  {
+    "id": 5110190,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "GUESTS",
+    "text": "Whoa. Wow."
+  },
+  {
+    "id": 5110191,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "BILL GATES",
+    "text": "This will change everything."
+  },
+  {
+    "id": 5110192,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "STEVE JOBS",
+    "text": "We're going to have to rethnk cities!"
+  },
+  {
+    "id": 5110193,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Now, IT is easily operated using four flexigrip handles. Two of them are on each side. Left side for throttle, right side for steering.  The third flexigrip is gently inserted into the anus, to keep the driver in place."
+  },
+  {
+    "id": 5110194,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "GUESTS",
+    "text": "Ugh. Oh."
+  },
+  {
+    "id": 5110195,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "...there we go. Now, the final flexigrip is directly in front of the driver so that its small switches can be operaterd with the mouth, as such.  Put the four together and we're ready to go."
+  },
+  {
+    "id": 5110196,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "STEVE JOBS",
+    "text": "Oh my God!"
+  },
+  {
+    "id": 5110197,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "STEVE FORBES",
+    "text": "Look at it go!"
+  },
+  {
+    "id": 5110198,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "BILL GATES",
+    "text": "But the way it works... do you think people will go through that to travel?"
+  },
+  {
+    "id": 5110199,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "STEVE FORBES",
+    "text": "Hey, it... still beats what you go through at the airports."
+  },
+  {
+    "id": 5110200,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "GUEST 1",
+    "text": "True."
+  },
+  {
+    "id": 5110201,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "GUEST 2",
+    "text": "Yup."
+  },
+  {
+    "id": 5110202,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "GUEST 3",
+    "text": "Yeah, that's true."
+  },
+  {
+    "id": 5110203,
+    "ep_num": 511,
+    "segment": 15,
+    "title": "THE ENTITY",
+    "role": "GUEST 4",
+    "text": "Yeap."
+  },
+  {
+    "id": 5110204,
+    "ep_num": 511,
+    "segment": 16,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "The Broflovski house, night. Two lights are on"
+  },
+  {
+    "id": 5110205,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Kyle Two's room. Stan is writing in a book as Kyle speaks"
+  },
+  {
+    "id": 5110206,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I can't take it anymore, Stan. My cousin's been here for two weeks and he's driving me insane."
+  },
+  {
+    "id": 5110207,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "I know, dude. Every kid in school wants to kick his ass."
+  },
+  {
+    "id": 5110208,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Ispent five years in this town making a good name for Jews and this... this... stereotype shows up and wrecks it all! You know what my biggest fear is? That I'll become him. That somehow his mannerisms will start rubbing off on me, and I'll become a stereotype. I mean, I'm a Jew and he's making me hate Jews."
+  },
+  {
+    "id": 5110209,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "Dude, a self-hating Jew? You are becoming a stereotype."
+  },
+  {
+    "id": 5110210,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Ya see?"
+  },
+  {
+    "id": 5110211,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I'm ba-ack!"
+  },
+  {
+    "id": 5110212,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Ugh."
+  },
+  {
+    "id": 5110213,
+    "ep_num": 511,
+    "segment": 17,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "Book. Later, dude."
+  },
+  {
+    "id": 5110214,
+    "ep_num": 511,
+    "segment": 18,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "South Park, day. The day for IT's unveiling is here, and it's being offered at Better Buy. Another camera focuses on the Hispanic reporter"
+  },
+  {
+    "id": 5110215,
+    "ep_num": 511,
+    "segment": 18,
+    "title": "THE ENTITY",
+    "role": "JEFF ARRANDO",
+    "text": "Tom, the day is finally here. IT has arrived for retail sale, and people are getting their first look at it."
+  },
+  {
+    "id": 5110216,
+    "ep_num": 511,
+    "segment": 18,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": ":\t Okay, good. Just step through here And then this is your steering and here's your throttle."
+  },
+  {
+    "id": 5110217,
+    "ep_num": 511,
+    "segment": 18,
+    "title": "THE ENTITY",
+    "role": "CRAIG'S FATHER",
+    "text": "Okay."
+  },
+  {
+    "id": 5110218,
+    "ep_num": 511,
+    "segment": 18,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Okay, now you're just gonna feel a little pinch."
+  },
+  {
+    "id": 5110219,
+    "ep_num": 511,
+    "segment": 18,
+    "title": "THE ENTITY",
+    "role": "CRAIG'S FATHER",
+    "text": "HAAAOW!"
+  },
+  {
+    "id": 5110220,
+    "ep_num": 511,
+    "segment": 18,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "It's alright, it's just locking you in.  You can take it.  Doing great, Kathy. How's that ride?  Okay, now use your mouth to operate the turn signals, and you're off.  Great! Who else wants to give it a spin?"
+  },
+  {
+    "id": 5110221,
+    "ep_num": 511,
+    "segment": 19,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "In front of Better Buy. IT drivers move about as Randy and Stuart look on. Craig's father rolls to a stop next to them"
+  },
+  {
+    "id": 5110222,
+    "ep_num": 511,
+    "segment": 19,
+    "title": "THE ENTITY",
+    "role": "RANDY",
+    "text": "Oh, man, it that the IT?"
+  },
+  {
+    "id": 5110223,
+    "ep_num": 511,
+    "segment": 19,
+    "title": "THE ENTITY",
+    "role": "CRAIG'S FATHER",
+    "text": "Hehyeah."
+  },
+  {
+    "id": 5110224,
+    "ep_num": 511,
+    "segment": 19,
+    "title": "THE ENTITY",
+    "role": "STUART",
+    "text": "How is it?"
+  },
+  {
+    "id": 5110225,
+    "ep_num": 511,
+    "segment": 19,
+    "title": "THE ENTITY",
+    "role": "CRAIG'S FATHER",
+    "text": "Well, ugh. Ih ih it beats dealing with the airline companies, that's for sure."
+  },
+  {
+    "id": 5110226,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Neighborhood, day. The boys have Kyle on a sled, which is tied to..."
+  },
+  {
+    "id": 5110227,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I don't know about this, guys. I think sleds are dangerous."
+  },
+  {
+    "id": 5110228,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Look, Kyle. Sledding is something all kids out here do. You've gotta learn."
+  },
+  {
+    "id": 5110229,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "It seems like I might get splinters, though."
+  },
+  {
+    "id": 5110230,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Remember: Just hold on. No matter how long the sledding run lasts, hold on."
+  },
+  {
+    "id": 5110231,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Hold on. I see.  Oh, Jeezus, this sled is going faaaast."
+  },
+  {
+    "id": 5110232,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Hang on!"
+  },
+  {
+    "id": 5110233,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I have to watch out for my glasses. Ow! Ow, it's so cold! Oh Jesus!"
+  },
+  {
+    "id": 5110234,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "How far do you thnk it is to Connecticut?"
+  },
+  {
+    "id": 5110235,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "It's a least a couple of hours."
+  },
+  {
+    "id": 5110236,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Think he'll be alright."
+  },
+  {
+    "id": 5110237,
+    "ep_num": 511,
+    "segment": 20,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "He's faaahn."
+  },
+  {
+    "id": 5110238,
+    "ep_num": 511,
+    "segment": 21,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Commercial"
+  },
+  {
+    "id": 5110239,
+    "ep_num": 511,
+    "segment": 21,
+    "title": "THE ENTITY",
+    "role": "ANNOUNCER",
+    "text": "Are you tired of coprporate airline companies treating you like a worthless sardine?  Tired of ridiculous lines and horrible security at airports? Well, now there is an alternative to airline travel.  IT.  IT has taken the country by storm.  And already two million have been sold.  Never have another important business trip ruined by airline incompetence.  Hey ladies! How did you get to the Grand Canyon?  IT comes in sizes for the entire family."
+  },
+  {
+    "id": 5110240,
+    "ep_num": 511,
+    "segment": 21,
+    "title": "THE ENTITY",
+    "role": "WOMAN",
+    "text": "Here you go, Robby."
+  },
+  {
+    "id": 5110241,
+    "ep_num": 511,
+    "segment": 21,
+    "title": "THE ENTITY",
+    "role": "JOHN TRAVOLTA",
+    "text": "Hello, I'm John Travolta. I used to rely on airlines to get me to set, but once I got used to IT,  I found it to be a little less painful than dealing with the airline companies. I just power up the flexigrips.  And I'm ready to go. Thank you, IT."
+  },
+  {
+    "id": 5110242,
+    "ep_num": 511,
+    "segment": 21,
+    "title": "THE ENTITY",
+    "role": "ANNOUNCER",
+    "text": "So join the millions of Americans who have felt a little more comfortable with... traveling.  Order yours today and remember our slogan: IT's better than flying."
+  },
+  {
+    "id": 5110243,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Kyle's house, living room. Kyle Two has finished watching the commercial"
+  },
+  {
+    "id": 5110244,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "...Hm, that was pretty gay."
+  },
+  {
+    "id": 5110245,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle Two, where is Kyle?"
+  },
+  {
+    "id": 5110246,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYULE TWO",
+    "text": "I don't know, Mom. Last time I saw him he was sledding."
+  },
+  {
+    "id": 5110247,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Where on earth could he be?"
+  },
+  {
+    "id": 5110248,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "You know, it's just possible he went back to Conencticut."
+  },
+  {
+    "id": 5110249,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "What?"
+  },
+  {
+    "id": 5110250,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Well, ah I mean, maybe he got so worried about his mom that found a way to get back and see her."
+  },
+  {
+    "id": 5110251,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Don't be ridiculous, Kyle Two. He's out playing with his new friends."
+  },
+  {
+    "id": 5110252,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I'm just throwin' it out there as a possibility."
+  },
+  {
+    "id": 5110253,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I'm ba-ack."
+  },
+  {
+    "id": 5110254,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "AAA!"
+  },
+  {
+    "id": 5110255,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I'm sorry. You must've been worried sick. I got your sled tangled up with a bus."
+  },
+  {
+    "id": 5110256,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "A, a bus. R-really?"
+  },
+  {
+    "id": 5110257,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle, what happened to you??"
+  },
+  {
+    "id": 5110258,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Ah- I was just sledding, and the next thing I knew my sled rope got tangled with a bus, uh. I gut dragged for over a hundred miles before the bus finally stopped for gas.  I'm sorry about your sled, Kyle."
+  },
+  {
+    "id": 5110259,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Oh no- don't worry about it, dude."
+  },
+  {
+    "id": 5110260,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Oh you poor thing! Come upstairs and we'll get you out of those wet clothes. Are you alright?"
+  },
+  {
+    "id": 5110261,
+    "ep_num": 511,
+    "segment": 22,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh, my ears feel like they're frozen off, and I think I have a hemorrhoid from sitting on the sled for so long."
+  },
+  {
+    "id": 5110262,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "IT dealership, day. The IT has grown so popular it's left Better Buy for its own sale space. The camera pans across the showroom floor to Mr. Garrison, seated in front of an IT Moters Inc. sign. He's got a stack of bills to his right and a computer to his left, all on a futuristic desk"
+  },
+  {
+    "id": 5110263,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "We're in the money, Mr. Hat, We're in the money, Mr. Hat...  Oh hi, Jimbo. Can I help you?"
+  },
+  {
+    "id": 5110264,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "JIMBO",
+    "text": "Yeah, I wanted to order that theft alarm for my IT."
+  },
+  {
+    "id": 5110265,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Oh, right, right. Take a seat."
+  },
+  {
+    "id": 5110266,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "JIMBO",
+    "text": "Uh, that's okay, I'll stand."
+  },
+  {
+    "id": 5110267,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "What do you think, Mr. Marsh? All set to put a down payment on that baby?"
+  },
+  {
+    "id": 5110268,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "RANDY",
+    "text": "Well, yeah, but I have one question about the way it works."
+  },
+  {
+    "id": 5110269,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Sure."
+  },
+  {
+    "id": 5110270,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "RANDY",
+    "text": "Well,  it seems all the buttons on these front and rear flexigrips are also found on the side of the vehicle."
+  },
+  {
+    "id": 5110271,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Yeup."
+  },
+  {
+    "id": 5110272,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "RANDY",
+    "text": "Well... so... they don't really... do anything."
+  },
+  {
+    "id": 5110273,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Right."
+  },
+  {
+    "id": 5110274,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "RANDY",
+    "text": "So then, couldn't I just order one that works without going in and out of my ass and mouth?"
+  },
+  {
+    "id": 5110275,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Well, I... guess you could."
+  },
+  {
+    "id": 5110276,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MAN 1",
+    "text": "Huh?"
+  },
+  {
+    "id": 5110277,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MAN 2",
+    "text": "Whazzat?"
+  },
+  {
+    "id": 5110278,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MAN 3",
+    "text": "Wha- what did you- what did he say?"
+  },
+  {
+    "id": 5110279,
+    "ep_num": 511,
+    "segment": 23,
+    "title": "THE ENTITY",
+    "role": "MAN 4",
+    "text": "What?"
+  },
+  {
+    "id": 5110280,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Denver International Airport, day. A plane takes off. Inside the terminal the boys and Kyle stand around"
+  },
+  {
+    "id": 5110281,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I don't know about this guys. I think playing hide and seek in the airport might be dangerous."
+  },
+  {
+    "id": 5110282,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Kyle, we told you: Kids in Colorado all play hide and seek at the airport."
+  },
+  {
+    "id": 5110283,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "Yeah, as soon as we get to the concourse you'll see how fun it is."
+  },
+  {
+    "id": 5110284,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Ungh, this is taking too long. The flight to Connecticut is about to leave. Ey! Can we speed things up here??"
+  },
+  {
+    "id": 5110285,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "SECURITY GUARD",
+    "text": "Daaah, sorry, but ever since that IT thing came out the airlines have had to cut back on employees."
+  },
+  {
+    "id": 5110286,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Dude, we're the only ones here! How long does it take five people through security?!"
+  },
+  {
+    "id": 5110287,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "SECURITY GUARD",
+    "text": "Derr, let's see: Twelve people... plus... times... divided... two hours domestic, three hours international."
+  },
+  {
+    "id": 5110288,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Can't we just play hide and seek at home?"
+  },
+  {
+    "id": 5110289,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "No!"
+  },
+  {
+    "id": 5110290,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "SECURITY GUARD",
+    "text": "Dah ha! What's this?! A toenail clipper! Die, terrorist!"
+  },
+  {
+    "id": 5110291,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh, Jesus!!"
+  },
+  {
+    "id": 5110292,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "SECURITY GUARD",
+    "text": "See, we do these checks for a reason!"
+  },
+  {
+    "id": 5110293,
+    "ep_num": 511,
+    "segment": 24,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "This is ridiculous! Come on!"
+  },
+  {
+    "id": 5110294,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "Tarmac, outside. The boys stop at a plane ready to take off."
+  },
+  {
+    "id": 5110295,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Okay, Cartman, you're it. Start counting."
+  },
+  {
+    "id": 5110296,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "1, 2, 3, 4..."
+  },
+  {
+    "id": 5110297,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Here, Kyle. You go hide in here."
+  },
+  {
+    "id": 5110298,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "In there? But it's very confined. I'll get cramps in my legs."
+  },
+  {
+    "id": 5110299,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "JUST GET IN THE BOX!"
+  },
+  {
+    "id": 5110300,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Ub, alright then.  Oh, would you look at that? I've got a corn on my ankle. Now where did that one come from? That's the fourth one I've had-"
+  },
+  {
+    "id": 5110301,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I hope he doesn't suffocate."
+  },
+  {
+    "id": 5110302,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "He's faaahn."
+  },
+  {
+    "id": 5110303,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "Yeah. He'll be waaay better off back at home."
+  },
+  {
+    "id": 5110304,
+    "ep_num": 511,
+    "segment": 25,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Oh, Jesus, this bus is going fast! Oh, I did it again!!"
+  },
+  {
+    "id": 5110305,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "IT dealership, day. Crowds mill around the dealership. Federal agents raid the building and start hauling ITs away. Mr. Garrison isn't pleased."
+  },
+  {
+    "id": 5110306,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Excuse me, what the hell are you doing?"
+  },
+  {
+    "id": 5110307,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "AGENT 1",
+    "text": "It's alright, we're with the government."
+  },
+  {
+    "id": 5110308,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "AGENT 2",
+    "text": "We're just shutting you down."
+  },
+  {
+    "id": 5110309,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Shutting me down? Why?"
+  },
+  {
+    "id": 5110310,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "AGENT 3",
+    "text": "The airlines are in desperate trouble. Your vehicle is causing them to lose money."
+  },
+  {
+    "id": 5110311,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "Yeah, well that was the point, dingleberry! Ah-t put that down!"
+  },
+  {
+    "id": 5110312,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "AGENT 4",
+    "text": "Right, so the governmentn is bailing the airlines out again, but shutting you down and making ITs illegal."
+  },
+  {
+    "id": 5110313,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "OH, GOD-DAMNIT! You'd better be kidding!"
+  },
+  {
+    "id": 5110314,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "AGENT 5",
+    "text": "Sir, many people work for the airlines. We can't let them all be fired."
+  },
+  {
+    "id": 5110315,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "THE AIRLINE COMPANIES ARE LOSING MONEY BECAUSE OF THEIR OWN INCOMPETENCE AND THEIR OWN INEFFICIENCY!!"
+  },
+  {
+    "id": 5110316,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "AGENT 6",
+    "text": "That may be truu. But if you build, sell, or ride another IT, \"it\" will be the last time. Have a nice night."
+  },
+  {
+    "id": 5110317,
+    "ep_num": 511,
+    "segment": 26,
+    "title": "THE ENTITY",
+    "role": "MR. GARRISON",
+    "text": "HWAAAAHHH! Airline motherfuckerrrs! You pieces of shiiit! Cocksucking sons of bitch airlines!"
+  },
+  {
+    "id": 5110318,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "The Broflovski house, night. In the living room, Sheila paces the floor as Kyle sits on the sofa."
+  },
+  {
+    "id": 5110319,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Oh, it's been days! Where can he be?"
+  },
+  {
+    "id": 5110320,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I dunno, Mom. It's like he vanished into thin air."
+  },
+  {
+    "id": 5110321,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "I'm gong to call the police again. Kyle Two, go down to the playground and look there."
+  },
+  {
+    "id": 5110322,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I already checked the playground, Ma. I told you, he isn't really-"
+  },
+  {
+    "id": 5110323,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I'm back."
+  },
+  {
+    "id": 5110324,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "GAAAH!"
+  },
+  {
+    "id": 5110325,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle!  You're back!"
+  },
+  {
+    "id": 5110326,
+    "ep_num": 511,
+    "segment": 27,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Yeah, it was the craziest thing. I hid myself on a plane to Antarctica. Oh, it was so dry down there."
+  },
+  {
+    "id": 5110327,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "description",
+    "text": "The Broflovski house, a few days later. Stan and Cartman approach the door. Inside, Kyle is standing in the living room, his arms crossed. He's clearly pissed off. The door opens, and Stan and Cartman walk in."
+  },
+  {
+    "id": 5110328,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "So dude, did Cartman's idea work?"
+  },
+  {
+    "id": 5110329,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "No. I tried getting my cousin lost in the woods, but a stupid bear brought him home."
+  },
+  {
+    "id": 5110330,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "Damn!"
+  },
+  {
+    "id": 5110331,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "I just have to face facts that I'm gointuh live with my crappy cousin forever."
+  },
+  {
+    "id": 5110332,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Well, Kyle, I I gotta go."
+  },
+  {
+    "id": 5110333,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "...What?"
+  },
+  {
+    "id": 5110334,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Yeah, I've gotta get back to Connecticut."
+  },
+  {
+    "id": 5110335,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE'S MOTHER",
+    "text": "Now that things have changed for Kyle, his mother needs him back."
+  },
+  {
+    "id": 5110336,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Do you promise??  I mean, oh. Thah-uh that's too bad, dude. What, what changed for you?"
+  },
+  {
+    "id": 5110337,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Well, I I invested in that IT thng, and there was a bailout, so I received a five million dollar bailout clause check, which, which I can use to help my family, so, I I guess, goodbye, cousin."
+  },
+  {
+    "id": 5110338,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Okay. See ya, cousin. Hope to see ya soon.  Not too soon, I hope."
+  },
+  {
+    "id": 5110339,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "STAN",
+    "text": "Yeah, haha"
+  },
+  {
+    "id": 5110340,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "Heheheheheh."
+  },
+  {
+    "id": 5110341,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "ALL THREE",
+    "text": "Five million dollars???"
+  },
+  {
+    "id": 5110342,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Dudedudedude! You you have five miliion dollars??"
+  },
+  {
+    "id": 5110343,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Yeah, I don't know what to do with it, though. Well, see ya."
+  },
+  {
+    "id": 5110344,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Wait. Kyle, this may sound crazy, but I think you should stay!"
+  },
+  {
+    "id": 5110345,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "STAN, CARTMAN",
+    "text": "Yeah!"
+  },
+  {
+    "id": 5110346,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Ru really?"
+  },
+  {
+    "id": 5110347,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Yeah. You see, I've learned something today.  Sometimes people have trouble fitting in at, at school and,...  and um... Let's see, what did I learn about? What did I learn about today?"
+  },
+  {
+    "id": 5110348,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "I I, I learned that... you shouldn't judge somebody because... that-no, wait."
+  },
+  {
+    "id": 5110349,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Nonono, it was good! What were you going to say?"
+  },
+  {
+    "id": 5110350,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "Listen, guys, I appreaciate you wanting me around, but, the fact of the matter is, well, yeh, you guys are just kind of douche bags."
+  },
+  {
+    "id": 5110351,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "... Uhwhat?"
+  },
+  {
+    "id": 5110352,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE",
+    "text": "I mean, yeyou people are all just such hick jock rednecks; it's just like you right out of a stereotyped catalog. Ah I can't take it. See ya."
+  },
+  {
+    "id": 5110353,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "KYLE TWO",
+    "text": "Dude! Weak."
+  },
+  {
+    "id": 5110354,
+    "ep_num": 511,
+    "segment": 28,
+    "title": "THE ENTITY",
+    "role": "CARTMAN",
+    "text": "...Good job, Jew!"
+  }
+]

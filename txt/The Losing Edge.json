@@ -1,0 +1,2506 @@
+[
+  {
+    "id": 9050001,
+    "ep_num": 905,
+    "segment": 1,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "A baseball field in scenic Rocky Mountain territory. Stan is on the pitching mound"
+  },
+  {
+    "id": 9050002,
+    "ep_num": 905,
+    "segment": 1,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "This is is, Stan. If you strike this kid out, we all get to go home."
+  },
+  {
+    "id": 9050003,
+    "ep_num": 905,
+    "segment": 2,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Announcer's Booth"
+  },
+  {
+    "id": 9050004,
+    "ep_num": 905,
+    "segment": 2,
+    "title": "THE LOSING EDGE",
+    "role": "LOCAL ANNOUNCER 1",
+    "text": "Now batting for Conifer is little Alan Barkas."
+  },
+  {
+    "id": 9050005,
+    "ep_num": 905,
+    "segment": 3,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "The bleachers"
+  },
+  {
+    "id": 9050006,
+    "ep_num": 905,
+    "segment": 3,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Heeey batterbatterbatterbatter heydn no hit no hit can't hit can't hit can't hit it can't hit it can't hit it."
+  },
+  {
+    "id": 9050007,
+    "ep_num": 905,
+    "segment": 3,
+    "title": "THE LOSING EDGE",
+    "role": "MR. BARKAS",
+    "text": "Hit it out of the park, Alan! South Park sucks!"
+  },
+  {
+    "id": 9050008,
+    "ep_num": 905,
+    "segment": 3,
+    "title": "THE LOSING EDGE",
+    "role": "MR. DONOVAN",
+    "text": "Just look at those boys out there, lovin' the great game of baseball like we did when we were kids."
+  },
+  {
+    "id": 9050009,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "the field"
+  },
+  {
+    "id": 9050010,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Aw God, I'm so borrred."
+  },
+  {
+    "id": 9050011,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "BUTTERS",
+    "text": "I see a ladybug- Hello lady ladybug."
+  },
+  {
+    "id": 9050012,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike."
+  },
+  {
+    "id": 9050013,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "MR. BARKAS",
+    "text": "That was no strike! What the hell is wrong with you, ref?"
+  },
+  {
+    "id": 9050014,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Good call, ref! Good call!"
+  },
+  {
+    "id": 9050015,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "MR. BARKAS",
+    "text": "Come on, Alan! This pitcher throws like a girl!"
+  },
+  {
+    "id": 9050016,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "What'd you say?!"
+  },
+  {
+    "id": 9050017,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "MR. BARKAS",
+    "text": "You heard me, asshole!"
+  },
+  {
+    "id": 9050018,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "You want me to kick your ass right here?!"
+  },
+  {
+    "id": 9050019,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "Randy, sit down."
+  },
+  {
+    "id": 9050020,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "MR. BARKAS",
+    "text": "You want a piece of me?! 'Cause I'm pretty sick of your Goddamned mouth!"
+  },
+  {
+    "id": 9050021,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Whattaya wanna do, huh? Whattaya wanna do?"
+  },
+  {
+    "id": 9050022,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "Randy, don't!"
+  },
+  {
+    "id": 9050023,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "MR. BARKAS",
+    "text": "You'd better shut up, asshole!"
+  },
+  {
+    "id": 9050024,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "I'm standin' right here! How do you wanna handle it?"
+  },
+  {
+    "id": 9050025,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "MR. BARKAS",
+    "text": "I told you to SHUT UP!"
+  },
+  {
+    "id": 9050026,
+    "ep_num": 905,
+    "segment": 4,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Aw Jesus, not again."
+  },
+  {
+    "id": 9050027,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "moments later"
+  },
+  {
+    "id": 9050028,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Come on, Stan! Just strike this kid out so we can end the season!"
+  },
+  {
+    "id": 9050029,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike three! You're out!"
+  },
+  {
+    "id": 9050030,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Yes! It's over! It's over!"
+  },
+  {
+    "id": 9050031,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "LOCAL ANNOUNCER 1",
+    "text": "That's it. South Park wins the game 4 to 0."
+  },
+  {
+    "id": 9050032,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "We're done! No more baseball!"
+  },
+  {
+    "id": 9050033,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "No more boring baseball until next year!"
+  },
+  {
+    "id": 9050034,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "We can start having fun again!"
+  },
+  {
+    "id": 9050035,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "All right, we did it!"
+  },
+  {
+    "id": 9050036,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "We did it! We did it!"
+  },
+  {
+    "id": 9050037,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "Yeah, we did it, boys! We did it! We're going to the finals! Woohoo!"
+  },
+  {
+    "id": 9050038,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "... What?"
+  },
+  {
+    "id": 9050039,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "Well we won! That means we've got the best record in the division!"
+  },
+  {
+    "id": 9050040,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE'S FATHER",
+    "text": "Congratulations, boys! You're goin' on to the post-season. Woohoo!"
+  },
+  {
+    "id": 9050041,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "Post-season?"
+  },
+  {
+    "id": 9050042,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Nobody said anything about a post-season."
+  },
+  {
+    "id": 9050043,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "TOM",
+    "text": "There's more little-league baseball for South Park! Yehheah!"
+  },
+  {
+    "id": 9050044,
+    "ep_num": 905,
+    "segment": 5,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "No... NOOO!!"
+  },
+  {
+    "id": 9050045,
+    "ep_num": 905,
+    "segment": 6,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Outside, after the game. Randy is hauled off to a waiting patrol car, drunk and tattered. His pants are down to his ankles"
+  },
+  {
+    "id": 9050046,
+    "ep_num": 905,
+    "segment": 6,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "This is for what?! Arresting me for what?! I'm not allowed to stand up for myself?! I thought this was America! Huh?! Isn't this America!? I'm sorry, I thought this was America!"
+  },
+  {
+    "id": 9050047,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Whistlin' Willy's, night. The boys are gathered there for a pizza dinner"
+  },
+  {
+    "id": 9050048,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "I can't believe it. I can't believe we have to keep on playing."
+  },
+  {
+    "id": 9050049,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "Nobody told us if we win too many games we'd go on to the finals!"
+  },
+  {
+    "id": 9050050,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Look, you guys, maybe it's not all that bad."
+  },
+  {
+    "id": 9050051,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "CRAIG",
+    "text": "Not all that bad?? How could you say that?! You hate this game more than any of us!"
+  },
+  {
+    "id": 9050052,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "I know, but listen: the finals are all sudden-deatn elimination, right? That means as soon as we lose one game, our season is over."
+  },
+  {
+    "id": 9050053,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "BUTTERS",
+    "text": "Well yeah, but... we usually win."
+  },
+  {
+    "id": 9050054,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "CRAIG",
+    "text": "All the other teams are worse than us."
+  },
+  {
+    "id": 9050055,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "JIMMY",
+    "text": "Yeah. Let's face it, we're winners."
+  },
+  {
+    "id": 9050056,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "I know we can lose if we try."
+  },
+  {
+    "id": 9050057,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "You mean, throw the game? You know how our parents are about this sport."
+  },
+  {
+    "id": 9050058,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "BUTTERS",
+    "text": "Yeah. My dad always said \"It's Okay to lose, but if you don't try, wuh you're grounded, Mister.\""
+  },
+  {
+    "id": 9050059,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "THE OTHER BOYS",
+    "text": "Yeah, uh huh."
+  },
+  {
+    "id": 9050060,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Okay, so then we'll just tell the other team quietly that we're gonna let them win, and then we'll act like we're trying. Our parents will never know."
+  },
+  {
+    "id": 9050061,
+    "ep_num": 905,
+    "segment": 7,
+    "title": "THE LOSING EDGE",
+    "role": "BUTTERS",
+    "text": "We'd better hope they never know, or else there's gonna be heck to pay. Heck, I tell ya!"
+  },
+  {
+    "id": 9050062,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "At the entrance of Whistlin' Willy's, the adults are gathered, relaxing"
+  },
+  {
+    "id": 9050063,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE'S FATHER",
+    "text": "Boy, that was great, wasn't it?!"
+  },
+  {
+    "id": 9050064,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "MR. DONOVAN",
+    "text": "Yeah, our boys really stuck it to 'em!"
+  },
+  {
+    "id": 9050065,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Heeey!"
+  },
+  {
+    "id": 9050066,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "MEN",
+    "text": "Heeey!"
+  },
+  {
+    "id": 9050067,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "You're out."
+  },
+  {
+    "id": 9050068,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE'S FATHER",
+    "text": "How much was bail this time?"
+  },
+  {
+    "id": 9050069,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Hundred bucks, no big whoop."
+  },
+  {
+    "id": 9050070,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "RICHARD",
+    "text": "Boy, you really beat the crap out of that Conifer dad."
+  },
+  {
+    "id": 9050071,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Well somebody had to put that knucklehead in his place."
+  },
+  {
+    "id": 9050072,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "Yeah, well, you'd better watch yourself in the playoffs."
+  },
+  {
+    "id": 9050073,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Wha-what do you mean?"
+  },
+  {
+    "id": 9050074,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "I mean, you always get in a fight with scrappy redneck dats up here in the mountains, but some of those Division Two dads are tough!"
+  },
+  {
+    "id": 9050075,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE'S FATHER",
+    "text": "Yeah, those dads get REALLY drunk and obnoxious."
+  },
+  {
+    "id": 9050076,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "I can fight anybody. I just need to train. I just need to get in the best shape of my life."
+  },
+  {
+    "id": 9050077,
+    "ep_num": 905,
+    "segment": 8,
+    "title": "THE LOSING EDGE",
+    "role": "DJ",
+    "text": "-the Beatles in the White Album in Helter Skelter. Okay."
+  },
+  {
+    "id": 9050078,
+    "ep_num": 905,
+    "segment": 9,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Randy rises from the bed and sits up, leaves the bed and shrugs, and wipes his nose a bit. He enters the kitchen, gets a glass, then goes to the refrigerator. He gets three eggs, cracks them open on the rim of the glass, and pours them into the glass. He picks up the glass and moves off a bit, then pours the eggs into a hot pan and scrambles them. He then picks up a beer, drinks, burps, and farts"
+  },
+  {
+    "id": 9050079,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Fort Collins baseball field, night"
+  },
+  {
+    "id": 9050080,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC ANNOUNCER",
+    "text": "We want to welcome all South Park parents to Fort Collins, and the Little League Division One Playoffs."
+  },
+  {
+    "id": 9050081,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Uhh, hay guys, look, we don't wanna win, so uh,  here's a list of all the pitches I'm gonna throw, in order."
+  },
+  {
+    "id": 9050082,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC TEAM",
+    "text": "Ooooo!"
+  },
+  {
+    "id": 9050083,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC FAT PLAYER",
+    "text": "I don't think so, South Park"
+  },
+  {
+    "id": 9050084,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC PITCHER",
+    "text": "Yeah, you think we wanna win? Then we have to keep playing this boring game!"
+  },
+  {
+    "id": 9050085,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC TEAM",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9050086,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "You hate this game too?"
+  },
+  {
+    "id": 9050087,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC BATTER",
+    "text": "Yeah! And then we won the stupid regionals and had to do this lousy-ass tournament!"
+  },
+  {
+    "id": 9050088,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC CATCHER",
+    "text": "We wanna play video games."
+  },
+  {
+    "id": 9050089,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "BUTTERS",
+    "text": "Oh no!"
+  },
+  {
+    "id": 9050090,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Look! We're gonna be the losers tonight, all right?!"
+  },
+  {
+    "id": 9050091,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC PITCHER",
+    "text": "I don't think so! There's no way you can lose to us! We're going doowwn! We're gonna get creeaamed!"
+  },
+  {
+    "id": 9050092,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "No, we're gonna get creamed!"
+  },
+  {
+    "id": 9050093,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC BATTER",
+    "text": "We'll just see about that!"
+  },
+  {
+    "id": 9050094,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "SP TEAM",
+    "text": "Oh yeah?"
+  },
+  {
+    "id": 9050095,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC TEAM",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9050096,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Oh boy, they're really gettin' into each others' heads out there.  Yeah! Let's go, South Park! These Fort Collins kids got nothin'! Wooo!"
+  },
+  {
+    "id": 9050097,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MR. PRATT",
+    "text": "Come on, Fort Collins! Let 'em have it! Yeah!"
+  },
+  {
+    "id": 9050098,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Guess that's my guy. I can take him, no problem."
+  },
+  {
+    "id": 9050099,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "All right, hit one out of the park!"
+  },
+  {
+    "id": 9050100,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC ANNOUNCER",
+    "text": "And first up for Fort Collins is... Morgan Pratt."
+  },
+  {
+    "id": 9050101,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Heeey batterbatterbatterbatter batteruuuuuuuupp batterbatterbatterbatter!"
+  },
+  {
+    "id": 9050102,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MR. PRATT",
+    "text": "Knock it out of the park, Morgan! Cream these turds!"
+  },
+  {
+    "id": 9050103,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Steerike!"
+  },
+  {
+    "id": 9050104,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9050105,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC TEAM",
+    "text": "Yeah, all right!"
+  },
+  {
+    "id": 9050106,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Damnit!"
+  },
+  {
+    "id": 9050107,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "Come on, kid, you gotta at least swing at it."
+  },
+  {
+    "id": 9050108,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MORGAN",
+    "text": "No way! I'm striking out!"
+  },
+  {
+    "id": 9050109,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Dude, he's not gonna swing! So just throw balls. That way he'll have to walk to first base."
+  },
+  {
+    "id": 9050110,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Ball!"
+  },
+  {
+    "id": 9050111,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "All right!"
+  },
+  {
+    "id": 9050112,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC PITCHER",
+    "text": "Morgan!"
+  },
+  {
+    "id": 9050113,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MORGAN",
+    "text": "What?"
+  },
+  {
+    "id": 9050114,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC PITCHER",
+    "text": "You have to swing when it's a ball, otherwise, you're gonna walk to first base. Don't swing, only if it's a strike!"
+  },
+  {
+    "id": 9050115,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MORGAN",
+    "text": "Well how the Sam Hell am I supposed to know if he's gonna be throwing a strike or a ball?!"
+  },
+  {
+    "id": 9050116,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC PITCHER",
+    "text": "You just have to guess."
+  },
+  {
+    "id": 9050117,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MORGAN",
+    "text": "Aw, Jesus!"
+  },
+  {
+    "id": 9050118,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "Ball. Balll."
+  },
+  {
+    "id": 9050119,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Steerike two!"
+  },
+  {
+    "id": 9050120,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "No!"
+  },
+  {
+    "id": 9050121,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "That was no strike, that was a terrible pitch! You need some Goddamned lasik surgery!"
+  },
+  {
+    "id": 9050122,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Attaway, South Park! They ain't swingin' at nothin'!"
+  },
+  {
+    "id": 9050123,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MR. PRATT",
+    "text": "Come on Fort Collins! This team can't pitch!  There you go, Morgan! Run run run!"
+  },
+  {
+    "id": 9050124,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MORGAN",
+    "text": "Aw damnit!"
+  },
+  {
+    "id": 9050125,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC PITCHER",
+    "text": "Why the hell did you swing at it?!"
+  },
+  {
+    "id": 9050126,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "MORGAN",
+    "text": "Well I thought he was gonna throw a ball that time!"
+  },
+  {
+    "id": 9050127,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike three! You're out!"
+  },
+  {
+    "id": 9050128,
+    "ep_num": 905,
+    "segment": 10,
+    "title": "THE LOSING EDGE",
+    "role": "FC BATTER 1",
+    "text": "All right!"
+  },
+  {
+    "id": 9050129,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Later. Fort Collins is pitching; The pitch is wide as Cartman waits at bat"
+  },
+  {
+    "id": 9050130,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Ball four!"
+  },
+  {
+    "id": 9050131,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "What?!"
+  },
+  {
+    "id": 9050132,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Walk to first! Woo!"
+  },
+  {
+    "id": 9050133,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "Aw Goddamnit!"
+  },
+  {
+    "id": 9050134,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Safe!"
+  },
+  {
+    "id": 9050135,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Crud!"
+  },
+  {
+    "id": 9050136,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Fort Collins can't play!"
+  },
+  {
+    "id": 9050137,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "MR. PRATT",
+    "text": "Why don't you shut your mouth before I kick your ass!"
+  },
+  {
+    "id": 9050138,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Come on, let's go! I'm right here!"
+  },
+  {
+    "id": 9050139,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "Randy..."
+  },
+  {
+    "id": 9050140,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "MR. PRATT",
+    "text": "Sit down before you get hurt!  Mother bitch!"
+  },
+  {
+    "id": 9050141,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Goddamnit!"
+  },
+  {
+    "id": 9050142,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike three!"
+  },
+  {
+    "id": 9050143,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "FC ANNOUNCER",
+    "text": "That's it. South Park wins the game."
+  },
+  {
+    "id": 9050144,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Aw spit!"
+  },
+  {
+    "id": 9050145,
+    "ep_num": 905,
+    "segment": 11,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Oh I'm sorry! Why don'tcha get 'im on chars in America, I'm sorry!"
+  },
+  {
+    "id": 9050146,
+    "ep_num": 905,
+    "segment": 12,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Greeley, CO, day, Greeley Field, home of the Tigers. Stan pitches, the Greeley batter chases a pitch"
+  },
+  {
+    "id": 9050147,
+    "ep_num": 905,
+    "segment": 12,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike three. You're out."
+  },
+  {
+    "id": 9050148,
+    "ep_num": 905,
+    "segment": 12,
+    "title": "THE LOSING EDGE",
+    "role": "GREELEY BATTER",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9050149,
+    "ep_num": 905,
+    "segment": 12,
+    "title": "THE LOSING EDGE",
+    "role": "GREELEY TEAM",
+    "text": "All right! Yeah! Woohoo!"
+  },
+  {
+    "id": 9050150,
+    "ep_num": 905,
+    "segment": 12,
+    "title": "THE LOSING EDGE",
+    "role": "GREELEY MAN",
+    "text": "Goddmanit Brian, swing!"
+  },
+  {
+    "id": 9050151,
+    "ep_num": 905,
+    "segment": 12,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Greeley sucks! Greeley sucks!"
+  },
+  {
+    "id": 9050152,
+    "ep_num": 905,
+    "segment": 13,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "South Park is up. Its batter sees a ball and doesn't swing"
+  },
+  {
+    "id": 9050153,
+    "ep_num": 905,
+    "segment": 13,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Ball four!"
+  },
+  {
+    "id": 9050154,
+    "ep_num": 905,
+    "segment": 13,
+    "title": "THE LOSING EDGE",
+    "role": "BUTTERS",
+    "text": "Aw hamburgers."
+  },
+  {
+    "id": 9050155,
+    "ep_num": 905,
+    "segment": 13,
+    "title": "THE LOSING EDGE",
+    "role": "SP TEAM",
+    "text": "God!"
+  },
+  {
+    "id": 9050156,
+    "ep_num": 905,
+    "segment": 14,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "on the field. The Greeley batter doesn't swing"
+  },
+  {
+    "id": 9050157,
+    "ep_num": 905,
+    "segment": 14,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike three!"
+  },
+  {
+    "id": 9050158,
+    "ep_num": 905,
+    "segment": 14,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "How the hell was that a strike?!  Goddamnit, he's going to first!"
+  },
+  {
+    "id": 9050159,
+    "ep_num": 905,
+    "segment": 15,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "After the game. Randy is hauled off a third time"
+  },
+  {
+    "id": 9050160,
+    "ep_num": 905,
+    "segment": 15,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "What, is this a Communist country or something?! I thought this was America!"
+  },
+  {
+    "id": 9050161,
+    "ep_num": 905,
+    "segment": 16,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Pueblo, CO. day. A Pueblo batter swings and misses"
+  },
+  {
+    "id": 9050162,
+    "ep_num": 905,
+    "segment": 16,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "¡Strrrrike tres!"
+  },
+  {
+    "id": 9050163,
+    "ep_num": 905,
+    "segment": 16,
+    "title": "THE LOSING EDGE",
+    "role": "PUEBLO TEAM",
+    "text": "Bueno bueno! Bueno! Espectacular!"
+  },
+  {
+    "id": 9050164,
+    "ep_num": 905,
+    "segment": 16,
+    "title": "THE LOSING EDGE",
+    "role": "PUEBLO DAD",
+    "text": "¡Vamonos Pueblo! ¡Viva la Pueblo!"
+  },
+  {
+    "id": 9050165,
+    "ep_num": 905,
+    "segment": 16,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "¡Pueblo, no bueno! ¡Pueblo es muy mal!"
+  },
+  {
+    "id": 9050166,
+    "ep_num": 905,
+    "segment": 16,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "¡Ball cuatro, por favor!"
+  },
+  {
+    "id": 9050167,
+    "ep_num": 905,
+    "segment": 16,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "This is America! This is an honest America!"
+  },
+  {
+    "id": 9050168,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Whistlin' Willy's. The team is at table again, but with a trophy they didn't want. The adults begin to approach them"
+  },
+  {
+    "id": 9050169,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "Can you believe it, boys?! We're playing in the State Championship Game!"
+  },
+  {
+    "id": 9050170,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "We're so proud of you kids!"
+  },
+  {
+    "id": 9050171,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "What happens if we win the State Championship game?"
+  },
+  {
+    "id": 9050172,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "Well, then your whole season starts over, but on the national circuit! You get to spend your whole summer playing baseball!"
+  },
+  {
+    "id": 9050173,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "What??"
+  },
+  {
+    "id": 9050174,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "MR. DONOVAN",
+    "text": "You could do it, kids! We know you can win State!"
+  },
+  {
+    "id": 9050175,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "Then we'll spend the whole summer going to Nebraska, and to Iowa, and Wyoming."
+  },
+  {
+    "id": 9050176,
+    "ep_num": 905,
+    "segment": 17,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Oh no. No, no, no!"
+  },
+  {
+    "id": 9050177,
+    "ep_num": 905,
+    "segment": 18,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Outside the restaurant, day. Randy stands by the curb looking into space. He has a black eye. The doors open and Stan walks out"
+  },
+  {
+    "id": 9050178,
+    "ep_num": 905,
+    "segment": 18,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Dad? Dad, we need to talk."
+  },
+  {
+    "id": 9050179,
+    "ep_num": 905,
+    "segment": 18,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Can you believe it, Stan? State Championship game. It's... the greatest thing ever."
+  },
+  {
+    "id": 9050180,
+    "ep_num": 905,
+    "segment": 18,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Goddamnit."
+  },
+  {
+    "id": 9050181,
+    "ep_num": 905,
+    "segment": 18,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "I've worked hard, believed in myself, and now I'm gonna be fighting in a State Championship game.  This is gonna be the biggest fight of my life."
+  },
+  {
+    "id": 9050182,
+    "ep_num": 905,
+    "segment": 19,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "South Park News"
+  },
+  {
+    "id": 9050183,
+    "ep_num": 905,
+    "segment": 19,
+    "title": "THE LOSING EDGE",
+    "role": "ANNOUNCER",
+    "text": "This is News 4, at noon."
+  },
+  {
+    "id": 9050184,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Coors Field, in Denver"
+  },
+  {
+    "id": 9050185,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "ANCHOR TOM",
+    "text": "The Colorado Little League State Championship is being played this week. Two teams of youngsters get to go head to head at the major-league stadium downtown."
+  },
+  {
+    "id": 9050186,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "REPORTER",
+    "text": "Tom, I'm standing here with the little sluggers and some of their parents, and I can;t tell you how excited they are."
+  },
+  {
+    "id": 9050187,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "I don't suppose you guys want to win this game."
+  },
+  {
+    "id": 9050188,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER PLAYER",
+    "text": "Win? Why the hell would we want to win?"
+  },
+  {
+    "id": 9050189,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER PLAYER 2",
+    "text": "Yeah. Then we'd have to play this boring game all summer."
+  },
+  {
+    "id": 9050190,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "REPORTER",
+    "text": "Little Stan Marsh is the pitcher for the South Park Little League team, and Stan, how does it feel to be playing for the State Championship?"
+  },
+  {
+    "id": 9050191,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Gay."
+  },
+  {
+    "id": 9050192,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "REPORTER",
+    "text": "Mr. Marsh, you must be very proud of your son."
+  },
+  {
+    "id": 9050193,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "They've worked really hard to get here, Chris, and, you know, I don't like to really \"trash-talk,\" but, I don't think Denver has a chance."
+  },
+  {
+    "id": 9050194,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "REPORTER CHRIS",
+    "text": "Oho, well, I'm sure some of the Denver kids' parents would disagree with you and your team-"
+  },
+  {
+    "id": 9050195,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "Oh yeah! Oh yeah!  South Park is goin' down! Feel it comin'!  You ain't got a chance, South Park! Here we go, Denver, here we go! Huh, huh!"
+  },
+  {
+    "id": 9050196,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE'S MOTHER",
+    "text": "Who's that?"
+  },
+  {
+    "id": 9050197,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "A WOMAN",
+    "text": "That's Tom Nelson, one of the Denver players' fathers. He goes to every game in that ridiculous outfit and usually drinks too much and gets into a fight."
+  },
+  {
+    "id": 9050198,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "TOM NELSON",
+    "text": "There ain't no way some little mountain kids can beat Denver. Not with my son on second base!"
+  },
+  {
+    "id": 9050199,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "REPORTER CHRIS",
+    "text": "Oho, looks like we got some parental trash talking going on here. Mr. Marsh, any comments?"
+  },
+  {
+    "id": 9050200,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Well I think that there's a uh..."
+  },
+  {
+    "id": 9050201,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "TOM NELSON",
+    "text": "Mr. Marsh?? Who wants to hear from a Mr. Marsh?! Iii am the ultimate Little League trash-talking father! Iii am the Bat Dad!"
+  },
+  {
+    "id": 9050202,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER COP",
+    "text": "All right, Mr. Nelson, let's go, come on."
+  },
+  {
+    "id": 9050203,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "TOM NELSON",
+    "text": "Bat Dad knows no fear! Bat Dad knows no pain! I want you, Marsh! I want you!!"
+  },
+  {
+    "id": 9050204,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "REPORTER CHRIS",
+    "text": "Well, tension is certainly high here, but I guess everything will be decided on the playing field."
+  },
+  {
+    "id": 9050205,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Oh my God."
+  },
+  {
+    "id": 9050206,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER PLAYER 3",
+    "text": "Good luck! You're gonna need it."
+  },
+  {
+    "id": 9050207,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER PLAYER 4",
+    "text": "Yeah, you can't lose to us. We're terrible."
+  },
+  {
+    "id": 9050208,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Dude, what are we gonna do?? We can't win this game."
+  },
+  {
+    "id": 9050209,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "Wiat. I've got it, you guys. A fifth point in a sports movie, the team always goes out and finds a really sweet player to join their team."
+  },
+  {
+    "id": 9050210,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "CLYDE",
+    "text": "Like that motorcycle kid in Bad News Bears."
+  },
+  {
+    "id": 9050211,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "Exactly right, Clyde. So what we need... is to find somebody to join our team, who totally sucks ass."
+  },
+  {
+    "id": 9050212,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Hey yeah. We need to find the very worst kid athlete in the whole world. Somebody who can't possibly win."
+  },
+  {
+    "id": 9050213,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "CRAIG",
+    "text": "But who?"
+  },
+  {
+    "id": 9050214,
+    "ep_num": 905,
+    "segment": 20,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "I know who."
+  },
+  {
+    "id": 9050215,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "The airport, day"
+  },
+  {
+    "id": 9050216,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "ANNOUNCER",
+    "text": "Announcing the arrival of flight six seven three, from New York City."
+  },
+  {
+    "id": 9050217,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "I'm baaack!"
+  },
+  {
+    "id": 9050218,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "There he is! Now, don't let him know we think he's a loser, or else he won't play."
+  },
+  {
+    "id": 9050219,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Hello, cousin Kyle. Oh Jesus, that flight was terrible. They served a chicken dish with hot sauce and it gave me gas."
+  },
+  {
+    "id": 9050220,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Dude, thanks for helping us out by joining our team."
+  },
+  {
+    "id": 9050221,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Well, you said you needed my help to win the big game, so here I am. I'll need a wipe cloth if I'm gonna play, though. Sometimes I sweat from holding the bat for so long and then the heat steams up my glasses."
+  },
+  {
+    "id": 9050222,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "CRAIG",
+    "text": "He's perfect."
+  },
+  {
+    "id": 9050223,
+    "ep_num": 905,
+    "segment": 21,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Yeah, with him on our team, we don't stand a chance."
+  },
+  {
+    "id": 9050224,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Coors Field. No one is in there except Randy, who walks along the stands looking around. He sees a sign that sais \"Colorado Little League State Championship.\" He moves along. Next, he's at a beach far from Colorado looking at the sunset. He sneaks back into his bedroom as Sharon sleeps, closes the door softly, and sits on the side of the bed."
+  },
+  {
+    "id": 9050225,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "...I'm not gonna go."
+  },
+  {
+    "id": 9050226,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "What?"
+  },
+  {
+    "id": 9050227,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Stan's little league game, I'm... I'm not gonna go."
+  },
+  {
+    "id": 9050228,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "Why?"
+  },
+  {
+    "id": 9050229,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "I just... don't think I can, all right?"
+  },
+  {
+    "id": 9050230,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "You don't think you can?! This is the biggest game of your son's life! Wny wouldn't you go and support him? What-?"
+  },
+  {
+    "id": 9050231,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Because I'm scared, all right?!  You wanna break me down?! You wanna hear me say it?! I'm scared! I don't know if I believe in myself anymore.  I don't know if I can take this guy, Sharon."
+  },
+  {
+    "id": 9050232,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "So then, don't. You don't have to get in fights with other parents at Little League games! Just sit there and watch!"
+  },
+  {
+    "id": 9050233,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Look, I get what you're trying to do. You're trying to get me to realize that I have to fight him because it's who I am."
+  },
+  {
+    "id": 9050234,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "No, I'm telling you you don't have to get thrown out of games and make an ass of yourself."
+  },
+  {
+    "id": 9050235,
+    "ep_num": 905,
+    "segment": 22,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "I've lost the edge. I'm sorry, Sharon. But you have to take Stan to his Little League game alone."
+  },
+  {
+    "id": 9050236,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Coors Field, day"
+  },
+  {
+    "id": 9050237,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "ANNOUNCER",
+    "text": "Welcoem to the Colorado Little League State Championship Game!  This must be pretty exciting for these youngsters. A chance to go to the national circuit."
+  },
+  {
+    "id": 9050238,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER PITCHER",
+    "text": "You know what these guys look like to me? A bunch of winners!"
+  },
+  {
+    "id": 9050239,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER CATCHER",
+    "text": "Yeah! We're about to get our asses kicked!"
+  },
+  {
+    "id": 9050240,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "I don't think so! You guys are way too good! You're the best at this game!"
+  },
+  {
+    "id": 9050241,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER PITCHER",
+    "text": "You're the best!"
+  },
+  {
+    "id": 9050242,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "You guys are so good you'll probably go all the way to win the national title!"
+  },
+  {
+    "id": 9050243,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER PITCHER",
+    "text": "Not a chance, 'cause we're gonna lose to you right now!"
+  },
+  {
+    "id": 9050244,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "Here we go, Denver! These South Park kids got nothin' on you! Let's go, Denver!"
+  },
+  {
+    "id": 9050245,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "WOMAN",
+    "text": "Chris, will you sit down?"
+  },
+  {
+    "id": 9050246,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "ANNOUNCER",
+    "text": "First up to bat for South Park, Kyle Schwartz."
+  },
+  {
+    "id": 9050247,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Where do I stand?"
+  },
+  {
+    "id": 9050248,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "R-right over here."
+  },
+  {
+    "id": 9050249,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Don't throw the ball too fast, because I might get startled and I have asthma."
+  },
+  {
+    "id": 9050250,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike 1!"
+  },
+  {
+    "id": 9050251,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "SP TEAM",
+    "text": "Yeah! All right!"
+  },
+  {
+    "id": 9050252,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Jesus, not so close! That was three feet from hitting me in the head!"
+  },
+  {
+    "id": 9050253,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "SECOND BASEMAN",
+    "text": "He's not gonna swing! Throw balls!"
+  },
+  {
+    "id": 9050254,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Oh Jesus!"
+  },
+  {
+    "id": 9050255,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike 2!"
+  },
+  {
+    "id": 9050256,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "SP TEAM",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9050257,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Wow, he IS great at sucking."
+  },
+  {
+    "id": 9050258,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "CARTMAN",
+    "text": "We're gonna lose! We're gonna lose!"
+  },
+  {
+    "id": 9050259,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Don't throw it so hard or so close next time! Is it cold out here? I think I need a jacket."
+  },
+  {
+    "id": 9050260,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "It's a bunt!"
+  },
+  {
+    "id": 9050261,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "MR. DONOVAN",
+    "text": "Run kid, run!"
+  },
+  {
+    "id": 9050262,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Oh Jesus!"
+  },
+  {
+    "id": 9050263,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Aw crap!"
+  },
+  {
+    "id": 9050264,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "I can't, I can't keep running like this! I have corns in my feet!"
+  },
+  {
+    "id": 9050265,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "STEVEN",
+    "text": "Keep running, kid!"
+  },
+  {
+    "id": 9050266,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "Throw the ball to third, you idiots! He's runnin' home!"
+  },
+  {
+    "id": 9050267,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Safe!"
+  },
+  {
+    "id": 9050268,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Oh Jesus, did you see that?? I hit a homerun! High-five, everybody!"
+  },
+  {
+    "id": 9050269,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Oh my God... their pitcher was able to hit him right on the bat."
+  },
+  {
+    "id": 9050270,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Dude, we had it all wrong. While we spent all our time trying to make our tean suck, these guys practiced and got really good at sucking."
+  },
+  {
+    "id": 9050271,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "TOKEN",
+    "text": "No!"
+  },
+  {
+    "id": 9050272,
+    "ep_num": 905,
+    "segment": 23,
+    "title": "THE LOSING EDGE",
+    "role": "MR. WILLIAMS",
+    "text": "Yeeaahh! Go Token go!"
+  },
+  {
+    "id": 9050273,
+    "ep_num": 905,
+    "segment": 24,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Denver is up to bat"
+  },
+  {
+    "id": 9050274,
+    "ep_num": 905,
+    "segment": 24,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "All right, Denver! You're up to bat now!"
+  },
+  {
+    "id": 9050275,
+    "ep_num": 905,
+    "segment": 24,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Out!"
+  },
+  {
+    "id": 9050276,
+    "ep_num": 905,
+    "segment": 24,
+    "title": "THE LOSING EDGE",
+    "role": "DENVER TEAM",
+    "text": "Yaaay!"
+  },
+  {
+    "id": 9050277,
+    "ep_num": 905,
+    "segment": 24,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Jesus Christ! They can bat themselves out!  Our whole summer, dude. We have to play this boring game all summer long."
+  },
+  {
+    "id": 9050278,
+    "ep_num": 905,
+    "segment": 24,
+    "title": "THE LOSING EDGE",
+    "role": "BUTTERS",
+    "text": "Son of a biscuit!"
+  },
+  {
+    "id": 9050279,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "description",
+    "text": "Coors field, later"
+  },
+  {
+    "id": 9050280,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "ANNOUNCER",
+    "text": "It's the bottom of the last inning here at Coors Field; the score is South Park 23, Denver 0."
+  },
+  {
+    "id": 9050281,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike 1!"
+  },
+  {
+    "id": 9050282,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "Come on, Denver! Get the lead out! Do not cross the Bat Daaad!"
+  },
+  {
+    "id": 9050283,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE'S FATHER",
+    "text": "Geez I realy wish this guy would shut up."
+  },
+  {
+    "id": 9050284,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "Why don't you just go home, South Park? You can't beat Denver!"
+  },
+  {
+    "id": 9050285,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "A VOICE",
+    "text": "Denver sucks ass!  Come on, South Park! These kids can't play! In fact, these kids are terrible!"
+  },
+  {
+    "id": 9050286,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Strike 2!"
+  },
+  {
+    "id": 9050287,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "Oh Jesus, we're gonna win! I I never won a sport before; this is so exciting."
+  },
+  {
+    "id": 9050288,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "It's over, Denver! South Park whupped your ass!"
+  },
+  {
+    "id": 9050289,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "You'd better shut your mouth before I shut it for you!"
+  },
+  {
+    "id": 9050290,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "What do you wanna do, huh?"
+  },
+  {
+    "id": 9050291,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "This can't get any worse."
+  },
+  {
+    "id": 9050292,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "Now for the finishing move! You're about to be Bat-Dadded!"
+  },
+  {
+    "id": 9050293,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "COMMENTATOR",
+    "text": "It all comes down to this! South Park is just one pitch away from being State Champions.  Oh geez, it looks like two parents are fighting. They'd better be careful. The Little League has a no-tolerance policy."
+  },
+  {
+    "id": 9050294,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE",
+    "text": "Stop! Stop, or you're gonna get your teams disqualified!"
+  },
+  {
+    "id": 9050295,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Disqualified?  Fight! Keep fighting!"
+  },
+  {
+    "id": 9050296,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE 2",
+    "text": "Break it up! Break it up!  That's enough! The next person that fights is getting his team disqualified!"
+  },
+  {
+    "id": 9050297,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "BAT DAD",
+    "text": "He's done for anyway."
+  },
+  {
+    "id": 9050298,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Come on, Dad! Get up!"
+  },
+  {
+    "id": 9050299,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE",
+    "text": "Get up! You have to fight!"
+  },
+  {
+    "id": 9050300,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE 2",
+    "text": "All right, come on! Let's play ball!"
+  },
+  {
+    "id": 9050301,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "SP TEAM",
+    "text": "Randy! Randy! Randy!"
+  },
+  {
+    "id": 9050302,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "MICKEY",
+    "text": "Get up, Randy! Get up, ya bum!"
+  },
+  {
+    "id": 9050303,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "SHARON",
+    "text": "Get up, Randy! Fight! Fight for me!"
+  },
+  {
+    "id": 9050304,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "CROWD",
+    "text": "Randy! Randy! Randy! Randy! Randy! Randy! Randy! Randy! Randy!"
+  },
+  {
+    "id": 9050305,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "Hey Bat Dad!  I didn't hear no bell."
+  },
+  {
+    "id": 9050306,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "SP TEAM",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9050307,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "UMPIRE 2",
+    "text": "Stop, stop right now!  I'm warning you, sir!  That's it! That's it! South Park is disqualified!"
+  },
+  {
+    "id": 9050308,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "SP TEAM",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9050309,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "SP ADULTS",
+    "text": "Aww!"
+  },
+  {
+    "id": 9050310,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "COMMENTATOR",
+    "text": "South Park has been disqualified from the game! Denver wins!"
+  },
+  {
+    "id": 9050311,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "KYLE 1",
+    "text": "We... We lost."
+  },
+  {
+    "id": 9050312,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "RANDY",
+    "text": "What? I thought this was a free country!"
+  },
+  {
+    "id": 9050313,
+    "ep_num": 905,
+    "segment": 25,
+    "title": "THE LOSING EDGE",
+    "role": "STAN",
+    "text": "Dad!  You're the greatest."
+  }
+]

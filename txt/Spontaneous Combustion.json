@@ -1,0 +1,3514 @@
+[
+  {
+    "id": 3020001,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "General Store. The boys are shopping..."
+  },
+  {
+    "id": 3020002,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Is this what you're looking for, Kyle?"
+  },
+  {
+    "id": 3020003,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "No, I don't think so."
+  },
+  {
+    "id": 3020004,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KENNY",
+    "text": "(How about this?)"
+  },
+  {
+    "id": 3020005,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "No, that's a hair dryer!"
+  },
+  {
+    "id": 3020006,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MANAGER",
+    "text": "May I help you find something?"
+  },
+  {
+    "id": 3020007,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah. Do you have any \"nurections\"?"
+  },
+  {
+    "id": 3020008,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MANAGER",
+    "text": "Any what?"
+  },
+  {
+    "id": 3020009,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "I need to get a nurection for my dad."
+  },
+  {
+    "id": 3020010,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MANAGER",
+    "text": "Very funny, boys. Go on, beat it."
+  },
+  {
+    "id": 3020011,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Why is that funny?"
+  },
+  {
+    "id": 3020012,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Dude, my mom and dad keep fighting all the time. And both of them say it's because my dad doesn't have a nurection. So I want to get him one.  Damn it! What the hell is wrong with everybody?"
+  },
+  {
+    "id": 3020013,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "That's the fifth store we've been kicked out of. Why is it so hard to get a nurection?"
+  },
+  {
+    "id": 3020014,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KENNY",
+    "text": "(You guys, take it seriously.)"
+  },
+  {
+    "id": 3020015,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "I just want a nurection so I can give it to my mom."
+  },
+  {
+    "id": 3020016,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN",
+    "text": "What?"
+  },
+  {
+    "id": 3020017,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KENNY",
+    "text": "(Well, see you guys. I gotta go take the bus out of town.)"
+  },
+  {
+    "id": 3020018,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Oh, where are you gonna go, Kenny? You gonna see your little girlfriend again?"
+  },
+  {
+    "id": 3020019,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KENNY",
+    "text": "(Yeah, you guys. Seriously.)"
+  },
+  {
+    "id": 3020020,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Dude, you spend way too much time with that girl. If you don't-"
+  },
+  {
+    "id": 3020021,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KENNY",
+    "text": "(Ach)"
+  },
+  {
+    "id": 3020022,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Oh my God, they killed Kenny!"
+  },
+  {
+    "id": 3020023,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "You bastards!"
+  },
+  {
+    "id": 3020024,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "What the hell happened to him?"
+  },
+  {
+    "id": 3020025,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "He just... ignited."
+  },
+  {
+    "id": 3020026,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN",
+    "text": "What happened?"
+  },
+  {
+    "id": 3020027,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "WOMAN",
+    "text": "I saw it from across the street. He just caught on fire."
+  },
+  {
+    "id": 3020028,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "OFFCIER BARBRADY",
+    "text": "Okay people, stand back. Give the little burnt boy some breathing room"
+  },
+  {
+    "id": 3020029,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "BLOND MAN",
+    "text": "I've heard about this. This is... spontaneouos combustion. But it usually only happens to fat people near open flames."
+  },
+  {
+    "id": 3020030,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN 2",
+    "text": "Is it contagious?"
+  },
+  {
+    "id": 3020031,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "WOMAN",
+    "text": "Am I going to spntaneously combust?"
+  },
+  {
+    "id": 3020032,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN 3",
+    "text": "I hope it doesn't happen to me."
+  },
+  {
+    "id": 3020033,
+    "ep_num": 302,
+    "segment": 1,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "WOMAN",
+    "text": "This is very scary."
+  },
+  {
+    "id": 3020034,
+    "ep_num": 302,
+    "segment": 2,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "City Hall, the Mayor's office. The Mayor is talking with someone."
+  },
+  {
+    "id": 3020035,
+    "ep_num": 302,
+    "segment": 2,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "The people are panicking about spontaneous combustion. That's why I've assembled this crack team of scientists to find out the cause of the phenomenon. You are the best scientific mind South Park has to offer."
+  },
+  {
+    "id": 3020036,
+    "ep_num": 302,
+    "segment": 2,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "...Uuuh. Mayor, I'm a geologist."
+  },
+  {
+    "id": 3020037,
+    "ep_num": 302,
+    "segment": 2,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Right."
+  },
+  {
+    "id": 3020038,
+    "ep_num": 302,
+    "segment": 2,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Well, uh I don't study human biology, I study the earth."
+  },
+  {
+    "id": 3020039,
+    "ep_num": 302,
+    "segment": 2,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Look, you're the only scientist that lives in this town. You have to find an answer before more people combust. You do that, and you'll be the most beloved man in South Park."
+  },
+  {
+    "id": 3020040,
+    "ep_num": 302,
+    "segment": 3,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The Most Beloved Man In South Park. Hands move him over the crowd"
+  },
+  {
+    "id": 3020041,
+    "ep_num": 302,
+    "segment": 3,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CROWD",
+    "text": "Randy! Randy! Randy! Randy!"
+  },
+  {
+    "id": 3020042,
+    "ep_num": 302,
+    "segment": 3,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN",
+    "text": "We love you, Randy."
+  },
+  {
+    "id": 3020043,
+    "ep_num": 302,
+    "segment": 3,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "WOMAN",
+    "text": "Make love to me, Randy. Please!"
+  },
+  {
+    "id": 3020044,
+    "ep_num": 302,
+    "segment": 4,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "returns"
+  },
+  {
+    "id": 3020045,
+    "ep_num": 302,
+    "segment": 4,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Wow."
+  },
+  {
+    "id": 3020046,
+    "ep_num": 302,
+    "segment": 4,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Marsh, I'm not asking you, I'm telling you! Find the cause of spontaneous combustion, or else!"
+  },
+  {
+    "id": 3020047,
+    "ep_num": 302,
+    "segment": 4,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Or else what?"
+  },
+  {
+    "id": 3020048,
+    "ep_num": 302,
+    "segment": 4,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Exactly!"
+  },
+  {
+    "id": 3020049,
+    "ep_num": 302,
+    "segment": 5,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "First Church of South Park. The organ is heard as people gather for Kenny's funeral. Inside, Stan and Kyle hop up to the bier the coffin is on. Cartman tries a couple of times and finally makes it"
+  },
+  {
+    "id": 3020050,
+    "ep_num": 302,
+    "segment": 5,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dude, he looks so peaceful without his little orange coat on."
+  },
+  {
+    "id": 3020051,
+    "ep_num": 302,
+    "segment": 5,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah."
+  },
+  {
+    "id": 3020052,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The boys hop off the bier and move to the front row for the service as Priest Maxi approaches the coffin. He opens the Bible and reads"
+  },
+  {
+    "id": 3020053,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "The Lord giveth and the Lord taketh away. Sometimes the giveth seems a little disproportionate to the taketh. There seems to be a lot more takething going on, but there it is. Perhaps if more of you attended church on Sundays , the Lord would not have felt it necessary to punish us by takething this little boy..."
+  },
+  {
+    "id": 3020054,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MR. GARRISON",
+    "text": "Oh, here comes the guilt trip again."
+  },
+  {
+    "id": 3020055,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRISST MAXI",
+    "text": "Now, let us pray.  Lord, though we have lost Neil Smith to free agency and Steve Atwater to the Jets, still, we hope our beloved Broncos can bring home another Super Bowl championship, and once again bathe in the glory of your light. Amen."
+  },
+  {
+    "id": 3020056,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "ALL",
+    "text": "Amen."
+  },
+  {
+    "id": 3020057,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Let's go"
+  },
+  {
+    "id": 3020058,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "ALL",
+    "text": "Let's go"
+  },
+  {
+    "id": 3020059,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Broncos"
+  },
+  {
+    "id": 3020060,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "ALL",
+    "text": "Broncos"
+  },
+  {
+    "id": 3020061,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Let's go Broncos"
+  },
+  {
+    "id": 3020062,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "ALL",
+    "text": "Broncos, let's go!"
+  },
+  {
+    "id": 3020063,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Wow, that was short."
+  },
+  {
+    "id": 3020064,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Boys, I haven't seen you in church lately."
+  },
+  {
+    "id": 3020065,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Well, I'm Jewish."
+  },
+  {
+    "id": 3020066,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "You're not too Jewish to worship Jesus, are you?"
+  },
+  {
+    "id": 3020067,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "I guess not."
+  },
+  {
+    "id": 3020068,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Good. Boys, how would you like to perform the Stations of the Cross this Friday night?"
+  },
+  {
+    "id": 3020069,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "The what?"
+  },
+  {
+    "id": 3020070,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "It's like a skit, where you reeanct the death and glorious resurrection of Jesus Christ."
+  },
+  {
+    "id": 3020071,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Hey, resurrection! That's what my dad needs!"
+  },
+  {
+    "id": 3020072,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Huh?"
+  },
+  {
+    "id": 3020073,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "We'll do it! We'll do it!"
+  },
+  {
+    "id": 3020074,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Wonderful. Here's a book on how to perform it. Don't let me down, boys."
+  },
+  {
+    "id": 3020075,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Dude, this is great! You know all the stations of the Cross, right, Stan?"
+  },
+  {
+    "id": 3020076,
+    "ep_num": 302,
+    "segment": 6,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "I don't know, dude. I'm gonna have to go look in the Bible."
+  },
+  {
+    "id": 3020077,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Outside, some of the churchgoers are still around"
+  },
+  {
+    "id": 3020078,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOM",
+    "text": "Good night, Jerry."
+  },
+  {
+    "id": 3020079,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "JERRY",
+    "text": "See ya, Tom. Bye, Helen."
+  },
+  {
+    "id": 3020080,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "HELEN",
+    "text": "Bye, Jer- aaa!"
+  },
+  {
+    "id": 3020081,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "JERRY",
+    "text": "Oh my God, another one."
+  },
+  {
+    "id": 3020082,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOM",
+    "text": "Helen, no!"
+  },
+  {
+    "id": 3020083,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "JERRY",
+    "text": "What happened?"
+  },
+  {
+    "id": 3020084,
+    "ep_num": 302,
+    "segment": 7,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN 5",
+    "text": "God must be very angry with us. But why?  How have we angered you, Lord?"
+  },
+  {
+    "id": 3020085,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Stan's house. Randy's in the basement doing preliminary work. He's working on some chemical reactions when the boys come down"
+  },
+  {
+    "id": 3020086,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Well, let's see. If they combust... no. Could be from the... no."
+  },
+  {
+    "id": 3020087,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dad, where's our Bible?"
+  },
+  {
+    "id": 3020088,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Not now, Stan. I have to find out what causes spontaneous combustion. Or else."
+  },
+  {
+    "id": 3020089,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Or else what?"
+  },
+  {
+    "id": 3020090,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Exactly."
+  },
+  {
+    "id": 3020091,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "...What?"
+  },
+  {
+    "id": 3020092,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Right."
+  },
+  {
+    "id": 3020093,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Where's our Bible?"
+  },
+  {
+    "id": 3020094,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "It's in the attic with the old LP's. Boys, did you notice anything uuuh strange about Kenny in the weeks leading up to his combustion? Ooh, what did he spend his time doing?"
+  },
+  {
+    "id": 3020095,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "He didn't do anything. He was always with his new girlfriend."
+  },
+  {
+    "id": 3020096,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "New girlfriend?"
+  },
+  {
+    "id": 3020097,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Yeah, he started seeing this girl and he spent a lot of time taking the bus to go visit her. What does that have to do with his death?"
+  },
+  {
+    "id": 3020098,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Maybe nothing...  maybe everything."
+  },
+  {
+    "id": 3020099,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "...Well, we're gonna go work on getting Kyle's dad a nurection."
+  },
+  {
+    "id": 3020100,
+    "ep_num": 302,
+    "segment": 8,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Yes, yes, of course. I've got work to do.  What?!"
+  },
+  {
+    "id": 3020101,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Stan's room. Stan reads from the Stations of the Cross booklet while Kyle reads from the Bible"
+  },
+  {
+    "id": 3020102,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Let's see: Jesus got crucified, then he died, then three days later he had his urection. Let's see, there's fourteen Stations of the Cross. Now, it says we can makes costumes out of sheets."
+  },
+  {
+    "id": 3020103,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "This is gonna be fun."
+  },
+  {
+    "id": 3020104,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "I'm gonna be Jesus!"
+  },
+  {
+    "id": 3020105,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "You're too fat to be Jesus!"
+  },
+  {
+    "id": 3020106,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Oh, and like you're gonna do it, Jew?!"
+  },
+  {
+    "id": 3020107,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Stan should be Jesus."
+  },
+  {
+    "id": 3020108,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Either I'm Jesus, or else, screw you guys, I'm going home!"
+  },
+  {
+    "id": 3020109,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "You're such a fat baby!"
+  },
+  {
+    "id": 3020110,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Well, I guess you guys can do the Stations of the Cross by yourselves."
+  },
+  {
+    "id": 3020111,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "All right, all right, you could be Jesus, you tubby cry-baby!"
+  },
+  {
+    "id": 3020112,
+    "ep_num": 302,
+    "segment": 9,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Stick and stones may break my bones, but I'm Jesus and you aren't."
+  },
+  {
+    "id": 3020113,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Back in the basement..."
+  },
+  {
+    "id": 3020114,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "All right, all right, let's try it again. Kenny was standing here. Stan, Kyle and Cartman were walking around him. Now, walk.  Do you feel hot?"
+  },
+  {
+    "id": 3020115,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "\"KENNY\"",
+    "text": "Uh, no."
+  },
+  {
+    "id": 3020116,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Damn it! How come you're not combusting?"
+  },
+  {
+    "id": 3020117,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "\"STAN\"",
+    "text": "Come on, Randy. You said we were gonna drink beer and watch the fight."
+  },
+  {
+    "id": 3020118,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN",
+    "text": "Another one! Another one combusted!"
+  },
+  {
+    "id": 3020119,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "No! Has she been doing anything odd?"
+  },
+  {
+    "id": 3020120,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN",
+    "text": "No, she was just on her way to her new boyfriend's house."
+  },
+  {
+    "id": 3020121,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Boyfriend. And they said Kenny had a new girlfriend."
+  },
+  {
+    "id": 3020122,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "\"CARTMAN\"",
+    "text": "This is stupid. Screw you guys, I'm going home."
+  },
+  {
+    "id": 3020123,
+    "ep_num": 302,
+    "segment": 10,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "No! I think I might have it."
+  },
+  {
+    "id": 3020124,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The First Church of South Park, night of Good Friday"
+  },
+  {
+    "id": 3020125,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Well, well, well. A lot of you came to church. Looks like we're a little \"nervous\" about this spontaneous combustion thing, huh?"
+  },
+  {
+    "id": 3020126,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "A FEW PEOPLE",
+    "text": "Yeah."
+  },
+  {
+    "id": 3020127,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Well, on this blessed Friday let us give thanks for stuff, and things. Lord, is it so much to ask that you not let us suddenly burst into flame for no apparent reason? I mean, come on! Amen.  And now, some of our darling local children are going to perform the Stations of the Cross."
+  },
+  {
+    "id": 3020128,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CROWD",
+    "text": "Awww."
+  },
+  {
+    "id": 3020129,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Station One: Jesus is condemned to death by Pilate."
+  },
+  {
+    "id": 3020130,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Die!"
+  },
+  {
+    "id": 3020131,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Ow! You can do what you will, but I am the Lamb of God."
+  },
+  {
+    "id": 3020132,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CROWD",
+    "text": "Awww."
+  },
+  {
+    "id": 3020133,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "SOMEONE",
+    "text": "Phew."
+  },
+  {
+    "id": 3020134,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Station Two: Jesus takes his cross."
+  },
+  {
+    "id": 3020135,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "This cross is seriously heavy. Oh man, this is totally weak."
+  },
+  {
+    "id": 3020136,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "And then Jesus' disciple, Peter, denies he knows him."
+  },
+  {
+    "id": 3020137,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Peter!"
+  },
+  {
+    "id": 3020138,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "I don't know you, dude."
+  },
+  {
+    "id": 3020139,
+    "ep_num": 302,
+    "segment": 11,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Oh, Peter. Weak, Peter. Lame. But I'm Jesus, so I'll forgive you, I guess."
+  },
+  {
+    "id": 3020140,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Night, the Mayor's office. She's wearing a mud mask in bed and reading Gazongas. The phone rings"
+  },
+  {
+    "id": 3020141,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Mayor."
+  },
+  {
+    "id": 3020142,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Mayor, I have it. I found out why people spontaneously combust."
+  },
+  {
+    "id": 3020143,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Why?"
+  },
+  {
+    "id": 3020144,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Uh, it's too complicated to explain over the phone."
+  },
+  {
+    "id": 3020145,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Girlfriend ==> DEAD",
+    "text": ""
+  },
+  {
+    "id": 3020146,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Boyfriend ==> DEAD",
+    "text": ""
+  },
+  {
+    "id": 3020147,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Call a town meeting tomorrow.",
+    "text": ""
+  },
+  {
+    "id": 3020148,
+    "ep_num": 302,
+    "segment": 12,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Okay. If you're right about this, Marsh, you're going to be the most popular man in South Park."
+  },
+  {
+    "id": 3020149,
+    "ep_num": 302,
+    "segment": 13,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The Most Popular Man In South Park. Hands move him over the crowd"
+  },
+  {
+    "id": 3020150,
+    "ep_num": 302,
+    "segment": 13,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CROWD",
+    "text": "Randy! Randy! Randy! Randy!"
+  },
+  {
+    "id": 3020151,
+    "ep_num": 302,
+    "segment": 13,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN",
+    "text": "We love you, Randy."
+  },
+  {
+    "id": 3020152,
+    "ep_num": 302,
+    "segment": 13,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "WOMAN",
+    "text": "Make love to me, Randy. Please!"
+  },
+  {
+    "id": 3020153,
+    "ep_num": 302,
+    "segment": 14,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "returns"
+  },
+  {
+    "id": 3020154,
+    "ep_num": 302,
+    "segment": 14,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Wow."
+  },
+  {
+    "id": 3020155,
+    "ep_num": 302,
+    "segment": 14,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Shmuck!"
+  },
+  {
+    "id": 3020156,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "At the church, Stan continues the Stations. Cartman is stripped to his underwear"
+  },
+  {
+    "id": 3020157,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Station Eleven: Jesus is nailed to the cross."
+  },
+  {
+    "id": 3020158,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Oh! This has gone from weak to superweak! Things cannot get any more weak for me."
+  },
+  {
+    "id": 3020159,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Then a crown of thorns was placed on Jesus's head, and Jesus was all like, \"Thanks.\""
+  },
+  {
+    "id": 3020160,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Well, this sucks that I have to die, but if I die, everyone's sins will be forgiven.  So I guess it's cool."
+  },
+  {
+    "id": 3020161,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "And then Jesus was lead away  to Mount Sinai, where he dies, and has a resurrurection three days later."
+  },
+  {
+    "id": 3020162,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Hi, mom."
+  },
+  {
+    "id": 3020163,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "PRIEST MAXI",
+    "text": "Thank you, boys. Blessed be the name of Jesus!"
+  },
+  {
+    "id": 3020164,
+    "ep_num": 302,
+    "segment": 15,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CROWD",
+    "text": "It's a great name, isn't it?"
+  },
+  {
+    "id": 3020165,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Stan and Kyle now carry Cartman on the cross and are headed towards a hill. Kyle has the heavier end"
+  },
+  {
+    "id": 3020166,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Hey, that went really well. They really liked it."
+  },
+  {
+    "id": 3020167,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Yeah. I told you I'd be a sweet Jesus, you guys."
+  },
+  {
+    "id": 3020168,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Aw man, at least the real Jesus didn't weigh 400 pounds!"
+  },
+  {
+    "id": 3020169,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Up your ass with broken glass!"
+  },
+  {
+    "id": 3020170,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "This spot looks good."
+  },
+  {
+    "id": 3020171,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah. That looks pretty good."
+  },
+  {
+    "id": 3020172,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Okay, cool. See you, Cartman."
+  },
+  {
+    "id": 3020173,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Hey, wait! Where the hell are you going?!"
+  },
+  {
+    "id": 3020174,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Huh I don't know. I'm going home, I guess."
+  },
+  {
+    "id": 3020175,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah, me too."
+  },
+  {
+    "id": 3020176,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Well, get me down from here!"
+  },
+  {
+    "id": 3020177,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Cartman, how stupid are you?! Didn't you read the Bible? We have to leave you up there until you die, and then you come back to life in three days."
+  },
+  {
+    "id": 3020178,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "What?!"
+  },
+  {
+    "id": 3020179,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Yeah, dummy, you have to get a nurection."
+  },
+  {
+    "id": 3020180,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Then I can give it to my dad."
+  },
+  {
+    "id": 3020181,
+    "ep_num": 302,
+    "segment": 16,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Hey, uh I don't wanna be Jesus anymore! Don't leave me here, you guys! ...All right, that does it! Screw you guys, I'm going home!  Okay, I'm getting pissed now!  God!"
+  },
+  {
+    "id": 3020182,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "City Hall, the next day. Stan and Kyle are present for the Mayor's announcement, along with much of the town"
+  },
+  {
+    "id": 3020183,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "All right, people. Scientist Marsh and I have been working very hard on the problem of spontaneous combustion, and we have finally come up with a solution. Mr. Marsh?"
+  },
+  {
+    "id": 3020184,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "The little boy combusted because he had a new girlfriend. It wasn't the girl that caused him to combust, it was the fact that Kenny did not want to pass gas in front of her.  You see, as food is digested the natural processes give off a byproduct known as methane gas.  The methane gathers here in the bowel area , where it causes pressure. Normally a person would expel this byproduct in the form of a pleasant fart.  Should the gas not be expelled,  the methane can build up and then ignite,  leading to... disaster.  Kenny combusted because he held his farts in for too long."
+  },
+  {
+    "id": 3020185,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN",
+    "text": "You mean, all we have to do is fart and we won't explode?"
+  },
+  {
+    "id": 3020186,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Exactly."
+  },
+  {
+    "id": 3020187,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "So, from this day forward, everyone in South Park will be required to fart on a regular basis to insure that nobody else spontaneously explodes."
+  },
+  {
+    "id": 3020188,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CROWD",
+    "text": "Randy! Randy! Randy! Randy!"
+  },
+  {
+    "id": 3020189,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MAN",
+    "text": "We love you, Randy."
+  },
+  {
+    "id": 3020190,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "OLD WOMAN",
+    "text": "Make love to me, Randy. Please!"
+  },
+  {
+    "id": 3020191,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Whoa, dude, my dad's famous."
+  },
+  {
+    "id": 3020192,
+    "ep_num": 302,
+    "segment": 17,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Come on. Let's go see how Cartman is doing with his uh, urection."
+  },
+  {
+    "id": 3020193,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The boys go to the hill on which they left Cartman on the cross"
+  },
+  {
+    "id": 3020194,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Wow, he died."
+  },
+  {
+    "id": 3020195,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Now we just gotta wait for his urection, and I can give it to my dad."
+  },
+  {
+    "id": 3020196,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Hey, there you guys are!"
+  },
+  {
+    "id": 3020197,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Cartman??"
+  },
+  {
+    "id": 3020198,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "You guys are in big trouble! Now get me down from here!"
+  },
+  {
+    "id": 3020199,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "How come you're not dead yet, Cartman?!"
+  },
+  {
+    "id": 3020200,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "You guys, I mean, seriously! Get me down!"
+  },
+  {
+    "id": 3020201,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Look, fatass: after you die and get resurrurected, you'll have all kinds of superpowers, just like Jesus."
+  },
+  {
+    "id": 3020202,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "...Really?"
+  },
+  {
+    "id": 3020203,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah. So hurry up and die, you piece of crap!"
+  },
+  {
+    "id": 3020204,
+    "ep_num": 302,
+    "segment": 18,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "...When I get all my superpowers, I'm gonna use them to smote you two assholes right off the planet!  Dude, superpowers are sweet."
+  },
+  {
+    "id": 3020205,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The boys are back in town, and they run across Mr. Mackey"
+  },
+  {
+    "id": 3020206,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "COUNSELOR MACKEY",
+    "text": "Hi, boys."
+  },
+  {
+    "id": 3020207,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN, KYLE",
+    "text": "Hi, Mr. Mackey."
+  },
+  {
+    "id": 3020208,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "COUNSELOR MACKEY",
+    "text": "Have you guys been sure to pass gas regularly so you don't spontaneously combust?"
+  },
+  {
+    "id": 3020209,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "We know how to fart, Mr. Mackey!"
+  },
+  {
+    "id": 3020210,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "COUNSELOR MACKEY",
+    "text": "Well, let me show you, just to be sure, mkay?  Hmm, come on. Be good, now."
+  },
+  {
+    "id": 3020211,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Jesus Christ!"
+  },
+  {
+    "id": 3020212,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "(Sick, dude!)"
+  },
+  {
+    "id": 3020213,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "COUNSELOR MACKEY",
+    "text": "I had a steak wrapped with bacon last night."
+  },
+  {
+    "id": 3020214,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "(Dude, I think you pooed alot.)"
+  },
+  {
+    "id": 3020215,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "COUNSELOR MACKEY",
+    "text": "So, you boys understand you have to do that regularly, oh-mkay?"
+  },
+  {
+    "id": 3020216,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "(Okay, okay, just go away!)"
+  },
+  {
+    "id": 3020217,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "God, that was not cool at all, dude!"
+  },
+  {
+    "id": 3020218,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "LIANE",
+    "text": "Oh, hello boys. Have you seen Eric around anywhere?"
+  },
+  {
+    "id": 3020219,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Uh. We've been taking care of him."
+  },
+  {
+    "id": 3020220,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah. We're having him resurrurected."
+  },
+  {
+    "id": 3020221,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "LIANE",
+    "text": "Oh, all right. I was just at the store buying some apples."
+  },
+  {
+    "id": 3020222,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Apples?"
+  },
+  {
+    "id": 3020223,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "LIANE",
+    "text": "Yes. Apples.  Ahapples, get it?"
+  },
+  {
+    "id": 3020224,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "(Dude!)"
+  },
+  {
+    "id": 3020225,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "(Sick!)"
+  },
+  {
+    "id": 3020226,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "LIANE",
+    "text": "Stinky apples. See you, boys."
+  },
+  {
+    "id": 3020227,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "(I don't think I like this new law.)"
+  },
+  {
+    "id": 3020228,
+    "ep_num": 302,
+    "segment": 19,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "LIANE",
+    "text": "Squeaker!"
+  },
+  {
+    "id": 3020229,
+    "ep_num": 302,
+    "segment": 20,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The boys return to City Hall to see the rest of the ceremony. The people in the crowd all have their noses covered. A covered statue stands next to Randy."
+  },
+  {
+    "id": 3020230,
+    "ep_num": 302,
+    "segment": 20,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "And so I declare today Randy Marsh Day, where we shall remember forever how he freed us all from the threat of spontaneous combustion. Gentlemen?"
+  },
+  {
+    "id": 3020231,
+    "ep_num": 302,
+    "segment": 20,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "BEARDED MAN",
+    "text": "You're the best, Randy!"
+  },
+  {
+    "id": 3020232,
+    "ep_num": 302,
+    "segment": 20,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "I am? I am, huh? I never knew the depth of my scientific genius until now."
+  },
+  {
+    "id": 3020233,
+    "ep_num": 302,
+    "segment": 20,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "It's too bad Cartman can't be here to enjoy this."
+  },
+  {
+    "id": 3020234,
+    "ep_num": 302,
+    "segment": 20,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Yeah."
+  },
+  {
+    "id": 3020235,
+    "ep_num": 302,
+    "segment": 21,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Back on the cross..."
+  },
+  {
+    "id": 3020236,
+    "ep_num": 302,
+    "segment": 21,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "You guys, seriously! somebody get me down from here!"
+  },
+  {
+    "id": 3020237,
+    "ep_num": 302,
+    "segment": 21,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "OFFICER BARBRADY",
+    "text": "Nur nunur nunur nunur nunur nunur-"
+  },
+  {
+    "id": 3020238,
+    "ep_num": 302,
+    "segment": 21,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Officer Barbrady!"
+  },
+  {
+    "id": 3020239,
+    "ep_num": 302,
+    "segment": 21,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "OFFICER BARBRADY",
+    "text": "T. T is for turtle.  Nur nunur nunur nunur nunur nunur..."
+  },
+  {
+    "id": 3020240,
+    "ep_num": 302,
+    "segment": 21,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Ey! Help me, you son of a bitch!  Huh, I'm gonna die up here."
+  },
+  {
+    "id": 3020241,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The Nobel Prize Awards. Looks like the Oscars..."
+  },
+  {
+    "id": 3020242,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "ANNOUNCER",
+    "text": "We now return to the 42nd Annual Nobel Prize Awards. Here again your host, Whoopi Goldberg."
+  },
+  {
+    "id": 3020243,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "WHOOPI",
+    "text": "Republicans are so stupid.  I hate Republicans.  Republicans are so stupid. And now, here to present the Nobel Prize for Science is Nick Nolte"
+  },
+  {
+    "id": 3020244,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "NICK NOLTE",
+    "text": "Science is good. Science is very important. This year's nominees are:"
+  },
+  {
+    "id": 3020245,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "* Herald R. Pinkerton, for his further development of the grand ",
+    "text": "unified theory of physics."
+  },
+  {
+    "id": 3020246,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "* Randy Marsh, for his formulated break-wind theory of spontaneous ",
+    "text": "combustion."
+  },
+  {
+    "id": 3020247,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MEPHESTO",
+    "text": "No! No, this can't be!"
+  },
+  {
+    "id": 3020248,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Whoa hoho, whoa!  Oh wow, oh, ah, I'm the best! Yeah! Yeah! Ah, it's just so amazing to be told that you're the best. I, I thought I was just a normal person like all of you, but... Yeah! Well, thank you for showing me otherwise! Yeah! I kick ass, yeah!"
+  },
+  {
+    "id": 3020249,
+    "ep_num": 302,
+    "segment": 22,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MEPHESTO",
+    "text": "Fixed! Fixed! That was supposed to be my award, Kevin. I'll get him for this. Mark my words."
+  },
+  {
+    "id": 3020250,
+    "ep_num": 302,
+    "segment": 23,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Back in South Park, Stan and Kyle are on Kyle's couch watching the show"
+  },
+  {
+    "id": 3020251,
+    "ep_num": 302,
+    "segment": 23,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Wow, my dad's the best! All other dads suck compared to my dad!"
+  },
+  {
+    "id": 3020252,
+    "ep_num": 302,
+    "segment": 23,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Hey! My dad's pretty cool, too."
+  },
+  {
+    "id": 3020253,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "In the master bedroom Gerald and Sheila look at Gerald's penis, to see if it'll rise"
+  },
+  {
+    "id": 3020254,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "I'm sorry, honey."
+  },
+  {
+    "id": 3020255,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S MOTHER",
+    "text": "It's okay,  I'll just call some 20-year old and have him come over."
+  },
+  {
+    "id": 3020256,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "What?!"
+  },
+  {
+    "id": 3020257,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S MOTHER",
+    "text": "I'm just kidding."
+  },
+  {
+    "id": 3020258,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "Kidding? Well, that's not funny! That hurt my feelings!"
+  },
+  {
+    "id": 3020259,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S MOTHER",
+    "text": "Why?"
+  },
+  {
+    "id": 3020260,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "Why?!"
+  },
+  {
+    "id": 3020261,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle."
+  },
+  {
+    "id": 3020262,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Don't worry, guys. I'm getting a nurection as we speak."
+  },
+  {
+    "id": 3020263,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "Huh?"
+  },
+  {
+    "id": 3020264,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Wall, actally, Cartman's getting a nurection. But then, we're gonna give it you. Sooo, buck up!"
+  },
+  {
+    "id": 3020265,
+    "ep_num": 302,
+    "segment": 24,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S MOTHER",
+    "text": "We have a very strange little boy, Gerald."
+  },
+  {
+    "id": 3020266,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Next day, Cartman on the cross. Stan and Kyle arrive to check up on Cartman"
+  },
+  {
+    "id": 3020267,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dude, he's still not dead."
+  },
+  {
+    "id": 3020268,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "You guys, my mom is totally worried about me. You'd better let me down."
+  },
+  {
+    "id": 3020269,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "She's not worried about you."
+  },
+  {
+    "id": 3020270,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Yes she is! I've been hearing her all day! Listen! Listen.  Eric? Eric, where are you? I miss you very much."
+  },
+  {
+    "id": 3020271,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "That's not your mom calling!"
+  },
+  {
+    "id": 3020272,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Yes it is, you guys. I'm serious now. This is Eric's mom and I want him home right now."
+  },
+  {
+    "id": 3020273,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "How stupid do you think we are?! Now you die on that cross and get resurrurected befoe I kick your ass!"
+  },
+  {
+    "id": 3020274,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "You guys, it's too hot out here! I can't do this!"
+  },
+  {
+    "id": 3020275,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "He is right. It has been getting really hot lately."
+  },
+  {
+    "id": 3020276,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah, I noticed that too. Let's go get some ice-cold lemonade."
+  },
+  {
+    "id": 3020277,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Hey, yeah!"
+  },
+  {
+    "id": 3020278,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Oh! God-damnit! Urh! You guys! You guys wanna hear my \"I hate Stand and Kyle\" song?! Ahem."
+  },
+  {
+    "id": 3020279,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "I hate Stan and Kyle",
+    "text": ""
+  },
+  {
+    "id": 3020280,
+    "ep_num": 302,
+    "segment": 25,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "I seriously hate Stan and Kyle...",
+    "text": ""
+  },
+  {
+    "id": 3020281,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "City Hall. The Mayor and her aides are in shorts and T's"
+  },
+  {
+    "id": 3020282,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "My God, it's burning up in here! Can't we crank the AC up some more?"
+  },
+  {
+    "id": 3020283,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "AIDE 2",
+    "text": "It's already on full."
+  },
+  {
+    "id": 3020284,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "You wanted to see me, Mayor?"
+  },
+  {
+    "id": 3020285,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Yes, Marsh. We have a new problem, and I think only you can solve it."
+  },
+  {
+    "id": 3020286,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "I suspect you're talking about the dramatic heat wave."
+  },
+  {
+    "id": 3020287,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Yes. The temperature is steadily rising every day. I want you to find out why."
+  },
+  {
+    "id": 3020288,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Mayor, I think I'm a little overqualified for this. My scientific mind is best used on global problems."
+  },
+  {
+    "id": 3020289,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "All right, all right. Name your price."
+  },
+  {
+    "id": 3020290,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Ten thousand. I have to protect my talent."
+  },
+  {
+    "id": 3020291,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Done. Just find out what's happening."
+  },
+  {
+    "id": 3020292,
+    "ep_num": 302,
+    "segment": 26,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Don't worry, Mayor. I'll find the cause. Or else. Or else what? Exactly."
+  },
+  {
+    "id": 3020293,
+    "ep_num": 302,
+    "segment": 27,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Another night on the cross. The Last Temptation of Cartman"
+  },
+  {
+    "id": 3020294,
+    "ep_num": 302,
+    "segment": 27,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Hey you guys. Seriously."
+  },
+  {
+    "id": 3020295,
+    "ep_num": 302,
+    "segment": 27,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CHEF",
+    "text": "What the-?  Oh, what now?!"
+  },
+  {
+    "id": 3020296,
+    "ep_num": 302,
+    "segment": 27,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Chef! Chef!"
+  },
+  {
+    "id": 3020297,
+    "ep_num": 302,
+    "segment": 27,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CHEF",
+    "text": "Children, what the hell are you doin'?"
+  },
+  {
+    "id": 3020298,
+    "ep_num": 302,
+    "segment": 27,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Just get me down from here!  Oh, finally! My arms are killing me!"
+  },
+  {
+    "id": 3020299,
+    "ep_num": 302,
+    "segment": 27,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CHEF",
+    "text": "You children shouldn't be crucifying yourselves in this heat."
+  },
+  {
+    "id": 3020300,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Chef drives him into town"
+  },
+  {
+    "id": 3020301,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Sweet. Now, I'm gonna go kill those guys!"
+  },
+  {
+    "id": 3020302,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CHEF",
+    "text": "Eric, I have to tell you something, and it's really gonna bum you out."
+  },
+  {
+    "id": 3020303,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "What?"
+  },
+  {
+    "id": 3020304,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CHEF",
+    "text": "It's really gonna piss you off."
+  },
+  {
+    "id": 3020305,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "What?!"
+  },
+  {
+    "id": 3020306,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CHEF",
+    "text": "This is just a dream. You're still up on that cross."
+  },
+  {
+    "id": 3020307,
+    "ep_num": 302,
+    "segment": 28,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Oh, damnit!"
+  },
+  {
+    "id": 3020308,
+    "ep_num": 302,
+    "segment": 29,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Stan's house, basement. A Cheesy Poofs commercial ends as Stan comes down the steps"
+  },
+  {
+    "id": 3020309,
+    "ep_num": 302,
+    "segment": 29,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dad, where's the phone book?"
+  },
+  {
+    "id": 3020310,
+    "ep_num": 302,
+    "segment": 29,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Not now, Stanley. Without my scientific genius, the town is doomed.  Let's see now, when exactly did the temperature start to go up?"
+  },
+  {
+    "id": 3020311,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Jesus and Pals comes on"
+  },
+  {
+    "id": 3020312,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "JESUS",
+    "text": "Our topic tonight is the rising temperatures in South Park. Let's go to the phones. Caller, you're on the air."
+  },
+  {
+    "id": 3020313,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Yeah, um, Jesus, after you got crucified, how long did it take you to die and resurrect?"
+  },
+  {
+    "id": 3020314,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Stan?"
+  },
+  {
+    "id": 3020315,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "JESUS",
+    "text": "That's not the topic tonight. The topic is global warming."
+  },
+  {
+    "id": 3020316,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Oh."
+  },
+  {
+    "id": 3020317,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "JESUS",
+    "text": "Do you have an opinion on global warming?"
+  },
+  {
+    "id": 3020318,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Uh, it... sucks ass."
+  },
+  {
+    "id": 3020319,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "JESUS",
+    "text": "Okay! Thank you caller. Well, let's go to our first guest, Dr. Alphonse Mephesto.  Thank you for coming. You claim to know the cause of global warming in South Park."
+  },
+  {
+    "id": 3020320,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Mephesto.\tI most certainly do! The cause of global warming is ",
+    "text": "[brings out a picture of a man, with horns, mustache, and angry eyebrows drawn on] Randy Marsh! [Randy is stunned] It was Marsh's theory on spontaneous combustion that told everyone to fart all they want. Now all the methane from all those farts has ripped a hole in our ozone layer. We are all doomed to die!"
+  },
+  {
+    "id": 3020321,
+    "ep_num": 302,
+    "segment": 30,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Awww crap."
+  },
+  {
+    "id": 3020322,
+    "ep_num": 302,
+    "segment": 31,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "City Hall, the next day. The town is gathered clamoring for Randy to come out."
+  },
+  {
+    "id": 3020323,
+    "ep_num": 302,
+    "segment": 31,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN",
+    "text": "Go get him!"
+  },
+  {
+    "id": 3020324,
+    "ep_num": 302,
+    "segment": 31,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 1",
+    "text": "We want answers!"
+  },
+  {
+    "id": 3020325,
+    "ep_num": 302,
+    "segment": 31,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Townsman 2\tYou've killed us all!",
+    "text": ""
+  },
+  {
+    "id": 3020326,
+    "ep_num": 302,
+    "segment": 31,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Townsman 3\tSomeone's got to pay!",
+    "text": ""
+  },
+  {
+    "id": 3020327,
+    "ep_num": 302,
+    "segment": 31,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "WOMAN",
+    "text": "It's out of control."
+  },
+  {
+    "id": 3020328,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "inside the Mayor's office"
+  },
+  {
+    "id": 3020329,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Boy, they're really pissed."
+  },
+  {
+    "id": 3020330,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Well, they're right. We should have known that all that methane could adversely affect the atmosphere."
+  },
+  {
+    "id": 3020331,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "Well, let's go talk to them. Stick by me."
+  },
+  {
+    "id": 3020332,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Hey!"
+  },
+  {
+    "id": 3020333,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 4",
+    "text": "You killed us all!"
+  },
+  {
+    "id": 3020334,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 5",
+    "text": "Shove that Nobel prize up your ass!"
+  },
+  {
+    "id": 3020335,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Oh my God, what's going on?"
+  },
+  {
+    "id": 3020336,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 6",
+    "text": "Now we either hold in our farts and spontaneously combust, o-o-or we let our farts out and kill our entire planet. Well I, for one, am not farting anymore!"
+  },
+  {
+    "id": 3020337,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Uuuh, I- I'll try to find a solution."
+  },
+  {
+    "id": 3020338,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 7",
+    "text": "We don't want your solutions, phony!"
+  },
+  {
+    "id": 3020339,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 8",
+    "text": "Give me that!  Yeah!"
+  },
+  {
+    "id": 3020340,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 9",
+    "text": "Damn you Marsh! Get out of town!"
+  },
+  {
+    "id": 3020341,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 10",
+    "text": "You fraud!"
+  },
+  {
+    "id": 3020342,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Mr. Garrison, help me!"
+  },
+  {
+    "id": 3020343,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "MR. GARRISON",
+    "text": "I, I do not know you, sir."
+  },
+  {
+    "id": 3020344,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 11",
+    "text": "Up your-"
+  },
+  {
+    "id": 3020345,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 12",
+    "text": "Arrn!"
+  },
+  {
+    "id": 3020346,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Yeah, take that!"
+  },
+  {
+    "id": 3020347,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dude, that's my dad!"
+  },
+  {
+    "id": 3020348,
+    "ep_num": 302,
+    "segment": 32,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "...Oh, yeah. Sorry."
+  },
+  {
+    "id": 3020349,
+    "ep_num": 302,
+    "segment": 33,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "News 4 Special Report"
+  },
+  {
+    "id": 3020350,
+    "ep_num": 302,
+    "segment": 33,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "ANCHOR",
+    "text": "The spontaneous combustion problem escalates as more and more peopel go back to holding in all their farts.  Meanwhile, the ozone layer continues to deplete as others refuse to hold in their farts for fear of combustion. As we all know, the cause for all of this is Randy Marsh, the son of a bitch who calls himself a scientist. We caught up with Mr. Marsh earlier today and he had this to say:"
+  },
+  {
+    "id": 3020351,
+    "ep_num": 302,
+    "segment": 33,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Ije, I I don't know what to say."
+  },
+  {
+    "id": 3020352,
+    "ep_num": 302,
+    "segment": 33,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "ANCHOR",
+    "text": "What an asshole! I hate that guy, and so do you. And now, on to the weather. It's fucking hot, thanks to Randy Marsh, son of a bitch!"
+  },
+  {
+    "id": 3020353,
+    "ep_num": 302,
+    "segment": 34,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Everyone has gone to the Marsh house. Stan and Kyle look out from the living room window as the crowd clamors outside with torches. A man knocks down the trashcan next to the garage."
+  },
+  {
+    "id": 3020354,
+    "ep_num": 302,
+    "segment": 34,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Dude, those people are pissed!"
+  },
+  {
+    "id": 3020355,
+    "ep_num": 302,
+    "segment": 34,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "I know, huh?"
+  },
+  {
+    "id": 3020356,
+    "ep_num": 302,
+    "segment": 34,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Where's your dad?"
+  },
+  {
+    "id": 3020357,
+    "ep_num": 302,
+    "segment": 34,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "He's hiding down in the basement. I I don't know what to do."
+  },
+  {
+    "id": 3020358,
+    "ep_num": 302,
+    "segment": 34,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Well, you have to help him, just like I have to help my dad."
+  },
+  {
+    "id": 3020359,
+    "ep_num": 302,
+    "segment": 35,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Cartman is still on the cross"
+  },
+  {
+    "id": 3020360,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Gerald's law firm. The sign reads \"Brovlofski & Jackson,\" so he's got a partner. Gerald sits at his desk looking over papers"
+  },
+  {
+    "id": 3020361,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RADIO TALK SHOW HOST",
+    "text": "Still more up next from the heat wave caused by Randy Marsh. A giant glacier is melting above South Park and the entire town is doomed. And now, these messages."
+  },
+  {
+    "id": 3020362,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "BOB DOLE",
+    "text": "Having a hard time with male potency? Well, I don't, and I'm Bob Dole. What's wrong with you? Christ, I'm Bob Dole and I can get it up."
+  },
+  {
+    "id": 3020363,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "BLONDE",
+    "text": "Are you a lawyer?"
+  },
+  {
+    "id": 3020364,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "Yes."
+  },
+  {
+    "id": 3020365,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "BLONDE",
+    "text": "We want to sue Randy Marsh."
+  },
+  {
+    "id": 3020366,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "Why?"
+  },
+  {
+    "id": 3020367,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "BLONDE",
+    "text": "He gave us skin cancer."
+  },
+  {
+    "id": 3020368,
+    "ep_num": 302,
+    "segment": 36,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "BRUNETTE",
+    "text": "Yeah. He put the hole in the ozone, and now we have skin cancer all over our hot bodies. Look."
+  },
+  {
+    "id": 3020369,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The Marsh house. Stan and Kyle go to the basement. Randy cowers in a corner wrapped in a blanket"
+  },
+  {
+    "id": 3020370,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "What are you doing, dad?"
+  },
+  {
+    "id": 3020371,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Stanley, I think its best you live with Kyle from now on. His dad is better than me."
+  },
+  {
+    "id": 3020372,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "No, he's not! He can't even get a nurection!"
+  },
+  {
+    "id": 3020373,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Hm. Really?"
+  },
+  {
+    "id": 3020374,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dad, you've got to work! People are dying, dad. You've got to come up with a solution!"
+  },
+  {
+    "id": 3020375,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Not me. I'm not a scientist, I'm a hack. Even if I found a solution, those people would still all hate me."
+  },
+  {
+    "id": 3020376,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Well, that doesn't matter! I learned something from the Stations of the Cross."
+  },
+  {
+    "id": 3020377,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "What?"
+  },
+  {
+    "id": 3020378,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "See, at first, Jesus was all like, \"Why me?\" And he was all pissed off and stuff. But then he saw that what mattered most was everybody else. So he stopped thinking about his own misery, and did what had to be done. Right as Jesus was dying, he raised his hand and said, \"The needs of the many outweigh the needs of the few.\""
+  },
+  {
+    "id": 3020379,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "You're right, Stanley. You're absolutely right.  Hey, that Bible sounds like kind of a good book."
+  },
+  {
+    "id": 3020380,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "It ain't bad. You should try reading it sometime."
+  },
+  {
+    "id": 3020381,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Dude, that was Star Trek again."
+  },
+  {
+    "id": 3020382,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Huh?"
+  },
+  {
+    "id": 3020383,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "\"The needs of the many outweigh the needs of the few?\" That was Wrath of Khan."
+  },
+  {
+    "id": 3020384,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Uh, well, Bible, Wrath of Khan, what's the difference?"
+  },
+  {
+    "id": 3020385,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "All right. Now, let's get to work."
+  },
+  {
+    "id": 3020386,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "You And Me, Girl\t[Intro. Randy mixes some chemicals, then writes ",
+    "text": "some formulas on the chalkboard]"
+  },
+  {
+    "id": 3020387,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Randy explains the hold in the ozone layer] I've been telling ",
+    "text": "everybody that you're my girl,"
+  },
+  {
+    "id": 3020388,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Randy set off a reacion that boils over] Cause I'm not one to ",
+    "text": "be shy."
+  },
+  {
+    "id": 3020389,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Randy looks into a microscope] You don't have to go with me ",
+    "text": "if you don't want to, just"
+  },
+  {
+    "id": 3020390,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[the boys approve] Tell everybody I'm your guy",
+    "text": ""
+  },
+  {
+    "id": 3020391,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Monster Sharon chases Randy and the boys all over the house] ",
+    "text": "You and me, girl, it's forever"
+  },
+  {
+    "id": 3020392,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Sha la la la la laaa",
+    "text": ""
+  },
+  {
+    "id": 3020393,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "I've been telling everybody that you're my girl,",
+    "text": ""
+  },
+  {
+    "id": 3020394,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Cause I'm not one to be shy.",
+    "text": ""
+  },
+  {
+    "id": 3020395,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Randy and the boys as a band] I've been telling everybody that ",
+    "text": "you're my girl,"
+  },
+  {
+    "id": 3020396,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Cause I'm not one to be shy.",
+    "text": ""
+  },
+  {
+    "id": 3020397,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Randy and the boys in hearts on moiré] You don't have to go ",
+    "text": "with me if you don't want to, just"
+  },
+  {
+    "id": 3020398,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Tell everybody I'm your guy",
+    "text": ""
+  },
+  {
+    "id": 3020399,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Randy and the boys floating up through clouds] You and me, girl, ",
+    "text": "it's forever"
+  },
+  {
+    "id": 3020400,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "Sha la la la la laaa",
+    "text": ""
+  },
+  {
+    "id": 3020401,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "[Monster Sharon joins the band] You and me, girl, forever and ",
+    "text": "ever"
+  },
+  {
+    "id": 3020402,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "You and me, girl, forever and ever",
+    "text": ""
+  },
+  {
+    "id": 3020403,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "You and me, girl, forever and ever [fade. Randy's humming]",
+    "text": ""
+  },
+  {
+    "id": 3020404,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dad. Dad!"
+  },
+  {
+    "id": 3020405,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Wow!"
+  },
+  {
+    "id": 3020406,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dad, what are you doin?! You have to get started!"
+  },
+  {
+    "id": 3020407,
+    "ep_num": 302,
+    "segment": 37,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "...Right, right right."
+  },
+  {
+    "id": 3020408,
+    "ep_num": 302,
+    "segment": 38,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The Broflovski house. Kyle watches TV and Ike plays on the floor. The front door opens"
+  },
+  {
+    "id": 3020409,
+    "ep_num": 302,
+    "segment": 38,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "Kyle, where's your mother?"
+  },
+  {
+    "id": 3020410,
+    "ep_num": 302,
+    "segment": 38,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "She's upstairs."
+  },
+  {
+    "id": 3020411,
+    "ep_num": 302,
+    "segment": 38,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE'S FATHER",
+    "text": "Well, I have something to give to her! Don't worry, Kyle. Everything's gonna be okay between me and your mom."
+  },
+  {
+    "id": 3020412,
+    "ep_num": 302,
+    "segment": 38,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Really? Great! I don't have to worry about that anymore."
+  },
+  {
+    "id": 3020413,
+    "ep_num": 302,
+    "segment": 39,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "Another night on the cross"
+  },
+  {
+    "id": 3020414,
+    "ep_num": 302,
+    "segment": 39,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Hello-o."
+  },
+  {
+    "id": 3020415,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The Marsh house. The crowd is still clamoring outside"
+  },
+  {
+    "id": 3020416,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 13",
+    "text": "Look! There he is!"
+  },
+  {
+    "id": 3020417,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 14",
+    "text": "Get him!"
+  },
+  {
+    "id": 3020418,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Uh. Please, everyone-"
+  },
+  {
+    "id": 3020419,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 15",
+    "text": "You're a dead man, Marsh!"
+  },
+  {
+    "id": 3020420,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "Please, just listen to me. I think I found the answer."
+  },
+  {
+    "id": 3020421,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 16",
+    "text": "Could I borrow one of your rocks?"
+  },
+  {
+    "id": 3020422,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "It's all about moderation. If you never fart, you combust, but if you always fart, you deplete the ozone. So we must fart only at appropriate times or when it's really, really funny."
+  },
+  {
+    "id": 3020423,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "TOWNSMAN 17",
+    "text": "Huh?"
+  },
+  {
+    "id": 3020424,
+    "ep_num": 302,
+    "segment": 40,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "RANDY",
+    "text": "I know you all hate me, but please, for your own sake, fart in moderation. You can keep stoning me now, if you want.  Ow."
+  },
+  {
+    "id": 3020425,
+    "ep_num": 302,
+    "segment": 41,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "City Hall, three weeks later"
+  },
+  {
+    "id": 3020426,
+    "ep_num": 302,
+    "segment": 41,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "THE MAYOR",
+    "text": "And so we salute Randy Marsh and his unified theory of moderation that has saved us all."
+  },
+  {
+    "id": 3020427,
+    "ep_num": 302,
+    "segment": 41,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "See? My dad is the coolest after all."
+  },
+  {
+    "id": 3020428,
+    "ep_num": 302,
+    "segment": 41,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Well, my dad is, too."
+  },
+  {
+    "id": 3020429,
+    "ep_num": 302,
+    "segment": 41,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Cartman!"
+  },
+  {
+    "id": 3020430,
+    "ep_num": 302,
+    "segment": 41,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "I forgot all about him."
+  },
+  {
+    "id": 3020431,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "description",
+    "text": "The boys are not at the foot of the cross."
+  },
+  {
+    "id": 3020432,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "He's been up there for like, three weeks."
+  },
+  {
+    "id": 3020433,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Wow!"
+  },
+  {
+    "id": 3020434,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "That's amazing!"
+  },
+  {
+    "id": 3020435,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Hey you guys, I am really pissed off now."
+  },
+  {
+    "id": 3020436,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "KYLE",
+    "text": "Dude! You're stil alive, Cartman?"
+  },
+  {
+    "id": 3020437,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Get me down from here!"
+  },
+  {
+    "id": 3020438,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "STAN",
+    "text": "Dude, you survived all this time on the fat stored up in your body?"
+  },
+  {
+    "id": 3020439,
+    "ep_num": 302,
+    "segment": 42,
+    "title": "SPONTANEOUS COMBUSTION",
+    "role": "CARTMAN",
+    "text": "Yes. And when I get down from here, I'm gonna kick you both right in the nuts."
+  }
+]

@@ -1,0 +1,3274 @@
+[
+  {
+    "id": 5010001,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Morning, bus stop. Stan and Kyle wait for the bus, and Kyle arrives"
+  },
+  {
+    "id": 5010002,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Hey you guys! Look what I have!"
+  },
+  {
+    "id": 5010003,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "What?"
+  },
+  {
+    "id": 5010004,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Four tickets to The Lion King on stage!"
+  },
+  {
+    "id": 5010005,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN, KENNY",
+    "text": "...Oh."
+  },
+  {
+    "id": 5010006,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Aww, come on, you guys! It's supposed to be really cool."
+  },
+  {
+    "id": 5010007,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Yeah - no - I'd, it, it sounds really cool."
+  },
+  {
+    "id": 5010008,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "You goys!!! Hey you guys!!! Oh my God!! Oh my God, you guys!!"
+  },
+  {
+    "id": 5010009,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "What, doughboy?!"
+  },
+  {
+    "id": 5010010,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "I was just-  I was just watching the TV! They had this commercial."
+  },
+  {
+    "id": 5010011,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "So?"
+  },
+  {
+    "id": 5010012,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "So, guess what they're gonna say tonight on that show, Cop Drama."
+  },
+  {
+    "id": 5010013,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "What?"
+  },
+  {
+    "id": 5010014,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "Cartman\tNo, come on! Guess! They're gonna say something that's ",
+    "text": "never been said on television."
+  },
+  {
+    "id": 5010015,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "What?!"
+  },
+  {
+    "id": 5010016,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "You'll never guess."
+  },
+  {
+    "id": 5010017,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "What?!"
+  },
+  {
+    "id": 5010018,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Guess."
+  },
+  {
+    "id": 5010019,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Goddamnit, Cartman! What are they gonna say on Cop Drama?"
+  },
+  {
+    "id": 5010020,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "You ready?  Tonight, on Cop Drama, on TV, they're gonna say,  \"Shit.\""
+  },
+  {
+    "id": 5010021,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "They're gonna say \"shit\" on television?"
+  },
+  {
+    "id": 5010022,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "They can't say \"shit\" on television!"
+  },
+  {
+    "id": 5010023,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "It was just on the news! People are freaking out, dude."
+  },
+  {
+    "id": 5010024,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Holy fucking shit!"
+  },
+  {
+    "id": 5010025,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KENNY",
+    "text": "(Dude! We've gotta watch!)"
+  },
+  {
+    "id": 5010026,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Yeah. I'm gonna have people over to my house to see it."
+  },
+  {
+    "id": 5010027,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Bu- but I got these tickets to see Lion King on stage!"
+  },
+  {
+    "id": 5010028,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Maybe you didn't hear me, Kyle: I said \"shit!\" On television!"
+  },
+  {
+    "id": 5010029,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "It's just a marketing ploy by the network. Like that time they had the first male-to-male kiss with Terrance and Phillip?"
+  },
+  {
+    "id": 5010030,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Aw, come, on dude! This is history."
+  },
+  {
+    "id": 5010031,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "It's stupid!"
+  },
+  {
+    "id": 5010032,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Jeez, you're a little irritable, Kyle. What's the matter? You got some sand in your vagina?"
+  },
+  {
+    "id": 5010033,
+    "ep_num": 501,
+    "segment": 1,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "No, I don't have sand in my vagina! I just think it's a little immature for us to be standing around talking about one dumb word being on TV!"
+  },
+  {
+    "id": 5010034,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Day, South Park Center for Seismic Activity, water cooler. Randy Marsh and three others shoot the breeze there"
+  },
+  {
+    "id": 5010035,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "Hey, uh, Sam, did you hear the news?"
+  },
+  {
+    "id": 5010036,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "SAM",
+    "text": "Yeah, they're gonna say \"shit\" on television."
+  },
+  {
+    "id": 5010037,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "COLLEAGUE 1",
+    "text": "And we should all get together and watch it at the bar."
+  },
+  {
+    "id": 5010038,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "COLLEAGUE 2",
+    "text": "Yeaaahhh!"
+  },
+  {
+    "id": 5010039,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "SAM",
+    "text": "Yeah."
+  },
+  {
+    "id": 5010040,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "Yeah."
+  },
+  {
+    "id": 5010041,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "COLLEAGUE 2",
+    "text": "Hey, are you guys gonna let your kids watch?"
+  },
+  {
+    "id": 5010042,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "Oh, sure, I mean, you know, Cop Drama is a very artsy, dramatic show."
+  },
+  {
+    "id": 5010043,
+    "ep_num": 501,
+    "segment": 2,
+    "title": "IT HITS THE FAN",
+    "role": "SAM",
+    "text": "And they're gonna say \"shit.\""
+  },
+  {
+    "id": 5010044,
+    "ep_num": 501,
+    "segment": 3,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Day, sidewalk. Butters is tagging TELE's as Kyle walks up to him"
+  },
+  {
+    "id": 5010045,
+    "ep_num": 501,
+    "segment": 3,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Hey! Butters!  I got tickets to go see Lion King tonight, and I decided to invite  YOU before anybody else."
+  },
+  {
+    "id": 5010046,
+    "ep_num": 501,
+    "segment": 3,
+    "title": "IT HITS THE FAN",
+    "role": "BUTTERS",
+    "text": "Oh, sorry, I can't.  They're gonna say \"shit\" on Cop Drama, and my mom and dad say I have to watch it with them so that I don't take it the wrong way."
+  },
+  {
+    "id": 5010047,
+    "ep_num": 501,
+    "segment": 3,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "How many ways are there to take it?! It's just a stupid word!"
+  },
+  {
+    "id": 5010048,
+    "ep_num": 501,
+    "segment": 3,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Hey everybody, it's on in thirty minutes!"
+  },
+  {
+    "id": 5010049,
+    "ep_num": 501,
+    "segment": 4,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Night, the town bar. Many of the town's men, including Randy and his coworkers, are inside watching \"Cop Drama.\" The officers in the show speak in hushed tones"
+  },
+  {
+    "id": 5010050,
+    "ep_num": 501,
+    "segment": 4,
+    "title": "IT HITS THE FAN",
+    "role": "COP",
+    "text": "Listen, Mitchell, I put my life on the line every day. How dare you accuse me!"
+  },
+  {
+    "id": 5010051,
+    "ep_num": 501,
+    "segment": 4,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Oh, I bet this is it! Here it comes..."
+  },
+  {
+    "id": 5010052,
+    "ep_num": 501,
+    "segment": 4,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "I'm doing my job, Frank! We have to know where that evidence was shipped!"
+  },
+  {
+    "id": 5010053,
+    "ep_num": 501,
+    "segment": 4,
+    "title": "IT HITS THE FAN",
+    "role": "JIMBO",
+    "text": "Oh! Was that it? Was that it?!"
+  },
+  {
+    "id": 5010054,
+    "ep_num": 501,
+    "segment": 4,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "Shipped. He said \"shipped.\""
+  },
+  {
+    "id": 5010055,
+    "ep_num": 501,
+    "segment": 4,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "I told you, we don't have a record of that. And besides, -"
+  },
+  {
+    "id": 5010056,
+    "ep_num": 501,
+    "segment": 5,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut to Cartman's house, night. Cartman sits on the sofa with Stan, Kyle and Kenny, and he's eating from a box of Cheesy Poofs"
+  },
+  {
+    "id": 5010057,
+    "ep_num": 501,
+    "segment": 5,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "- your job is to protect the men who serve this force."
+  },
+  {
+    "id": 5010058,
+    "ep_num": 501,
+    "segment": 5,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Goddamnit, when are they gonna say \"shit\"?!"
+  },
+  {
+    "id": 5010059,
+    "ep_num": 501,
+    "segment": 5,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Sshhh!"
+  },
+  {
+    "id": 5010060,
+    "ep_num": 501,
+    "segment": 5,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "Maybe... maybe protect them from you?"
+  },
+  {
+    "id": 5010061,
+    "ep_num": 501,
+    "segment": 6,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut to Chef's house, bedroom. He and Principal Victoria watch the show together in bed"
+  },
+  {
+    "id": 5010062,
+    "ep_num": 501,
+    "segment": 6,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "Maybe you're forgetting who you're talking to!"
+  },
+  {
+    "id": 5010063,
+    "ep_num": 501,
+    "segment": 6,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "Then maybe you're forgetting how I used to be a cop, too!"
+  },
+  {
+    "id": 5010064,
+    "ep_num": 501,
+    "segment": 7,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut to the Broflovski house, living room. Sheila and Sharon are enjoying some popcorn as they view the show. Sheila is in the arnchair"
+  },
+  {
+    "id": 5010065,
+    "ep_num": 501,
+    "segment": 7,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "Yeah? You used to be a lot of things."
+  },
+  {
+    "id": 5010066,
+    "ep_num": 501,
+    "segment": 7,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE'S MOTHER",
+    "text": "Oh, he doesn't know Mitchell slept with his wife, does he?"
+  },
+  {
+    "id": 5010067,
+    "ep_num": 501,
+    "segment": 8,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut to the old folks home."
+  },
+  {
+    "id": 5010068,
+    "ep_num": 501,
+    "segment": 8,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "That's it, I've had enough of this."
+  },
+  {
+    "id": 5010069,
+    "ep_num": 501,
+    "segment": 8,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "Don't you turn your back on me, you!"
+  },
+  {
+    "id": 5010070,
+    "ep_num": 501,
+    "segment": 9,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut to New York's Times Square, in which a large crowd watches the show from behind a N.Y.P.D. police line"
+  },
+  {
+    "id": 5010071,
+    "ep_num": 501,
+    "segment": 9,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "I said, enough!"
+  },
+  {
+    "id": 5010072,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut back to Cartman's house."
+  },
+  {
+    "id": 5010073,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "Will it... ever be enough?"
+  },
+  {
+    "id": 5010074,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "ANNOUNCER",
+    "text": "Cop Drama will return after these messages."
+  },
+  {
+    "id": 5010075,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Jesus Christ! Another commercial? Are they ever gonna say \"shit?\""
+  },
+  {
+    "id": 5010076,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "I'm sure they're just holding it till the very last scene."
+  },
+  {
+    "id": 5010077,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "STAN, KYLE",
+    "text": "Eugh!"
+  },
+  {
+    "id": 5010078,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Where are you going, Kyle?"
+  },
+  {
+    "id": 5010079,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "I'm going to the kitchen! This is stupid!"
+  },
+  {
+    "id": 5010080,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "But you're gonna miss it! The, they're gonna say \"shit\" and you're gonna miss it!"
+  },
+  {
+    "id": 5010081,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "I don't really give a fuck!"
+  },
+  {
+    "id": 5010082,
+    "ep_num": 501,
+    "segment": 10,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Oh."
+  },
+  {
+    "id": 5010083,
+    "ep_num": 501,
+    "segment": 11,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "The bar, later."
+  },
+  {
+    "id": 5010084,
+    "ep_num": 501,
+    "segment": 11,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "Just understand that it's my job. I still think you're a good cop."
+  },
+  {
+    "id": 5010085,
+    "ep_num": 501,
+    "segment": 11,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "Well, Mitchell. I guess you're goin'ta do what you're gonna do. Let's just try and stay friends no matter what."
+  },
+  {
+    "id": 5010086,
+    "ep_num": 501,
+    "segment": 11,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "You're right. Maybe I'll ss-see you around."
+  },
+  {
+    "id": 5010087,
+    "ep_num": 501,
+    "segment": 11,
+    "title": "IT HITS THE FAN",
+    "role": "FRANK",
+    "text": "Goodbye. Oh, and Mitchell?  You... got some shit on the side of your mouth right there."
+  },
+  {
+    "id": 5010088,
+    "ep_num": 501,
+    "segment": 11,
+    "title": "IT HITS THE FAN",
+    "role": "MITCHELL",
+    "text": "Oh, yeah, that ole thing, yeah."
+  },
+  {
+    "id": 5010089,
+    "ep_num": 501,
+    "segment": 11,
+    "title": "IT HITS THE FAN",
+    "role": "BAR PATRONS",
+    "text": "...Wwooww!!!"
+  },
+  {
+    "id": 5010090,
+    "ep_num": 501,
+    "segment": 12,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cartman's house..."
+  },
+  {
+    "id": 5010091,
+    "ep_num": 501,
+    "segment": 12,
+    "title": "IT HITS THE FAN",
+    "role": "THE BOYS",
+    "text": "Whoa!!!"
+  },
+  {
+    "id": 5010092,
+    "ep_num": 501,
+    "segment": 13,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Chef's bedroom..."
+  },
+  {
+    "id": 5010093,
+    "ep_num": 501,
+    "segment": 13,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Oh!!"
+  },
+  {
+    "id": 5010094,
+    "ep_num": 501,
+    "segment": 14,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "The old folks home..."
+  },
+  {
+    "id": 5010095,
+    "ep_num": 501,
+    "segment": 14,
+    "title": "IT HITS THE FAN",
+    "role": "OLD FOLKS",
+    "text": "Whoa!"
+  },
+  {
+    "id": 5010096,
+    "ep_num": 501,
+    "segment": 15,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Times Square... the crowd there cheers"
+  },
+  {
+    "id": 5010097,
+    "ep_num": 501,
+    "segment": 16,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "The bar..."
+  },
+  {
+    "id": 5010098,
+    "ep_num": 501,
+    "segment": 16,
+    "title": "IT HITS THE FAN",
+    "role": "JIMBO",
+    "text": "They did it!"
+  },
+  {
+    "id": 5010099,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cartman's house..."
+  },
+  {
+    "id": 5010100,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "I can't believe they actually said it."
+  },
+  {
+    "id": 5010101,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Dude! You missed it, Kyle! It was so awesome!"
+  },
+  {
+    "id": 5010102,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Well! I hope it lived up to all the hype! You must feel sooo much better now!"
+  },
+  {
+    "id": 5010103,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Kyle, we've gotta get that sand out of your vagina. It's making you cranky. Does it itch?"
+  },
+  {
+    "id": 5010104,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Do you really think anything's gonna be any different now?!  Do you really think that this will have the tiniest, smallest effect on the world?  It's still the same old world out there. Look.  What the hell?"
+  },
+  {
+    "id": 5010105,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Whoa, dude, it's raining frogs."
+  },
+  {
+    "id": 5010106,
+    "ep_num": 501,
+    "segment": 17,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Oh, whatever."
+  },
+  {
+    "id": 5010107,
+    "ep_num": 501,
+    "segment": 18,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Channel 4 News"
+  },
+  {
+    "id": 5010108,
+    "ep_num": 501,
+    "segment": 18,
+    "title": "IT HITS THE FAN",
+    "role": "ANCHOR TOM",
+    "text": "Last night, the daring and bold show, Cop Drama , broke new ground by saying \"SHIT\" on television, making \"shit\" officially okay to say around the country. A recent poll shows that 24% of Americans think the show has pushed the envelope too far, while a whopping 76% say they don't really give a shit.  In other news, a strange virus which causes victims to vomit up their intestines is making life shitty for a small farming community. Rick Watts has the story."
+  },
+  {
+    "id": 5010109,
+    "ep_num": 501,
+    "segment": 18,
+    "title": "IT HITS THE FAN",
+    "role": "RICK WATTS",
+    "text": "Thanks, Tom. Shit is certainly going down here in the small tow-"
+  },
+  {
+    "id": 5010110,
+    "ep_num": 501,
+    "segment": 18,
+    "title": "IT HITS THE FAN",
+    "role": "TOM",
+    "text": "Whoa, shit!"
+  },
+  {
+    "id": 5010111,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park Elementary, day. The school bell rings"
+  },
+  {
+    "id": 5010112,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "MS. CHOKSONDIK",
+    "text": "Alright, children, in lieu of the common usage, I'm s'posed to clarify the school's position on the word, \"shit.\""
+  },
+  {
+    "id": 5010113,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Wow! We can say \"shit\" in school now?!"
+  },
+  {
+    "id": 5010114,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "This is ridiculous! Just because they say it on TV it's alright."
+  },
+  {
+    "id": 5010115,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "MS. CHOKSONDIK",
+    "text": "Yes, but only in the figurative noun form or the adjective form"
+  },
+  {
+    "id": 5010116,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Huh?"
+  },
+  {
+    "id": 5010117,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "MS. CHOKSONDIK",
+    "text": "You can only use it in the non-literal sense. For instance,  \"That's a shitty picture of me.\" is now fine. Hoever, the literal noun form of  \"This is a picture of shit.\" is still naughty."
+  },
+  {
+    "id": 5010118,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "I don't get it."
+  },
+  {
+    "id": 5010119,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Me neither."
+  },
+  {
+    "id": 5010120,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "MS. CHOKSONDIK",
+    "text": "The adjective form is now also acceptable. For example:  \"The weather outside is shitty.\" However, the literal adjective is NOT appropriate. For example:  \"My bad diarrhea made the inside of the toilet bowl shitty, and I had to clean it with a rag, which then also became shitty.\"  That's right out!"
+  },
+  {
+    "id": 5010121,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "TIMMY",
+    "text": "Sshh...sshh... shit."
+  },
+  {
+    "id": 5010122,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "MS. CHOKSONDIK",
+    "text": "Very good, Timmy."
+  },
+  {
+    "id": 5010123,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "BUTTERS",
+    "text": "Huh-uh, Ms. Choksondik, eh, can we say it in the expletive? Like, \"Oh, shit,\" or, \"shit on a shingle\"?"
+  },
+  {
+    "id": 5010124,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "MS. CHOKSONDIK",
+    "text": "Yes, that's now fine."
+  },
+  {
+    "id": 5010125,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Wow, this is gonna be great! A whole new word!"
+  },
+  {
+    "id": 5010126,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "It's NOT NEW!! I'm gonna look \"shit\" up in the encyclopedia and PROVE it!!"
+  },
+  {
+    "id": 5010127,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Don't mind Kyle, everyone, he's just got a little sand in his vagina."
+  },
+  {
+    "id": 5010128,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "THERE'S NO SAND IN MY VAGINA!!!"
+  },
+  {
+    "id": 5010129,
+    "ep_num": 501,
+    "segment": 19,
+    "title": "IT HITS THE FAN",
+    "role": "MS. CHOKSONDIK",
+    "text": "Boys, watch your language! Shit!"
+  },
+  {
+    "id": 5010130,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Kindergarten, day"
+  },
+  {
+    "id": 5010131,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "And so, children, instead of saying \"Hand in your papers,\" I may now say \"Hand in your shit.\" Any questions?"
+  },
+  {
+    "id": 5010132,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "FILMORE",
+    "text": "What about, \"I have to take a shit\"?"
+  },
+  {
+    "id": 5010133,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "NO! NO, Filmore! You can say \"I have to poop and shit,\" or \"Oh, shit, I have to poop,\" but NOT \"I have to shit.\" Are we all clear?"
+  },
+  {
+    "id": 5010134,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "KINDERGARTNERS",
+    "text": "No."
+  },
+  {
+    "id": 5010135,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Look, it's all about context. Well, for example, recently, I have come out and admitted that I was a homosexual. I'm gay. That means that now I can say the word, \"fag.\" On television they usually don't allow \"fag.\" But because I'm gay, it's alright. And with the new approval of the word, \"shit,\" that means that finally I am free to say,"
+  },
+  {
+    "id": 5010136,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "Hey, there, shitty shitty fag fag,",
+    "text": ""
+  },
+  {
+    "id": 5010137,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "Shitty shitty fag fag, how do you do?",
+    "text": ""
+  },
+  {
+    "id": 5010138,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "Hey, there, shitty shitty fag fag,",
+    "text": ""
+  },
+  {
+    "id": 5010139,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "Shitty shitty fag fag, how do you do?",
+    "text": ""
+  },
+  {
+    "id": 5010140,
+    "ep_num": 501,
+    "segment": 20,
+    "title": "IT HITS THE FAN",
+    "role": "[pleased] Oh this is great!",
+    "text": ""
+  },
+  {
+    "id": 5010141,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, some days later. The town has taken to using the S word, with S-themed stores and products all over the place. Poeple proudly sport the word on their shirts. An elderly couple walks out of Sh*t 'n Things and stop just outside the door"
+  },
+  {
+    "id": 5010142,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "ELDERLY WOMAN",
+    "text": "Why that store has such lovely shit."
+  },
+  {
+    "id": 5010143,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "ELDERLY MAN",
+    "text": "Yeah.  Too bad I don't have shit for cash right now."
+  },
+  {
+    "id": 5010144,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "PRINCIPAL VICTORIA",
+    "text": "Oh, looks like the weather might turn shitty."
+  },
+  {
+    "id": 5010145,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "COUNSELOR MACKEY",
+    "text": "Oh, I don't really give a shit. I've done enough shit outside today and shit."
+  },
+  {
+    "id": 5010146,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "MAN",
+    "text": "Shit, Peter, you look like shit."
+  },
+  {
+    "id": 5010147,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "PETER",
+    "text": "Oh, shit, I feel like shit. I think I to-"
+  },
+  {
+    "id": 5010148,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "WOMAN 1",
+    "text": "Holy shit!"
+  },
+  {
+    "id": 5010149,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "WOMAN 2",
+    "text": "Did you see that shit?"
+  },
+  {
+    "id": 5010150,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "BARBARDY",
+    "text": "What kind of shit is this?"
+  },
+  {
+    "id": 5010151,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 1",
+    "text": "That is some weird shit."
+  },
+  {
+    "id": 5010152,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "WOMAN 3",
+    "text": "Susan, your shit's ready!"
+  },
+  {
+    "id": 5010153,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 2",
+    "text": "Hey, do you know where this shit goes?"
+  },
+  {
+    "id": 5010154,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 3",
+    "text": "Shit if I know."
+  },
+  {
+    "id": 5010155,
+    "ep_num": 501,
+    "segment": 21,
+    "title": "IT HITS THE FAN",
+    "role": "WOMAN 4",
+    "text": "Nice going, shit-for-brains."
+  },
+  {
+    "id": 5010156,
+    "ep_num": 501,
+    "segment": 22,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "a high mountain is shown"
+  },
+  {
+    "id": 5010157,
+    "ep_num": 501,
+    "segment": 22,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 4",
+    "text": "Old McDonald took a shit, E I E I O"
+  },
+  {
+    "id": 5010158,
+    "ep_num": 501,
+    "segment": 22,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 5",
+    "text": "No shit!"
+  },
+  {
+    "id": 5010159,
+    "ep_num": 501,
+    "segment": 23,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "seven knights are shown encased in ice. The smoke reaches them and thaws them out. Music swells. They step forth and walk to the edge of a cliff, looking out over all those towns and cities spewing forth the filthy word. They draw their swords and raise them high, and lightning strikes each of the swords"
+  },
+  {
+    "id": 5010160,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, another day. Mr. Garrisn is walking down the street, singing."
+  },
+  {
+    "id": 5010161,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Hey, there, shitty shitty fag fag,"
+  },
+  {
+    "id": 5010162,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "Shitty shitty fag fag, how do you do?",
+    "text": ""
+  },
+  {
+    "id": 5010163,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "Hey, there,-",
+    "text": ""
+  },
+  {
+    "id": 5010164,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 6",
+    "text": "Oh, shit, 'scuse me."
+  },
+  {
+    "id": 5010165,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Hey, watch it, fag."
+  },
+  {
+    "id": 5010166,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 6",
+    "text": "What did you call me?"
+  },
+  {
+    "id": 5010167,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "I called you a fag. Because I'm gay, and that means I'm free to use the word \"fag.\" So piss off, you fag-shitter!"
+  },
+  {
+    "id": 5010168,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "Heh, so hay there, shity shitty fag fag",
+    "text": ""
+  },
+  {
+    "id": 5010169,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "Shitty shitty fag fag, kutuputupuh [walks past Stan and Cartman. ",
+    "text": "Cartman is sucking on a Popsicle]"
+  },
+  {
+    "id": 5010170,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "This suck. Now that \"shit\"'s out, it isn't fun to say it anymore."
+  },
+  {
+    "id": 5010171,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Yeah, they've taken all the fun out of \"shit.\" We're gonna have to start saying other bad words, like cock and fuck and... meecrob."
+  },
+  {
+    "id": 5010172,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "What's meecrob?"
+  },
+  {
+    "id": 5010173,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "You know, that stuff you get as a appetizer at Thai food restaurants. \"meecrob\" is way grosser than \"shit,\" dude. I'd scarf down a whole wet bucket fullof shit before I ate another plate of meecrob."
+  },
+  {
+    "id": 5010174,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "You guys! You guys! I've looked up the word, \"shit!\" I think it might have something to do with people dying!"
+  },
+  {
+    "id": 5010175,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "What?"
+  },
+  {
+    "id": 5010176,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Haven't you noticed everyone getting sick? It all started when they said \"shit\" on television."
+  },
+  {
+    "id": 5010177,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Oh, Kyle, you are so full of meecrob."
+  },
+  {
+    "id": 5010178,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "I am not full of meekro- what? Look, the word \"shit\" first showed up in English in the 1340s, the same time as something called, \"the Black Death.\""
+  },
+  {
+    "id": 5010179,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "What's that?"
+  },
+  {
+    "id": 5010180,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Kyle, do you still have sand in your vagina about us not going to The Lion King with you?! I mean, shit, dude, let it go."
+  },
+  {
+    "id": 5010181,
+    "ep_num": 501,
+    "segment": 24,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Look! It might be a coincidence, but I think we'd better ask someone. Come on!"
+  },
+  {
+    "id": 5010182,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Hollywood, day, the HBC building, home of \"Terrance and Phillip.\" The network president talks to his staff in a boardroom. They're all smiles"
+  },
+  {
+    "id": 5010183,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "...Seventy-five share. My God, I never thought it was possible."
+  },
+  {
+    "id": 5010184,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 1",
+    "text": "Sir, your \"shit\" idea has turned the entire network around. We're proud to work for you."
+  },
+  {
+    "id": 5010185,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 2",
+    "text": "Sir, I'd just like to take this opportunity: I'm sure I speak for all of us when I say, you are the most creative genius in Hollywood, and... well... I'd let you have me if you wanted."
+  },
+  {
+    "id": 5010186,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Thanks, Roger, but I've only just started. You see, I've already figured out our new marketing scheme technique for the next run of shows."
+  },
+  {
+    "id": 5010187,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 3",
+    "text": "Whoa!"
+  },
+  {
+    "id": 5010188,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 4",
+    "text": "Wow, he's unstoppable!"
+  },
+  {
+    "id": 5010189,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 1",
+    "text": "What's the new idea?"
+  },
+  {
+    "id": 5010190,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 3",
+    "text": "I can hardly wait."
+  },
+  {
+    "id": 5010191,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 5",
+    "text": "I'm about to piss myself!"
+  },
+  {
+    "id": 5010192,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "This Saturday... on HBC... we're going to say...  \"shit\" ...twice."
+  },
+  {
+    "id": 5010193,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 3",
+    "text": "...Twice!"
+  },
+  {
+    "id": 5010194,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 4",
+    "text": "Brilliant!"
+  },
+  {
+    "id": 5010195,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 6",
+    "text": "Think of the repetition!"
+  },
+  {
+    "id": 5010196,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 3",
+    "text": "It's like saying it once... but double!"
+  },
+  {
+    "id": 5010197,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Well gentlemen, let's get on it!"
+  },
+  {
+    "id": 5010198,
+    "ep_num": 501,
+    "segment": 25,
+    "title": "IT HITS THE FAN",
+    "role": "ALL",
+    "text": "Ho!"
+  },
+  {
+    "id": 5010199,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park Elementary, day. Chef is singing away in the kitchen, serving up lunch for the kids."
+  },
+  {
+    "id": 5010200,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Baby you are so fine, and shit!"
+  },
+  {
+    "id": 5010201,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "The shit you do, the shit you say; I'd jump on your shit any ",
+    "text": "day!"
+  },
+  {
+    "id": 5010202,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "[the boys walk in] Oh, hello there, children.",
+    "text": ""
+  },
+  {
+    "id": 5010203,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "THE BOYS",
+    "text": "Hey Chef."
+  },
+  {
+    "id": 5010204,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Chef, do you know where \"shit\" comes from?"
+  },
+  {
+    "id": 5010205,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Uh, from your ass, children."
+  },
+  {
+    "id": 5010206,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "No no no! The word, \"shit.\""
+  },
+  {
+    "id": 5010207,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Oooh."
+  },
+  {
+    "id": 5010208,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Detective Sandy Vagina here thinks that \"shit\" might have something to do with everyone getting sick"
+  },
+  {
+    "id": 5010209,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Ungh, it said in my book that the word, \"shit,\" started the exact same time as something called, \"The Black Death.\""
+  },
+  {
+    "id": 5010210,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "The Black Death? Are you sure?"
+  },
+  {
+    "id": 5010211,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "What's the Black Death, Chef?"
+  },
+  {
+    "id": 5010212,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "LaToya Jackson, children."
+  },
+  {
+    "id": 5010213,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "THE BOYS",
+    "text": "Oh."
+  },
+  {
+    "id": 5010214,
+    "ep_num": 501,
+    "segment": 26,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "But I think back in those days it meant something else: the plague!"
+  },
+  {
+    "id": 5010215,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "The Library, later. Chef reads from a large book on a large table on the ground floor. To his left sit Stan and Kenny, to his right Kyle and Cartman"
+  },
+  {
+    "id": 5010216,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "It says here the word, \"shit\" has been around for over 600 years. It comes from the Anglo-Saxon word, \"skite.\""
+  },
+  {
+    "id": 5010217,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Right. But in the 1340s people in England stopped calling it \"skite\" and started calling it \"shit.\" The same year as the Black Plague."
+  },
+  {
+    "id": 5010218,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "LIBRARIAN",
+    "text": "This is the oldest book in the library. A priceless original of England's history. Just about everythign you could want to know about the plague is in this great tome.  Oh, shit. Well, this other book has some good information, too."
+  },
+  {
+    "id": 5010219,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "The Black Plague. Over half of Europe was killed by it."
+  },
+  {
+    "id": 5010220,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Look, they're puking out their intestines, just like the people here."
+  },
+  {
+    "id": 5010221,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Look at this, children.  It says that the people in England believed that the plague was a curse, a dark magic infliction brought on by a mass utterance of a word of curse."
+  },
+  {
+    "id": 5010222,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Word of curse?"
+  },
+  {
+    "id": 5010223,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "A c...curse word."
+  },
+  {
+    "id": 5010224,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Of course! I've never even thought about why we use the term \"curse word\" before."
+  },
+  {
+    "id": 5010225,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Because it brings a curse? Like the Black Death."
+  },
+  {
+    "id": 5010226,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "You guys, look here.  In this Nancy Drew mystery, Nancy goes to the beach and gets sand trapped in her shoe. This... could explain how Kyle got it in his vagina."
+  },
+  {
+    "id": 5010227,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Cartman, this is serious!!!"
+  },
+  {
+    "id": 5010228,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "So am I, Kyle. If that sand in your vagina doesn't get released, you could become a walking time bomb."
+  },
+  {
+    "id": 5010229,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "LIBRARIAN",
+    "text": "If you don't mind, I'll have to close up now. They're going to say \"shit\" seven times on HBC and I d-agh!"
+  },
+  {
+    "id": 5010230,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Holy shit!"
+  },
+  {
+    "id": 5010231,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Oho, gross!"
+  },
+  {
+    "id": 5010232,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Dude, this plague is spreading like wildfire!"
+  },
+  {
+    "id": 5010233,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Uh oh."
+  },
+  {
+    "id": 5010234,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "KENNY",
+    "text": "(Uh oh.)"
+  },
+  {
+    "id": 5010235,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Kenny's got it. heh heh."
+  },
+  {
+    "id": 5010236,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "We've gotta do something, Chef. If we don't we don't stop that network,  \"shit\" will becvome an even more acceptable word!"
+  },
+  {
+    "id": 5010237,
+    "ep_num": 501,
+    "segment": 27,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Children, we've got to warn those producers in Hollywood that the plague, and \"shit,\" could be linked!"
+  },
+  {
+    "id": 5010238,
+    "ep_num": 501,
+    "segment": 28,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "An airplane, day. Chef and the boys are headed for Hollywood"
+  },
+  {
+    "id": 5010239,
+    "ep_num": 501,
+    "segment": 28,
+    "title": "IT HITS THE FAN",
+    "role": "CAPTAIN",
+    "text": "Hello, ladies and gentlemen, this is your captain speaking. If you look out the right side of the aircraft you can see some interesting shit.  And over on the left side, there's some interesting shit, too.  Well, we should be arriving in los Angeles in about two hours. Until then we invite you to sit back, relax, and enjoy our shitty service."
+  },
+  {
+    "id": 5010240,
+    "ep_num": 501,
+    "segment": 28,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Goddamnit, Kenny! Don't get your plague germs on me!"
+  },
+  {
+    "id": 5010241,
+    "ep_num": 501,
+    "segment": 28,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Cartman, stop being an asshole!"
+  },
+  {
+    "id": 5010242,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "HBC headquarters, Hollywood, day, boardroom."
+  },
+  {
+    "id": 5010243,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 5",
+    "text": "Tha ratings are in, sir. We broke another record last night with the show that said \"shit\" seven times!"
+  },
+  {
+    "id": 5010244,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 1",
+    "text": "Where is the roof on this thing? I mean, I mean, how can we top ourselves now?"
+  },
+  {
+    "id": 5010245,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Gentlemen, I have it. The end-all greatest marketing ploy of all time.  Tonight, on HBC, we will air all our sitcoms... LIVE. And have everyone say \"shit\" in place of their written lines. And we'll call it \"Must Shit TV.\""
+  },
+  {
+    "id": 5010246,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 1",
+    "text": "Bravo!"
+  },
+  {
+    "id": 5010247,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 2",
+    "text": "\"Night Of A Million Shits!\""
+  },
+  {
+    "id": 5010248,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Now, doing this live will be difficult, so we must-"
+  },
+  {
+    "id": 5010249,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Hold on a minute, Mr. Producer!"
+  },
+  {
+    "id": 5010250,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Who are you?"
+  },
+  {
+    "id": 5010251,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "My name is Chef, and these are the children! We've come to warn you about \"shit.\""
+  },
+  {
+    "id": 5010252,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Oh brother, another Christian protest group"
+  },
+  {
+    "id": 5010253,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 1",
+    "text": "Who wants to take this one?"
+  },
+  {
+    "id": 5010254,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 2",
+    "text": "I'll get it.  Gentlemen, we appreciate your concern.  Here at HBC the general goal is providing the highest and most thought-provoking netertainment. How great it is that we live in a country where an artist can express himself freely. That's not only the American spirit, it's the HBC spirit. Which allows us to make great family programs like Halo The Turtle, and of course, everyone's favorite show, Cop Drama. We can't thank you enough for bringing your concerns to our network, for it is you, the loyal HBC viewer, who makes this great network, and indeed, the great country that it is."
+  },
+  {
+    "id": 5010255,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Alright, now, as I was saying-"
+  },
+  {
+    "id": 5010256,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Hey! Hold on a minute!"
+  },
+  {
+    "id": 5010257,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Aw, are they stil here?"
+  },
+  {
+    "id": 5010258,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Haven't you people noticed all the strange things going on?"
+  },
+  {
+    "id": 5010259,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "We think that you might have could it by helping make \"shit\" an everyday word."
+  },
+  {
+    "id": 5010260,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 4",
+    "text": "Mhm, right, right."
+  },
+  {
+    "id": 5010261,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "It's true. We think that word might be plaguing our friend, Kenny."
+  },
+  {
+    "id": 5010262,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Do you have any proof of this?"
+  },
+  {
+    "id": 5010263,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "...Nnno"
+  },
+  {
+    "id": 5010264,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Then  get out of here before we have you thrown out!"
+  },
+  {
+    "id": 5010265,
+    "ep_num": 501,
+    "segment": 29,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "But... we can keep the Halo the Turtle dolls, right?"
+  },
+  {
+    "id": 5010266,
+    "ep_num": 501,
+    "segment": 30,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "HBC headquarters, Hollywood, day, outside. Chef and the boys exit the building."
+  },
+  {
+    "id": 5010267,
+    "ep_num": 501,
+    "segment": 30,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Damn cracker-ass producers!"
+  },
+  {
+    "id": 5010268,
+    "ep_num": 501,
+    "segment": 30,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Now what are we gonna do, Chef?"
+  },
+  {
+    "id": 5010269,
+    "ep_num": 501,
+    "segment": 30,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "I don't know, children. I guess we've got to get the word out to people some other way."
+  },
+  {
+    "id": 5010270,
+    "ep_num": 501,
+    "segment": 30,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Aaarrrrrrrrrrrrrrrrgh."
+  },
+  {
+    "id": 5010271,
+    "ep_num": 501,
+    "segment": 30,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Oh shit!"
+  },
+  {
+    "id": 5010272,
+    "ep_num": 501,
+    "segment": 30,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Stand aside!"
+  },
+  {
+    "id": 5010273,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "HBC headquarters, Hollywood, day, boardroom."
+  },
+  {
+    "id": 5010274,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Alright, now, we have to get all our biggest names to say \"shit,\" and then we're gonna-"
+  },
+  {
+    "id": 5010275,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Halt your evil plans!"
+  },
+  {
+    "id": 5010276,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "EXECUTIVES",
+    "text": "Huh?"
+  },
+  {
+    "id": 5010277,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "I possess the Rune Stone of Undoing! Who is in charge here?"
+  },
+  {
+    "id": 5010278,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Oh...  nno, you guys didn't hire me a stripper for my birthday-oooh, tell me you guys didn't."
+  },
+  {
+    "id": 5010279,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Show your true form, Geldon, lest you be afraid! Your short time in this world is at an end!  Awch. The Rune Stone has no effect! You are not Geldon!"
+  },
+  {
+    "id": 5010280,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "I never said I was."
+  },
+  {
+    "id": 5010281,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "You will die anyway, for you have spread the word of curse!"
+  },
+  {
+    "id": 5010282,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Security!"
+  },
+  {
+    "id": 5010283,
+    "ep_num": 501,
+    "segment": 31,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Waaarrgh!"
+  },
+  {
+    "id": 5010284,
+    "ep_num": 501,
+    "segment": 32,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "HBC headquarters, Hollywood, day, outside. Chef and the boys approach the fallen knight."
+  },
+  {
+    "id": 5010285,
+    "ep_num": 501,
+    "segment": 32,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Who are you?"
+  },
+  {
+    "id": 5010286,
+    "ep_num": 501,
+    "segment": 32,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Take this."
+  },
+  {
+    "id": 5010287,
+    "ep_num": 501,
+    "segment": 32,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "What are we supposed to do with it?"
+  },
+  {
+    "id": 5010288,
+    "ep_num": 501,
+    "segment": 32,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Eeehhhhhhhhhhhhhhh."
+  },
+  {
+    "id": 5010289,
+    "ep_num": 501,
+    "segment": 32,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Now what?"
+  },
+  {
+    "id": 5010290,
+    "ep_num": 501,
+    "segment": 32,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "We've got to find people who would know what the hell this is all about. Children, we're goin'ta have to go to the land of castles, knights, and kings!"
+  },
+  {
+    "id": 5010291,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Las Vegas, sunset, a view of the Strip, showing many of the attractions that can be found there."
+  },
+  {
+    "id": 5010292,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "ANNOUNCER",
+    "text": "Lords and Ladies, we bid you welcome to the grandest casino in the land, Excalibur!"
+  },
+  {
+    "id": 5010293,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "Take a free spin. Double your odds."
+  },
+  {
+    "id": 5010294,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "'Scuse me. Do you work here?"
+  },
+  {
+    "id": 5010295,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "How can I help you, noble sir?"
+  },
+  {
+    "id": 5010296,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "We need some help identifying an ancient English stone."
+  },
+  {
+    "id": 5010297,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "A what?"
+  },
+  {
+    "id": 5010298,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "It might hold the key to a curse."
+  },
+  {
+    "id": 5010299,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "Uh... I can help get you some credit or a comp meal, perhaps."
+  },
+  {
+    "id": 5010300,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Dude, we need help from the British!"
+  },
+  {
+    "id": 5010301,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "Lluhook kid, Thihis is just a casino. I can't help you. You know, not every British person knows about wizards and dragons and curses."
+  },
+  {
+    "id": 5010302,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "We just need help identifying this."
+  },
+  {
+    "id": 5010303,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "The Rune Stome of Gaelic! Where did you get this?"
+  },
+  {
+    "id": 5010304,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "You know what it is?"
+  },
+  {
+    "id": 5010305,
+    "ep_num": 501,
+    "segment": 33,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "The Skyre once spoke of such a stone! Come, we must see the sorcerer!"
+  },
+  {
+    "id": 5010306,
+    "ep_num": 501,
+    "segment": 34,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, bar, night. The men are gathered there once again"
+  },
+  {
+    "id": 5010307,
+    "ep_num": 501,
+    "segment": 34,
+    "title": "IT HITS THE FAN",
+    "role": "ANNOUNCER",
+    "text": "Get ready for \"Must Shit TV!\" Starting now, four straight hours of pure shit! It's all live!"
+  },
+  {
+    "id": 5010308,
+    "ep_num": 501,
+    "segment": 35,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "On the set of the Drew Carey show. Drew and Mimi are onstage, with Drew sitting at his desk"
+  },
+  {
+    "id": 5010309,
+    "ep_num": 501,
+    "segment": 35,
+    "title": "IT HITS THE FAN",
+    "role": "DREW",
+    "text": "Hey! Hm, heh, shit! Heh.  Ya ain't shit."
+  },
+  {
+    "id": 5010310,
+    "ep_num": 501,
+    "segment": 35,
+    "title": "IT HITS THE FAN",
+    "role": "MIMI",
+    "text": "Hyeh. Dude, ya ain't shit!"
+  },
+  {
+    "id": 5010311,
+    "ep_num": 501,
+    "segment": 35,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "This is it. My greatest work."
+  },
+  {
+    "id": 5010312,
+    "ep_num": 501,
+    "segment": 36,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Excalibur, inside. The barker leads Chef and the boys down a hall and run into a waitress dressed as a damsel"
+  },
+  {
+    "id": 5010313,
+    "ep_num": 501,
+    "segment": 36,
+    "title": "IT HITS THE FAN",
+    "role": "WAITRESS",
+    "text": "Cocktails. Cocktails."
+  },
+  {
+    "id": 5010314,
+    "ep_num": 501,
+    "segment": 36,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "There Americans wish to see the Skyre!"
+  },
+  {
+    "id": 5010315,
+    "ep_num": 501,
+    "segment": 36,
+    "title": "IT HITS THE FAN",
+    "role": "WAITRESS",
+    "text": "Let us make haste to the inner sanctum!"
+  },
+  {
+    "id": 5010316,
+    "ep_num": 501,
+    "segment": 37,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Excalibur, the hallway to the Inner Sanctum. The barker and waitress lead Chef and the boys through"
+  },
+  {
+    "id": 5010317,
+    "ep_num": 501,
+    "segment": 37,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "How could you foolish Americans bring the wrath of scorn by mass-chanting the word of wretchedness?!"
+  },
+  {
+    "id": 5010318,
+    "ep_num": 501,
+    "segment": 37,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Aah, yeah. We didn't mean to."
+  },
+  {
+    "id": 5010319,
+    "ep_num": 501,
+    "segment": 37,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "Didn't you realize \"shit\" is a curse word?!"
+  },
+  {
+    "id": 5010320,
+    "ep_num": 501,
+    "segment": 37,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Well, yeah, but I don't think that \"curse word\" meant... curse word."
+  },
+  {
+    "id": 5010321,
+    "ep_num": 501,
+    "segment": 37,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "Ha! Leave it to American to think that \"no\" means yes, \"pissed\" means angry, and \"curse word\" means something other than a word that's cursed!!"
+  },
+  {
+    "id": 5010322,
+    "ep_num": 501,
+    "segment": 38,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "The Inner Sanctum. The group enters and walks towards the sorcerer"
+  },
+  {
+    "id": 5010323,
+    "ep_num": 501,
+    "segment": 38,
+    "title": "IT HITS THE FAN",
+    "role": "SORCERER",
+    "text": "Let me see the stone."
+  },
+  {
+    "id": 5010324,
+    "ep_num": 501,
+    "segment": 38,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "But I don't get it. People use curse words all the time."
+  },
+  {
+    "id": 5010325,
+    "ep_num": 501,
+    "segment": 38,
+    "title": "IT HITS THE FAN",
+    "role": "BARKER",
+    "text": "Saying a word of curse once in a while does nothing. It's only when spoken repeatedly and en masse that the curse takes place."
+  },
+  {
+    "id": 5010326,
+    "ep_num": 501,
+    "segment": 38,
+    "title": "IT HITS THE FAN",
+    "role": "SORCERER",
+    "text": "Uhuh-I've seen this before. Stones that were used by the Knights of Standards and Practices."
+  },
+  {
+    "id": 5010327,
+    "ep_num": 501,
+    "segment": 38,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Knights of Standards and Practices?"
+  },
+  {
+    "id": 5010328,
+    "ep_num": 501,
+    "segment": 38,
+    "title": "IT HITS THE FAN",
+    "role": "SORCERER",
+    "text": "A legion of men sworn to do whatever necessary to keep the words at bay. But... they were just a myth."
+  },
+  {
+    "id": 5010329,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, bar, night. The men watch the Drew Carey Show"
+  },
+  {
+    "id": 5010330,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "MIMI",
+    "text": "You know what? You're dumb as shit!"
+  },
+  {
+    "id": 5010331,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "DREW",
+    "text": "Oh yeah?! Well, I don't really give a shit!"
+  },
+  {
+    "id": 5010332,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "Ng-aah, that word's kind of getting old. It's not really... funny anymore."
+  },
+  {
+    "id": 5010333,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 7",
+    "text": "Yeah, they're gonna have to come up with a new swear word now."
+  },
+  {
+    "id": 5010334,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Well, they can't use \"fag.\" Because you can't say \"fag\" unless you're a homosexual."
+  },
+  {
+    "id": 5010335,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "Really? So we can't say __g?"
+  },
+  {
+    "id": 5010336,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "No. See, you got beeped."
+  },
+  {
+    "id": 5010337,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "MAN 7",
+    "text": "You mean you have to be a __g to say __g?"
+  },
+  {
+    "id": 5010338,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "That's right."
+  },
+  {
+    "id": 5010339,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "JIMBO",
+    "text": "Hell, that's not fair! I should be able to say \"fag.\""
+  },
+  {
+    "id": 5010340,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "...Hey, you didn't get beeped."
+  },
+  {
+    "id": 5010341,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "JIMBO",
+    "text": "Uh oh."
+  },
+  {
+    "id": 5010342,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Well well well! Guess we learned something new about you, Jimbo, you freakin' fag! You wanna make out or something?"
+  },
+  {
+    "id": 5010343,
+    "ep_num": 501,
+    "segment": 39,
+    "title": "IT HITS THE FAN",
+    "role": "DREW",
+    "text": "Aw, man, I am up shit creek."
+  },
+  {
+    "id": 5010344,
+    "ep_num": 501,
+    "segment": 40,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "On the set of the Drew Carey show. The door to stage C opens and in gallop the knights with swords drawn"
+  },
+  {
+    "id": 5010345,
+    "ep_num": 501,
+    "segment": 40,
+    "title": "IT HITS THE FAN",
+    "role": "MIMI",
+    "text": "Serves you right, shit-for-brains!"
+  },
+  {
+    "id": 5010346,
+    "ep_num": 501,
+    "segment": 40,
+    "title": "IT HITS THE FAN",
+    "role": "DREW",
+    "text": "Yeah, how could I be such a dumb...sh-"
+  },
+  {
+    "id": 5010347,
+    "ep_num": 501,
+    "segment": 40,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "Say not the word of curse!"
+  },
+  {
+    "id": 5010348,
+    "ep_num": 501,
+    "segment": 40,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "What the?"
+  },
+  {
+    "id": 5010349,
+    "ep_num": 501,
+    "segment": 40,
+    "title": "IT HITS THE FAN",
+    "role": "MIMI",
+    "text": "Holy shit!"
+  },
+  {
+    "id": 5010350,
+    "ep_num": 501,
+    "segment": 41,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, bar, night. The men watch the Drew Carey Show"
+  },
+  {
+    "id": 5010351,
+    "ep_num": 501,
+    "segment": 41,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Oh boy, this show is really reaching for plot now!"
+  },
+  {
+    "id": 5010352,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Excalibur, the Inner Sanctum. The Sorcerer continues with the mythology of the knights"
+  },
+  {
+    "id": 5010353,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "SORCERER",
+    "text": "The knights were formed to keep curse words to a minimum. Should a curse word ever be let out, they would return. A rune for each word of curse was made, representing each of the eight words that so offended God..."
+  },
+  {
+    "id": 5010354,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Look, there's the F-word."
+  },
+  {
+    "id": 5010355,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "And asshole."
+  },
+  {
+    "id": 5010356,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "I knew it! Meecrob!  Meecrob is a curse word! God must hate it as much as I do!"
+  },
+  {
+    "id": 5010357,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "SORCERER",
+    "text": "Look at this: The writing here claims this stone can defeat the evil geldon , who will rise when the word of curse has been said enough times to give him power. Then all the world will be destroyed."
+  },
+  {
+    "id": 5010358,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "All the world destroyed?"
+  },
+  {
+    "id": 5010359,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "My house, too?"
+  },
+  {
+    "id": 5010360,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Oh no!"
+  },
+  {
+    "id": 5010361,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "SORCERER",
+    "text": "What?"
+  },
+  {
+    "id": 5010362,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "Tonight is the \"Night of a Million Shits\" on HBC! It's gonna be said over and over!"
+  },
+  {
+    "id": 5010363,
+    "ep_num": 501,
+    "segment": 42,
+    "title": "IT HITS THE FAN",
+    "role": "SORCERER",
+    "text": "Then we haven't much time. We must go!"
+  },
+  {
+    "id": 5010364,
+    "ep_num": 501,
+    "segment": 43,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "On the set of the Drew Carey show. The blond knight approaches the cameraman"
+  },
+  {
+    "id": 5010365,
+    "ep_num": 501,
+    "segment": 43,
+    "title": "IT HITS THE FAN",
+    "role": "BLOND KNIGHT",
+    "text": "Turn off those devices of broadcast!"
+  },
+  {
+    "id": 5010366,
+    "ep_num": 501,
+    "segment": 43,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "What is coing on here?! Stop this shit!"
+  },
+  {
+    "id": 5010367,
+    "ep_num": 501,
+    "segment": 43,
+    "title": "IT HITS THE FAN",
+    "role": "BLOND KNIGHT",
+    "text": "We are the Royal Order of Standards and Practices!"
+  },
+  {
+    "id": 5010368,
+    "ep_num": 501,
+    "segment": 43,
+    "title": "IT HITS THE FAN",
+    "role": "BLAD KNIGHT",
+    "text": "We command you to stop saying the curse word!"
+  },
+  {
+    "id": 5010369,
+    "ep_num": 501,
+    "segment": 43,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "Listen, Mr. Shinypants, I am the head of this network, and I will say \"shit\" all I want! Shit, shit, shit shit shit, shit shit shit shit shit shit shit shit shit shit shit shit shit shit shit shit shit shit shit, , shit shit shit shit shit shit shit shit shit shit!"
+  },
+  {
+    "id": 5010370,
+    "ep_num": 501,
+    "segment": 43,
+    "title": "IT HITS THE FAN",
+    "role": "Oh, shit!",
+    "text": ""
+  },
+  {
+    "id": 5010371,
+    "ep_num": 501,
+    "segment": 44,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, bar, night. The TV screen is show, with the HBC logo"
+  },
+  {
+    "id": 5010372,
+    "ep_num": 501,
+    "segment": 44,
+    "title": "IT HITS THE FAN",
+    "role": "ANNOUNCER",
+    "text": "And now, back to Must Shit TV, here on HBC."
+  },
+  {
+    "id": 5010373,
+    "ep_num": 501,
+    "segment": 45,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "On the set of the Drew Carey show. The terror continues - the knights fight the geldon valiantly"
+  },
+  {
+    "id": 5010374,
+    "ep_num": 501,
+    "segment": 45,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "He is too strong! We cannot fight him without the rune stone!"
+  },
+  {
+    "id": 5010375,
+    "ep_num": 501,
+    "segment": 45,
+    "title": "IT HITS THE FAN",
+    "role": "DIRECTOR 1",
+    "text": "My, my GOD, sir! What have you unleashed upon the world?!"
+  },
+  {
+    "id": 5010376,
+    "ep_num": 501,
+    "segment": 45,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "I didn't know.  I DIDN'T KNOW!!!"
+  },
+  {
+    "id": 5010377,
+    "ep_num": 501,
+    "segment": 46,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, bar, night. The men watch in increasing disbelief"
+  },
+  {
+    "id": 5010378,
+    "ep_num": 501,
+    "segment": 46,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "I, I can't follow this shitty storyline at all."
+  },
+  {
+    "id": 5010379,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "On the set of the Drew Carey show. The terror continues, but Chef and the boys arrive"
+  },
+  {
+    "id": 5010380,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "Wait!"
+  },
+  {
+    "id": 5010381,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Oh boy, that thing has really got sand in its vagina!"
+  },
+  {
+    "id": 5010382,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "LEAD KNIGHT",
+    "text": "The rune stone! Point it towards Geldon!"
+  },
+  {
+    "id": 5010383,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "GELDON",
+    "text": "Agh. Dude, lame. Lame!  Sorry, dudes."
+  },
+  {
+    "id": 5010384,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "What a stupid voice."
+  },
+  {
+    "id": 5010385,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "It's okay. The curse has been lifted."
+  },
+  {
+    "id": 5010386,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Yeah. We all gotta make sure it doesn't come back."
+  },
+  {
+    "id": 5010387,
+    "ep_num": 501,
+    "segment": 47,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "You see, we've learned something today. Swearing can be fun, but doing it all the time causes a lot of problems."
+  },
+  {
+    "id": 5010388,
+    "ep_num": 501,
+    "segment": 48,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut to Kyle's home, where he's on TV"
+  },
+  {
+    "id": 5010389,
+    "ep_num": 501,
+    "segment": 48,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "We're all saying the S-word too much!"
+  },
+  {
+    "id": 5010390,
+    "ep_num": 501,
+    "segment": 48,
+    "title": "IT HITS THE FAN",
+    "role": "IKE",
+    "text": "Kyle."
+  },
+  {
+    "id": 5010391,
+    "ep_num": 501,
+    "segment": 48,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE'S MOTHER",
+    "text": "Look, Gerald. Kyle's on television!"
+  },
+  {
+    "id": 5010392,
+    "ep_num": 501,
+    "segment": 48,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE'S FATHER",
+    "text": "Uh huh."
+  },
+  {
+    "id": 5010393,
+    "ep_num": 501,
+    "segment": 49,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "Cut to the old folks' home"
+  },
+  {
+    "id": 5010394,
+    "ep_num": 501,
+    "segment": 49,
+    "title": "IT HITS THE FAN",
+    "role": "KYLE",
+    "text": "The knights of Standards and Practices were created to make sure that bad words were kept to a minimum. \"Curse words\" They're called that because they are a curse. We have to go back to only using curse words in rare, extreme circumstances."
+  },
+  {
+    "id": 5010395,
+    "ep_num": 501,
+    "segment": 49,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "And besides, too much use of a dirty word takes away from its... impact. We believe in free speech and all that, but... keeping a few words taboo just adds to the fun of English."
+  },
+  {
+    "id": 5010396,
+    "ep_num": 501,
+    "segment": 49,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "So please, everyone, From now on you've got to try and watch your language."
+  },
+  {
+    "id": 5010397,
+    "ep_num": 501,
+    "segment": 50,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "South Park, bar, night. The men think over the boys' message"
+  },
+  {
+    "id": 5010398,
+    "ep_num": 501,
+    "segment": 50,
+    "title": "IT HITS THE FAN",
+    "role": "THE MEN",
+    "text": "Yeah."
+  },
+  {
+    "id": 5010399,
+    "ep_num": 501,
+    "segment": 50,
+    "title": "IT HITS THE FAN",
+    "role": "RANDY",
+    "text": "That makes sense."
+  },
+  {
+    "id": 5010400,
+    "ep_num": 501,
+    "segment": 50,
+    "title": "IT HITS THE FAN",
+    "role": "COLLEAGUE 1",
+    "text": "Ain't that right?"
+  },
+  {
+    "id": 5010401,
+    "ep_num": 501,
+    "segment": 50,
+    "title": "IT HITS THE FAN",
+    "role": "MR. GARRISON",
+    "text": "Is this still part of the show?"
+  },
+  {
+    "id": 5010402,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "description",
+    "text": "On the set of the Drew Carey show. The place is calm now"
+  },
+  {
+    "id": 5010403,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "HBC PRESIDENT",
+    "text": "We're sorry, noble knights of Standards and Pracrices,  from now on, we will obey your laws."
+  },
+  {
+    "id": 5010404,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "BLOND KNIGHT",
+    "text": "See that you do!"
+  },
+  {
+    "id": 5010405,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "CHEF",
+    "text": "I'm very proud of you, children. Let's all go home and find a nice white woman to make love to."
+  },
+  {
+    "id": 5010406,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Yeah! And Kenny didn't die!"
+  },
+  {
+    "id": 5010407,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "KENNY",
+    "text": "(Yeah, I didn't- Goddamnit! Aargh!)"
+  },
+  {
+    "id": 5010408,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "STAN",
+    "text": "Holy shi-  poo."
+  },
+  {
+    "id": 5010409,
+    "ep_num": 501,
+    "segment": 51,
+    "title": "IT HITS THE FAN",
+    "role": "CARTMAN",
+    "text": "Hah, I love you guys."
+  }
+]

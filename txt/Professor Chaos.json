@@ -1,0 +1,1938 @@
+[
+  {
+    "id": 6060001,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Cartman's room, day. Cartman and Kyle stand inside watchng Stan, who is peeking out the door, waiting for someone"
+  },
+  {
+    "id": 6060002,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Okay, here he comes."
+  },
+  {
+    "id": 6060003,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Who wants to tell him?"
+  },
+  {
+    "id": 6060004,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "I'll do it."
+  },
+  {
+    "id": 6060005,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Hehey, fellas. I'm glad you called me. There was a pie-eating contest down at the firehouse, and I thought we should all go."
+  },
+  {
+    "id": 6060006,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Butters, could you take a seat, please?"
+  },
+  {
+    "id": 6060007,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Wuh well, sure."
+  },
+  {
+    "id": 6060008,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Butters, we have to have a very difficult conversation."
+  },
+  {
+    "id": 6060009,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Wull what is it?"
+  },
+  {
+    "id": 6060010,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Well, in the, in the months since our friend Kenny died, you've really stepped up as a friend and \"filled the gap.\""
+  },
+  {
+    "id": 6060011,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Well uh, it's my pleasure! I love bein' you guys' new friend."
+  },
+  {
+    "id": 6060012,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Yes. Well, Butters, it's just not working out."
+  },
+  {
+    "id": 6060013,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Nnnot working out?"
+  },
+  {
+    "id": 6060014,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "I'm afraid we're gonna have to let you go, as our friend. You're just tooo..."
+  },
+  {
+    "id": 6060015,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Lame"
+  },
+  {
+    "id": 6060016,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Lane, yes."
+  },
+  {
+    "id": 6060017,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Well, but ah I can get better."
+  },
+  {
+    "id": 6060018,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Butters, you just don't really fit in with us here. We think it's best for all of us if you for friendship opportunites elsewhere."
+  },
+  {
+    "id": 6060019,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "But we certainly want to thank you for all your hard work and attempts at being our friend, lame as they were."
+  },
+  {
+    "id": 6060020,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Huh but ah I thought we were gettin' along... great. Heh ah I thought we were really havin' fun together."
+  },
+  {
+    "id": 6060021,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Yes, well, we weren't."
+  },
+  {
+    "id": 6060022,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Please, fellas, uh don't fire me."
+  },
+  {
+    "id": 6060023,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "We're sorry Butters.  Our mind is made up."
+  },
+  {
+    "id": 6060024,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "But we certainly wanna thank you for coming by.  You know the way out, right?"
+  },
+  {
+    "id": 6060025,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Phew."
+  },
+  {
+    "id": 6060026,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN, CARTMAN",
+    "text": "Phew."
+  },
+  {
+    "id": 6060027,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Hm, I think he took that pretty well, I think."
+  },
+  {
+    "id": 6060028,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Who cares?"
+  },
+  {
+    "id": 6060029,
+    "ep_num": 606,
+    "segment": 1,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "All right, so let's get started on who's gonna be the new person to take Kenny's place."
+  },
+  {
+    "id": 6060030,
+    "ep_num": 606,
+    "segment": 2,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Butters' house, night. A thunderstorm hovers over the neighborhood. Inside Butters' room a hamster set is seen, and beyond, Butters standing on his bed, looking out his window. He has an angry expression on his face"
+  },
+  {
+    "id": 6060031,
+    "ep_num": 606,
+    "segment": 2,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "The world isn't fair. I do everything people ask me to. I stand in the lunch line for them, I buy tampons at the store for them, I go on Maury Povich with balls on my chin for them.  And yet, nobody accepts me. I am an outcast. A shadow of a man who can find no companion... ship. No love from others.  Fine!  If I am to be an outcast, so be it!  I'm through doin' what others tell me to do, and I am sick of this world and the stin-, and the stinky people in it!  From now on I will dedicate my life to bringing chaos to the world that has rejected me!  I will become the greatest supervillain  the world has ever seen!  Where I go, destruction will follow!"
+  },
+  {
+    "id": 6060032,
+    "ep_num": 606,
+    "segment": 3,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Butters goes about making a suit for himself. He begins with a sheet of aluminum foil and shapes it around a styrofoam head to make a helmet. He pulls out a shirt from the closet and makes it a cape using a sewing machine. Pretty soon, he's finished - he's dressed as something of a knight"
+  },
+  {
+    "id": 6060033,
+    "ep_num": 606,
+    "segment": 3,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Prepare, O little town! Uh prepare for the greatest supervillain you've ever seen! Professor Chaos!"
+  },
+  {
+    "id": 6060034,
+    "ep_num": 606,
+    "segment": 3,
+    "title": "PROFESSOR CHAOS",
+    "role": "LINDA",
+    "text": "Butters, time for bed."
+  },
+  {
+    "id": 6060035,
+    "ep_num": 606,
+    "segment": 3,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Hu-uh, okay Mom.  Yes. Uh sleet sleep for now.  Tomorrow, the chaos begins."
+  },
+  {
+    "id": 6060036,
+    "ep_num": 606,
+    "segment": 4,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "South Park, morning. A small stage is shown in Cartman'ss backyard, with a camera off to the side. Kyle, Stan, and Cartman walk up on stage and look out over the backyard"
+  },
+  {
+    "id": 6060037,
+    "ep_num": 606,
+    "segment": 4,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "All right, we wanna thank everybody for coming. This is a great turnout. Uh, as you know, our friend Kenny died a few months ago and we are still looking to fill the void with a new friend. Now, you've all been selected as possible candidates, but unfortunately, there is only room for one of you. So Stan and Kyle and I will be spending the next few days going out with each one of you and narrowing our choices down. Until we think we've found the perfect friend. Are there any questions?"
+  },
+  {
+    "id": 6060038,
+    "ep_num": 606,
+    "segment": 4,
+    "title": "PROFESSOR CHAOS",
+    "role": "CLYDE",
+    "text": "...What if we don't want to be your friend?"
+  },
+  {
+    "id": 6060039,
+    "ep_num": 606,
+    "segment": 4,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Clyde... ... okay. Now, the first thing we have to do is cut the list down from twenty choices to ten. And so today we will all be going to the amusement park together to see who we want to cut. Please keep in mind that this will all be videotaped, so put on your best friend faces, and may the best friend win. Oh, and we will be needing a ten dollar per person entrance fee."
+  },
+  {
+    "id": 6060040,
+    "ep_num": 606,
+    "segment": 5,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "South Park, later. The camera looks at the end of Main Street, and Butters comes over a bump on the street. He heads towards the camera right in the middle of the street as the adults around him talk or window-shop. He walks on, and a Bennigan's appears to his left. He turns to look at it, then runs through the front doors. He stops just inside. The diners go about eating and chatting. A waitress serves a table"
+  },
+  {
+    "id": 6060041,
+    "ep_num": 606,
+    "segment": 5,
+    "title": "PROFESSOR CHAOS",
+    "role": "BENNIGAN'S CHEF",
+    "text": "Order twenty-three is up, and uh, order twenty-four is up."
+  },
+  {
+    "id": 6060042,
+    "ep_num": 606,
+    "segment": 6,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Butters sees the dishes and walks up to them. He stares at them for a few seconds, then switches them, grinning evilly. He then drops down quickly as a waitress comes for the dishes. She delivers them to the two diners who ordered them"
+  },
+  {
+    "id": 6060043,
+    "ep_num": 606,
+    "segment": 6,
+    "title": "PROFESSOR CHAOS",
+    "role": "MAN 1",
+    "text": "Uh, waitress, a-a-actually, I ordered the chicken soup. This is minnestrone."
+  },
+  {
+    "id": 6060044,
+    "ep_num": 606,
+    "segment": 6,
+    "title": "PROFESSOR CHAOS",
+    "role": "MAN 2",
+    "text": "Yeah, I had the minnestrone over here."
+  },
+  {
+    "id": 6060045,
+    "ep_num": 606,
+    "segment": 6,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "I am Professor Chaos, and now, this puny world uhwill bow down to me!"
+  },
+  {
+    "id": 6060046,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Montage 1 - A Day At The Amusement Park."
+  },
+  {
+    "id": 6060047,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "So today we went to the amusement park with all our possible friends.  It was a really fun time. We rode all the rides and everyone got along great."
+  },
+  {
+    "id": 6060048,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "I think the person that stood out most at the amusement park was Jimmy."
+  },
+  {
+    "id": 6060049,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Well, the, the reason I think I would make the perfect foreh- friend, is that I love telling jokes. You know, who doesn't like to laugh?"
+  },
+  {
+    "id": 6060050,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Tweek. Now there's an interesting choice. Tweek has a lot of qualities that I look for in a friend."
+  },
+  {
+    "id": 6060051,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "TWEEK",
+    "text": "What if they don't pick me? What if they get us all, man! I mean, Christ! If they can get to the Pentagon, then they can get to us all, man! Aaaa!"
+  },
+  {
+    "id": 6060052,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOG POO",
+    "text": "I think I deserve to take Kenny's place the most, because, I've been hanging around these guys for like five years and I never get to say or do anything."
+  },
+  {
+    "id": 6060053,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "...Yeah, I've only seen that kid in class, but he never does anything. He's more like a prop."
+  },
+  {
+    "id": 6060054,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Towelie is a tough choice because, even though I can see how always having a towel around can come in handy, he's just always so high."
+  },
+  {
+    "id": 6060055,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "TOWELIE",
+    "text": "Man, I really hope I win, because... wait... why is this again? I have no idea what's goin' on."
+  },
+  {
+    "id": 6060056,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "We decided to get some one-on-one time with Jimmy and ride the log ride.  The great thing was that, because Jimmy's crippled, we got to go to the front of the line.  That was definitely big points for Jimmy, you know, but, but then we got to the ride itself, and..."
+  },
+  {
+    "id": 6060057,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Hey, I-I'm gonna need some help getting in the log, fellas."
+  },
+  {
+    "id": 6060058,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "RIDE OPERATOR",
+    "text": "O! Shut her down. Someone needs assistance."
+  },
+  {
+    "id": 6060059,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Oh, really?  That's gonna cost some points."
+  },
+  {
+    "id": 6060060,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "But right now I'd say if we're gonna have a retard for a friend, I, I have to pick Timmy. Because Timmy doesn't tell any jokes."
+  },
+  {
+    "id": 6060061,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Boy, isn't this great fellas? Are we great pals or what?"
+  },
+  {
+    "id": 6060062,
+    "ep_num": 606,
+    "segment": 7,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "One thing for sure: picking our new freidn isn't gonna be easy."
+  },
+  {
+    "id": 6060063,
+    "ep_num": 606,
+    "segment": 8,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "South Park, day. Butters is still dressed as Professor Chaos, still walking down the street. A dog walks across the street and Butters stops next to it."
+  },
+  {
+    "id": 6060064,
+    "ep_num": 606,
+    "segment": 8,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Kneel. Kneel before Professor Chaos!"
+  },
+  {
+    "id": 6060065,
+    "ep_num": 606,
+    "segment": 9,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Butters' house, later. He makes it to his room and locks the door. He cackles again"
+  },
+  {
+    "id": 6060066,
+    "ep_num": 606,
+    "segment": 9,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Ah, the look on their faces when they got the wrong soup. I love bringing chaos!  And that's only the beginning!"
+  },
+  {
+    "id": 6060067,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Cartman's backyard, day. All the kids are seated as they were yesterday. A box of roses sites on stage."
+  },
+  {
+    "id": 6060068,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "All right, everyone. It was a tough decision, but based on our time with you all at the amusement park, we have whittled our choices down to ten.  If you receive a rose, please stay. If you don't, get the fudge out.  Kyle, will you announce the people we want to stay?"
+  },
+  {
+    "id": 6060069,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Token.  Clyde.  Craig  Timmy"
+  },
+  {
+    "id": 6060070,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "TIMMY",
+    "text": "Timmih!"
+  },
+  {
+    "id": 6060071,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "TWEEK",
+    "text": "Oh man! This is too much pressure!"
+  },
+  {
+    "id": 6060072,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Pip  Jimmy  Jason  Towelie  Luigi ."
+  },
+  {
+    "id": 6060073,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Just one more rose left, Kyle. Who does it go to?"
+  },
+  {
+    "id": 6060074,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Tweek."
+  },
+  {
+    "id": 6060075,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "TWEEK",
+    "text": "Aaarr!"
+  },
+  {
+    "id": 6060076,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "All right, the rest of you, thanks for coming. Get the fudge out!"
+  },
+  {
+    "id": 6060077,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOG POO",
+    "text": "I didn't make the cut?? Oh God, I didn't make the cut??"
+  },
+  {
+    "id": 6060078,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "I didn't even get a chance to have them get to know me!"
+  },
+  {
+    "id": 6060079,
+    "ep_num": 606,
+    "segment": 10,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "All right, congratulations to those of you selected to stay. In the end, one of you will be the new Kenny.  Good luck."
+  },
+  {
+    "id": 6060080,
+    "ep_num": 606,
+    "segment": 11,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "South Park, morning. Butters' house, kitchen. Linda is preparing some breakfast and Butters comes in confidently"
+  },
+  {
+    "id": 6060081,
+    "ep_num": 606,
+    "segment": 11,
+    "title": "PROFESSOR CHAOS",
+    "role": "LINDA",
+    "text": "Good morning, Butters."
+  },
+  {
+    "id": 6060082,
+    "ep_num": 606,
+    "segment": 11,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "It certainly is, Mother. Did ya hear about what's been goin' on? Some horrible new supervillain made somebody get the wrong soup order ot Bennigan's."
+  },
+  {
+    "id": 6060083,
+    "ep_num": 606,
+    "segment": 11,
+    "title": "PROFESSOR CHAOS",
+    "role": "LINDA",
+    "text": "No,  I didn't hear about that."
+  },
+  {
+    "id": 6060084,
+    "ep_num": 606,
+    "segment": 11,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Yeh, you didn't?"
+  },
+  {
+    "id": 6060085,
+    "ep_num": 606,
+    "segment": 12,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Butters' house, living room. Butters walks up to Chris, who is on the sofa reading the newspaper"
+  },
+  {
+    "id": 6060086,
+    "ep_num": 606,
+    "segment": 12,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Uh Dad, can I uh can I see the newspaper real quick?"
+  },
+  {
+    "id": 6060087,
+    "ep_num": 606,
+    "segment": 12,
+    "title": "PROFESSOR CHAOS",
+    "role": "CHRIS",
+    "text": "Why sure, Butters. I was just about to get some breakfast."
+  },
+  {
+    "id": 6060088,
+    "ep_num": 606,
+    "segment": 12,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Nothing.  Nothing!  It's the liberal media! They're keeping the stories of my deads covered up, so as not to cause a panic. Well, I guess it's time to take it up a notch!"
+  },
+  {
+    "id": 6060089,
+    "ep_num": 606,
+    "segment": 13,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "The bus stop, later. Stan, Kyle and Cartman stand with Craig. Scene music plays"
+  },
+  {
+    "id": 6060090,
+    "ep_num": 606,
+    "segment": 13,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Okay, next?"
+  },
+  {
+    "id": 6060091,
+    "ep_num": 606,
+    "segment": 13,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "This looks pretty good."
+  },
+  {
+    "id": 6060092,
+    "ep_num": 606,
+    "segment": 13,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Yeah,it's not bad. Next?"
+  },
+  {
+    "id": 6060093,
+    "ep_num": 606,
+    "segment": 13,
+    "title": "PROFESSOR CHAOS",
+    "role": "TIMMY",
+    "text": "Timmay!"
+  },
+  {
+    "id": 6060094,
+    "ep_num": 606,
+    "segment": 13,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Next?"
+  },
+  {
+    "id": 6060095,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "South Park Elementary, day. Most of the class is present. Stan, Kyle, and Cartman stand at the front of the class. On the chalkboard is the times table for 4"
+  },
+  {
+    "id": 6060096,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Okay, so now we're gonna see how you all work as a friend during classtime. Your performances will be judged primarily on how you help us cheat and give us answers. So good luck, everybody."
+  },
+  {
+    "id": 6060097,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Sit down, boys."
+  },
+  {
+    "id": 6060098,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Alrighty then."
+  },
+  {
+    "id": 6060099,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "All right, children, before we get started, has anybody seen the eraser for the chalkboard?  It probably got knocked on the floor somewhere. Can you all just please look around your desks for it?"
+  },
+  {
+    "id": 6060100,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Yes. Look around for your precious eraser. You won't find it. That eraser's in my back yard, buried three feet below the surface of the earth.  And do you even suspect me?? No! Now we shall all see how you all like your dear chalkboard without an eraser.  And information, it just keeps pilin' up and pilin' up, until your minuscule brains can take it no longer!"
+  },
+  {
+    "id": 6060101,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "No? Oh, oh well. Never mind. I've got a backup one in the desk.  Okay, today children, we're gonna learn about multiplying times five."
+  },
+  {
+    "id": 6060102,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "So! You all think that you can outsmart Professor Chaos, do you?!"
+  },
+  {
+    "id": 6060103,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Now, whenever we multiply a number times five, the result is going to end in a zero or a five."
+  },
+  {
+    "id": 6060104,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Ms. Choksondik,"
+  },
+  {
+    "id": 6060105,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "What is it, Butters?"
+  },
+  {
+    "id": 6060106,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Ah, I need to go to the bathroom. R-really bad."
+  },
+  {
+    "id": 6060107,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Oh alright Butters. Take the bathroom pass and go.  Okay, so for instance, children-"
+  },
+  {
+    "id": 6060108,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Alright. I'm goin' to the bathroom now. If anybody needs me, ah that's where I'll be."
+  },
+  {
+    "id": 6060109,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Just go, Butters.  Okay, so for instance, five times one is... what, Eric?"
+  },
+  {
+    "id": 6060110,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Uh, what's the question again?"
+  },
+  {
+    "id": 6060111,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Five... times...  one."
+  },
+  {
+    "id": 6060112,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Five times one is of course..."
+  },
+  {
+    "id": 6060113,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "THE CLASS",
+    "text": "Five."
+  },
+  {
+    "id": 6060114,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Five."
+  },
+  {
+    "id": 6060115,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "The time for fun and games is over, feeble-minded fools!"
+  },
+  {
+    "id": 6060116,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Who are you?"
+  },
+  {
+    "id": 6060117,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "I am Professor Chaos! Bringer of destruction and maker of doom! Those who do not know me yet shall know me very soon, for the hour of Chaos ih-is at hand!"
+  },
+  {
+    "id": 6060118,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Hey! That kid took my last eraser! Come back here, kid!"
+  },
+  {
+    "id": 6060119,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Oh! Ah, I'm back from the bathroom. Ah I really let one go in there."
+  },
+  {
+    "id": 6060120,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "Butters, did you see another little kid run out of here?"
+  },
+  {
+    "id": 6060121,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Why yes, I did. But he pushed me down and I scraped my elbow.  Go on and look at it. It's scraped. Look.  Yeesss. Go on and see the red mark on my elbow, the red mark I made myself to throw you off Professor Chaos's trail."
+  },
+  {
+    "id": 6060122,
+    "ep_num": 606,
+    "segment": 14,
+    "title": "PROFESSOR CHAOS",
+    "role": "MS. CHOKSONDIK",
+    "text": "It looks fine, Butters.  Okay, hold on and stay here, children."
+  },
+  {
+    "id": 6060123,
+    "ep_num": 606,
+    "segment": 15,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "South Park Elementary, later. Recess. The kids are at play. Stan, Kyle, Cartman, and Craig are standing together"
+  },
+  {
+    "id": 6060124,
+    "ep_num": 606,
+    "segment": 15,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "You're such a fatass, Cartman!"
+  },
+  {
+    "id": 6060125,
+    "ep_num": 606,
+    "segment": 15,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Oh yeah?! Well, you're a stupid Jew!"
+  },
+  {
+    "id": 6060126,
+    "ep_num": 606,
+    "segment": 15,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Shut up, fatass!"
+  },
+  {
+    "id": 6060127,
+    "ep_num": 606,
+    "segment": 15,
+    "title": "PROFESSOR CHAOS",
+    "role": "CRAIG",
+    "text": "Oh, aaaah, well you guys are dumb."
+  },
+  {
+    "id": 6060128,
+    "ep_num": 606,
+    "segment": 15,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Okay, Craig, interesting choice. Powerful stuff there, Craig. Thank you very much."
+  },
+  {
+    "id": 6060129,
+    "ep_num": 606,
+    "segment": 16,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Betters' house, night. Craig is at his desk working with his hamster set."
+  },
+  {
+    "id": 6060130,
+    "ep_num": 606,
+    "segment": 16,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "It is almost ...complete. The creation of my minions who will assist me in bringing terror to the world.  There we go.  Ye-ess, my minions of, of chaos. Shhh. Night now, night now my lovelies. Your time to bring dest-struction will come very soon.  Aaahhh!"
+  },
+  {
+    "id": 6060131,
+    "ep_num": 606,
+    "segment": 16,
+    "title": "PROFESSOR CHAOS",
+    "role": "LINDA",
+    "text": "Butters, a note for you was left on the front door."
+  },
+  {
+    "id": 6060132,
+    "ep_num": 606,
+    "segment": 16,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "A note?"
+  },
+  {
+    "id": 6060133,
+    "ep_num": 606,
+    "segment": 16,
+    "title": "PROFESSOR CHAOS",
+    "role": "LINDA",
+    "text": "Here you go.  And wash your hands after you touch those hamster - you'll get AIDS"
+  },
+  {
+    "id": 6060134,
+    "ep_num": 606,
+    "segment": 16,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Okay, Mom.  So. Someone has discovered my horrible secret. This could be a trap set by the FBI. Oh, I'll be at the docks, precious FBI! But it is I who'll have the trap set for you! Come, my minions!  We haven't much time!"
+  },
+  {
+    "id": 6060135,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Cartman's backyard, night. Stan, Kyle and Cartman are on stage for the next round of elimination"
+  },
+  {
+    "id": 6060136,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "All right, everyone, the time has come for us to narrow the list down from ten to six. But first, let us just say that the people who we didn't pick were only not picked because they totally sucked balls. Kyle?"
+  },
+  {
+    "id": 6060137,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "PIP",
+    "text": "They're not going to pick me. I just know they're not."
+  },
+  {
+    "id": 6060138,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "TWEEK",
+    "text": "O-oh Jesus! Aaah I can't take it!"
+  },
+  {
+    "id": 6060139,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Token."
+  },
+  {
+    "id": 6060140,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "TOKEN",
+    "text": "All right!"
+  },
+  {
+    "id": 6060141,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Timmy."
+  },
+  {
+    "id": 6060142,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "TIMMY",
+    "text": "Timmay!"
+  },
+  {
+    "id": 6060143,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Tweek.  Pip"
+  },
+  {
+    "id": 6060144,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "PIP",
+    "text": "Really? I don't believe it."
+  },
+  {
+    "id": 6060145,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Towelie."
+  },
+  {
+    "id": 6060146,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "PIP",
+    "text": "What?"
+  },
+  {
+    "id": 6060147,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Just one mroe rose, Kyle."
+  },
+  {
+    "id": 6060148,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Jimmy."
+  },
+  {
+    "id": 6060149,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Oh boy! Oh thank God!"
+  },
+  {
+    "id": 6060150,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "All right, those with roses will move on to the swimsuit and talent competition. The rest of you, get the fudge out!"
+  },
+  {
+    "id": 6060151,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "CLYDE",
+    "text": "This whole thing is stupid! You don't pick people you wanna be with by making it into a game!"
+  },
+  {
+    "id": 6060152,
+    "ep_num": 606,
+    "segment": 17,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Ooooooo, somebody's a sore loser! Clyde, I believe I said, \"get the fudge out!\" Which means, kiss mah fudgin' ass, go fudge yourself, fudge ya, get the fudge out, Clyde!"
+  },
+  {
+    "id": 6060153,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "South Park docks, night. Under a red moon, Butters sneaks along the docks, making sure no one sees him. He creeps from box to box and peeks out from behind one. Another face peeks out from behind a box at the other end of the docks. This face is younger, with glasses"
+  },
+  {
+    "id": 6060154,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "Hey Butters."
+  },
+  {
+    "id": 6060155,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Oh, hey Dougie.  Oh I mean, my name is Professor Chaos."
+  },
+  {
+    "id": 6060156,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "I saw you change in the school bathroom. You stole that eraser in your class."
+  },
+  {
+    "id": 6060157,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Very well. You called out Professor Chaos, and you also called out, eh your own demise!  Go now, my minions. Go and take this, this foolish mortal down! Aw minions, naw, not that way. He- come back minions."
+  },
+  {
+    "id": 6060158,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "I'm, not trying to call you out, Professor Chaos. I want to join you."
+  },
+  {
+    "id": 6060159,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Join me?"
+  },
+  {
+    "id": 6060160,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "Yeah I want to join you in your conquest of destruction."
+  },
+  {
+    "id": 6060161,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "But why?"
+  },
+  {
+    "id": 6060162,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "I'm an outcast, too. A frail child cast aside by society. I want to follow you and... whatever you're doing."
+  },
+  {
+    "id": 6060163,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Uh very well. You shall be my accomplice in evil. Together, we shall bring the world to its knees! A-and make all those who banished us from society run... red."
+  },
+  {
+    "id": 6060164,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "Do I get a neato costume made out of aluminum foil, too?"
+  },
+  {
+    "id": 6060165,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Well sure you do. Ah I am professor, and you shall be my general. From now on you are General... Disarray."
+  },
+  {
+    "id": 6060166,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "General Disarray."
+  },
+  {
+    "id": 6060167,
+    "ep_num": 606,
+    "segment": 18,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Now let us go look for my minions! They ran away here, now to find 'em..."
+  },
+  {
+    "id": 6060168,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Montage 2 - The Swimsuit And Talent Competition. Stan, Kyle, and Cartman sit on the chairs in the audience. The six remaining candidates are on stage."
+  },
+  {
+    "id": 6060169,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "The swinsuit competition really gave us a fresh look at some of the candidates."
+  },
+  {
+    "id": 6060170,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Well, I don't think I did too well in the... bathing suit competition. But I can't wait for the talent show competition. That'll really my chance to... shine.  Wow, what a terrific audience. So anyway, a guy walks into a buh- ...A guy walks into a b- ...buh...  A guy walks into a guy walks into a  babuh ba-a-a, uh-"
+  },
+  {
+    "id": 6060171,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "TOWELIE",
+    "text": "Okay wait...  No, no wait."
+  },
+  {
+    "id": 6060172,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Next please."
+  },
+  {
+    "id": 6060173,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "TOKEN",
+    "text": "Well, what am I supposed to do?"
+  },
+  {
+    "id": 6060174,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Anything that'll impress us, Token."
+  },
+  {
+    "id": 6060175,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "If you were our friend, how would you keep us entertained?"
+  },
+  {
+    "id": 6060176,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "TOKEN",
+    "text": "Aaaah. Oh, I know."
+  },
+  {
+    "id": 6060177,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Very nice."
+  },
+  {
+    "id": 6060178,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "I like it."
+  },
+  {
+    "id": 6060179,
+    "ep_num": 606,
+    "segment": 19,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Well Token was a definite winner for talent show. But then we decided to take everyone to a baseball game, to see how we got along there."
+  },
+  {
+    "id": 6060180,
+    "ep_num": 606,
+    "segment": 20,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Coors Field in Denver. The game is underway. A shot of the field."
+  },
+  {
+    "id": 6060181,
+    "ep_num": 606,
+    "segment": 20,
+    "title": "PROFESSOR CHAOS",
+    "role": "ANNOUNCER",
+    "text": "There goes a hit to left field, and Foley's going to score."
+  },
+  {
+    "id": 6060182,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "the bleachers. Stan, Kyle, Cartman, and Pip sit and watch the game"
+  },
+  {
+    "id": 6060183,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "ALL",
+    "text": "Woohoo!"
+  },
+  {
+    "id": 6060184,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Yeah! Isn't this great?!"
+  },
+  {
+    "id": 6060185,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "VENDOR",
+    "text": "Kids, get your drinks here."
+  },
+  {
+    "id": 6060186,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "PIP",
+    "text": "Eho! Yes. Can I have some tea, please?"
+  },
+  {
+    "id": 6060187,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "You don't drink tea in a ballpark, you French piece of crap!"
+  },
+  {
+    "id": 6060188,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "PIP",
+    "text": "Oh, very well. Just some crumpets, then."
+  },
+  {
+    "id": 6060189,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "All right, that does it! Pip, get the fudge out! Next!"
+  },
+  {
+    "id": 6060190,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Okay, let's try this."
+  },
+  {
+    "id": 6060191,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Hey, what's wrong with the Jumbotron?"
+  },
+  {
+    "id": 6060192,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "People of Earth! Your meaningless lives are about to end! I am Professor Chaos, and this is my partner ih-in evil, General Disarray! In the past few days I have rained terror down upon the society that shunned me! And now it is time for my Labor of Lonely! I am going to... flood... the world!"
+  },
+  {
+    "id": 6060193,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "MAN 3",
+    "text": "Flood the world?"
+  },
+  {
+    "id": 6060194,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "MAN 4",
+    "text": "My God!"
+  },
+  {
+    "id": 6060195,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "WOMAN",
+    "text": "I don't wanna die,  I DON'T WANNA DIE!"
+  },
+  {
+    "id": 6060196,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Oh yes. Every living creature and every sacred building will soon be under leagues and leagues of cold and dark water. And there is nothing you can do to stop me! General Disarray, begin the flooding of Earth!  You brought this upon yourselves! You made the outcasts of the world! Now watch! Watch as your precious planet drowns! Watch!"
+  },
+  {
+    "id": 6060197,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "MAN 5",
+    "text": "Jesus Christ, who will save us?"
+  },
+  {
+    "id": 6060198,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "MAN 6",
+    "text": "We have very little time to live. How, how shall we spend our last hours on earth?"
+  },
+  {
+    "id": 6060199,
+    "ep_num": 606,
+    "segment": 21,
+    "title": "PROFESSOR CHAOS",
+    "role": "FANS",
+    "text": "Yeah! All right!"
+  },
+  {
+    "id": 6060200,
+    "ep_num": 606,
+    "segment": 22,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Butters' house, day. Butters and Dougie are in the back yard watching their puddle grow and grow"
+  },
+  {
+    "id": 6060201,
+    "ep_num": 606,
+    "segment": 22,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Our reign of terror is complete! Our tur- turmoil has now come full circle! Hey, is the hose on full, General Disarray?"
+  },
+  {
+    "id": 6060202,
+    "ep_num": 606,
+    "segment": 22,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "It's on all the way."
+  },
+  {
+    "id": 6060203,
+    "ep_num": 606,
+    "segment": 22,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Oh. Alright then. Nothing to do now but watch the world die!  Boy, this sure is takin' a long time."
+  },
+  {
+    "id": 6060204,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Stan's house, dining room. The three boys sit at the table with pictures of the six candidates. They discuss their findings."
+  },
+  {
+    "id": 6060205,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Okay, so how do we all feel about Towelie as our new friend?"
+  },
+  {
+    "id": 6060206,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "I think Towelie is awesome."
+  },
+  {
+    "id": 6060207,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Towelie is cool, but he gets stoned all the time. You can't really rely on him for anything."
+  },
+  {
+    "id": 6060208,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Oh, this is giving me a headache."
+  },
+  {
+    "id": 6060209,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Eh now,  come on, you guys, we can't take this decision lightly. Whoever we pick is going to be the person we do everything with from now on."
+  },
+  {
+    "id": 6060210,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "You're right. Well now, how about Timmy? He's quiet and he takes direction well."
+  },
+  {
+    "id": 6060211,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Yeah, but Timmy can be really self-centered."
+  },
+  {
+    "id": 6060212,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "How about Token?"
+  },
+  {
+    "id": 6060213,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Token's a smartass."
+  },
+  {
+    "id": 6060214,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "So? You're a smartass!"
+  },
+  {
+    "id": 6060215,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Yeah. Do we really need another one?"
+  },
+  {
+    "id": 6060216,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Good point."
+  },
+  {
+    "id": 6060217,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Hey fellas. I was just in the neighborhood and I thought I'd stop by to s-gif- gift basket."
+  },
+  {
+    "id": 6060218,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Oh, thanks Jimmy"
+  },
+  {
+    "id": 6060219,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "There's some chocolates and lih-licorice, and some games and peh- pencils inside."
+  },
+  {
+    "id": 6060220,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "That's great."
+  },
+  {
+    "id": 6060221,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "KYLE",
+    "text": "Cool."
+  },
+  {
+    "id": 6060222,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Yeah well, I guess I'll be seeing you, you friends later."
+  },
+  {
+    "id": 6060223,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Alright Jimmy, see ya."
+  },
+  {
+    "id": 6060224,
+    "ep_num": 606,
+    "segment": 23,
+    "title": "PROFESSOR CHAOS",
+    "role": "STAN",
+    "text": "Suckup."
+  },
+  {
+    "id": 6060225,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Butters' house, next day, backyard. The pool has covered much of the yard. General Disarray jumps in the water as Professor Chaos looks on passively on the porch"
+  },
+  {
+    "id": 6060226,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Not long now, General Disarray, and... our horrible plan will be complete."
+  },
+  {
+    "id": 6060227,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "Hey, do you think maybe we should build a boat? You know, like a little raft or something, so that when the world floods you and me and the minions can live?"
+  },
+  {
+    "id": 6060228,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Oh yeah. I hadn't thought o' that. That's a pretty good idea. I'll go get a hammer. Hey, who is that?"
+  },
+  {
+    "id": 6060229,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "WORKER 1",
+    "text": "Is this it?"
+  },
+  {
+    "id": 6060230,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "WORKER 2",
+    "text": "Yeah, two thirteen, that's the one."
+  },
+  {
+    "id": 6060231,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Heeyyy, what are you doin'?  Aaaah! You may have won this time! But I will be back!"
+  },
+  {
+    "id": 6060232,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "What do we do now?"
+  },
+  {
+    "id": 6060233,
+    "ep_num": 606,
+    "segment": 24,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Well I had another idea of how to kill the world, but I thought it was... almost too horrible to e- to even speak of, but-  but now they have left me with no other choice!"
+  },
+  {
+    "id": 6060234,
+    "ep_num": 606,
+    "segment": 25,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "Cartman's backyard, day. Stan, Kyle, and Cartman are on stage while the candidates sit in the audience. Pip is missing"
+  },
+  {
+    "id": 6060235,
+    "ep_num": 606,
+    "segment": 25,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Well, this is it. We have made our final decision and one of you is who we will be spending our childhood with, as our new friend."
+  },
+  {
+    "id": 6060236,
+    "ep_num": 606,
+    "segment": 25,
+    "title": "PROFESSOR CHAOS",
+    "role": "JIMMY",
+    "text": "Oh puh please. Oh, Oh God... please."
+  },
+  {
+    "id": 6060237,
+    "ep_num": 606,
+    "segment": 25,
+    "title": "PROFESSOR CHAOS",
+    "role": "CARTMAN",
+    "text": "Four friends, just one rose. The moment of truth is here. Kyle? Who does the rose go to?"
+  },
+  {
+    "id": 6060238,
+    "ep_num": 606,
+    "segment": 26,
+    "title": "PROFESSOR CHAOS",
+    "role": "description",
+    "text": "A hilltop, later. Butters reaches the top of a hill carrying a box, with a red sky above him. He sets the box down"
+  },
+  {
+    "id": 6060239,
+    "ep_num": 606,
+    "segment": 26,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "This is is, General Disarray. My final solution."
+  },
+  {
+    "id": 6060240,
+    "ep_num": 606,
+    "segment": 26,
+    "title": "PROFESSOR CHAOS",
+    "role": "DOUGIE",
+    "text": "What evil plot do you have this time, Professor Chaos?"
+  },
+  {
+    "id": 6060241,
+    "ep_num": 606,
+    "segment": 26,
+    "title": "PROFESSOR CHAOS",
+    "role": "BUTTERS",
+    "text": "Simple, my dear general. We are going to tear down the Earth's precious atmosphere! Oh yes! My latest plan will melt the polar ice caps, a-and burn all the world with the, with the... hu- sun's harmful rays!  Say goodbye to your... precious ozone and hello to chaos!  Okay, hand me another one, General Disarray."
+  },
+  {
+    "id": 6060242,
+    "ep_num": 606,
+    "segment": 26,
+    "title": "PROFESSOR CHAOS",
+    "role": "ANNOUNCER",
+    "text": "Will Professor Chaos's latest plot succeed and be the final undoing of Earth? And which boy has been chosen to be the replacement for Kenny?  And which of these six South Park residents was killed, and will never be seen again? The answer to those questions will be answered... right now.  No.  Tweek. Ms. Choksondik."
+  }
+]

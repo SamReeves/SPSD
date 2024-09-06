@@ -1,0 +1,2762 @@
+[
+  {
+    "id": 7060001,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "South Park neighborhood, day. The boys walk up to Butters' house. Stan knocks on the door. The door opens and Butters' father looks out"
+  },
+  {
+    "id": 7060002,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CHRIS",
+    "text": "Yes?  Oh, hello, boys."
+  },
+  {
+    "id": 7060003,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Hello, sir. South Park Junior Detectives. We're wondering if you have any crimes to be solved, for a dollar."
+  },
+  {
+    "id": 7060004,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CHRIS",
+    "text": "Oooo, little crime stoppers, huh? Well, I'm afraid I don't have any crimes I need solved right now."
+  },
+  {
+    "id": 7060005,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Awww, shit!"
+  },
+  {
+    "id": 7060006,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "All right, sir, well, please call us if you need anything."
+  },
+  {
+    "id": 7060007,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CHRIS",
+    "text": "I'll do that. Have fun, boys."
+  },
+  {
+    "id": 7060008,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Stupid assholes!  How come nobody has a crime to solve?"
+  },
+  {
+    "id": 7060009,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Yeah, maybe starting a detective club isn't such a bright idea."
+  },
+  {
+    "id": 7060010,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "It's a great idea, we just have to keep working at it."
+  },
+  {
+    "id": 7060011,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "Oh, hello there boys."
+  },
+  {
+    "id": 7060012,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Hello, ma'am, we're detectives with the South Park Crime Unit. Do you have any crimes you need to be solved, for a dollar?"
+  },
+  {
+    "id": 7060013,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "Ohh, neighborhood detectives, huh? Well let me thi-oh yes! There is something!"
+  },
+  {
+    "id": 7060014,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Really?"
+  },
+  {
+    "id": 7060015,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "Yes. Two days ago I put a fresh baked cherry pie out on my window sill to cool.  And later, when I went to get it, it was gone."
+  },
+  {
+    "id": 7060016,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "My God..."
+  },
+  {
+    "id": 7060017,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Have you reported this to any other authorities?"
+  },
+  {
+    "id": 7060018,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "Noo, but I think it's a perfect case for you kids."
+  },
+  {
+    "id": 7060019,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Cool! We'll see what we can find, ma'am."
+  },
+  {
+    "id": 7060020,
+    "ep_num": 706,
+    "segment": 1,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "We're on the case."
+  },
+  {
+    "id": 7060021,
+    "ep_num": 706,
+    "segment": 2,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "The old woman's house, backyard."
+  },
+  {
+    "id": 7060022,
+    "ep_num": 706,
+    "segment": 2,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "What have you got, Marsh?"
+  },
+  {
+    "id": 7060023,
+    "ep_num": 706,
+    "segment": 2,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Detective McCormick found something interesting."
+  },
+  {
+    "id": 7060024,
+    "ep_num": 706,
+    "segment": 2,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Jesus, we're too late."
+  },
+  {
+    "id": 7060025,
+    "ep_num": 706,
+    "segment": 2,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "I think we can piece this case together now."
+  },
+  {
+    "id": 7060026,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "The old woman's house, living room. She and her husband sit back in arm chairs looking at news. The door opens and the boys rush in with the pie tin"
+  },
+  {
+    "id": 7060027,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "My pie tin! Oooh, but what happened to the pie?"
+  },
+  {
+    "id": 7060028,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Well, we've all talked it through and we've come up with a theory."
+  },
+  {
+    "id": 7060029,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD MAN",
+    "text": "Well, what do you thnk happened, little detectives?"
+  },
+  {
+    "id": 7060030,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "You said you set the pie in the window sill, where it must have sat for some time.  But its sweet smell attracted the attention of somebody."
+  },
+  {
+    "id": 7060031,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Your husband.  He wanted that pie badly, but he knew that he was not allowed to eat it yet."
+  },
+  {
+    "id": 7060032,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Slowly the rage built inside his mind. \"Why won't she let me eat that pie? Why does she always stop me from doing what I wanna do?!\" His only solution became obvious: Kill her!"
+  },
+  {
+    "id": 7060033,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "His plan was to use a hammer."
+  },
+  {
+    "id": 7060034,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Bash, bash, BASH your skull in, causing instant death."
+  },
+  {
+    "id": 7060035,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Then to make it impossible for police to identify the body, he'd use a shovel to remove your head."
+  },
+  {
+    "id": 7060036,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Then saw off the arms and legs."
+  },
+  {
+    "id": 7060037,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "The torso he would dump into the lake."
+  },
+  {
+    "id": 7060038,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "The arms and legs he would dissolve with acid and lye in the bathtub."
+  },
+  {
+    "id": 7060039,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "And then, finally, he'd be able to eat that pie."
+  },
+  {
+    "id": 7060040,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "But before he could go through with this entire plan, he discovered that the pie had already been eaten...  ...by your dog."
+  },
+  {
+    "id": 7060041,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Looks like the game is over, old man!"
+  },
+  {
+    "id": 7060042,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "Oh my God, what kind of television have you kids been watching??"
+  },
+  {
+    "id": 7060043,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Just the news."
+  },
+  {
+    "id": 7060044,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "All right, all right, you you boys run along now."
+  },
+  {
+    "id": 7060045,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Hey, you owe us a dollar, lady."
+  },
+  {
+    "id": 7060046,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OLD WOMAN",
+    "text": "Fine, here, just go!"
+  },
+  {
+    "id": 7060047,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Wow, look, you guys! Our first dollar!"
+  },
+  {
+    "id": 7060048,
+    "ep_num": 706,
+    "segment": 3,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "We're in business!"
+  },
+  {
+    "id": 7060049,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "A basement, some time later. The dollar bill is newly framed and hung on a wall in ... Cartman's basement, which is now the South Park Detectives headquarters. Pictures of suspects are on the wall below the framed dollar, a chalkboard has some instructions listed, and some suspects already interviewed are listed on the wall beneath the stairs. Kyle puts a file away in a filing cabinet as the other boys do other tasks."
+  },
+  {
+    "id": 7060050,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Kenny, you got the f-a-g on that perp in Washington"
+  },
+  {
+    "id": 7060051,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "LIANE",
+    "text": "Boys, you have a little visitor."
+  },
+  {
+    "id": 7060052,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GIRL",
+    "text": "Is this the South Park Crime Unit?"
+  },
+  {
+    "id": 7060053,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "THE BOYS",
+    "text": "Ah! Oh."
+  },
+  {
+    "id": 7060054,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Yes it is!"
+  },
+  {
+    "id": 7060055,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GIRL",
+    "text": "I lost my dollie."
+  },
+  {
+    "id": 7060056,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Thank you, Ms. Secretary, that will be all.  And get some more cookies and coffee! We're not paying you to sit on your ass!"
+  },
+  {
+    "id": 7060057,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Do you kow where your doll is?"
+  },
+  {
+    "id": 7060058,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GIRL",
+    "text": "If I knew where it was, it wouldn't be lost."
+  },
+  {
+    "id": 7060059,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "All right, Sarah, come over here.  Now, I want you to describe what the doll looks like to our sketch artist, Kenny."
+  },
+  {
+    "id": 7060060,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "SARAH",
+    "text": "She has curly blonde hair. And a red dress. And a turned-up nose. And a blue bow in her hair."
+  },
+  {
+    "id": 7060061,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "You got it, Ken?"
+  },
+  {
+    "id": 7060062,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "All right, let's see.  Damnit Kenny, that's not what she said!"
+  },
+  {
+    "id": 7060063,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Put that away, dude!"
+  },
+  {
+    "id": 7060064,
+    "ep_num": 706,
+    "segment": 4,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Don't worry, ma'am. We'll find your doll."
+  },
+  {
+    "id": 7060065,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Sarah's house, day. The boys swarm into the girl's bedroom and check out all the possibilities."
+  },
+  {
+    "id": 7060066,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "No sign of forced entry."
+  },
+  {
+    "id": 7060067,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "But the window isn't locked."
+  },
+  {
+    "id": 7060068,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Right, so it's possible that the theif sat out in that tree.  He would have watched Sarah with the doll, possibly while cutting the palms of his hands with a large knife.  The pain gave him sick pleasure."
+  },
+  {
+    "id": 7060069,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Disposing of the doll wouldn't be easy. He would have had to have brough a shovel to decapitate it."
+  },
+  {
+    "id": 7060070,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "We're going to need semen samples from everything in this room."
+  },
+  {
+    "id": 7060071,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "A BOY",
+    "text": "All right, let's do this by the books! McDonnell,  give me smears of all the places the doll used to be!  Mitchell, run a tap on the phone!"
+  },
+  {
+    "id": 7060072,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Hey, kid, what are you doing?"
+  },
+  {
+    "id": 7060073,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "THE BOY",
+    "text": "Agent Tucker, FBI! And you?"
+  },
+  {
+    "id": 7060074,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Detective Marsh. I'm in charge of this investigation!"
+  },
+  {
+    "id": 7060075,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "...Not anymore, you're not!"
+  },
+  {
+    "id": 7060076,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Hey, this is our case! You can't come in and take over!"
+  },
+  {
+    "id": 7060077,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "Can't we? You guys are playing Detective. We're playing FBI. That gives us jurisdiction over you!"
+  },
+  {
+    "id": 7060078,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Aw crap!"
+  },
+  {
+    "id": 7060079,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "I want choppers on the roof ready to go!"
+  },
+  {
+    "id": 7060080,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Dude, we've been working this case since two-thirty!"
+  },
+  {
+    "id": 7060081,
+    "ep_num": 706,
+    "segment": 5,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "Good. Then you can help us by telling me everything you know."
+  },
+  {
+    "id": 7060082,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Sarah's house, afternoon, outside. The boys have been kicked out by the FBI boys and head for the sidewalk"
+  },
+  {
+    "id": 7060083,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Son of a bitch stupid FBI!"
+  },
+  {
+    "id": 7060084,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Well, I guess we can go back to playing laundromat."
+  },
+  {
+    "id": 7060085,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "No! We're not gonna stop playing detectives! We've just gotta find that doll before thos FBI guys do."
+  },
+  {
+    "id": 7060086,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(Yeah!)"
+  },
+  {
+    "id": 7060087,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Yeah, but how?"
+  },
+  {
+    "id": 7060088,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "We're gonna have to just start bringing in people for questioning."
+  },
+  {
+    "id": 7060089,
+    "ep_num": 706,
+    "segment": 6,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Right. I think I know exactly where to start."
+  },
+  {
+    "id": 7060090,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Cartman's basement, later. The boys have called Butters in and he's confused, being under the spotlight"
+  },
+  {
+    "id": 7060091,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Where were you this morning at nine o'clock, Butters?!"
+  },
+  {
+    "id": 7060092,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Ah, I was at home."
+  },
+  {
+    "id": 7060093,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Your story is full of holes and I'm gonna beat your ass if you don't start tellin' the truth!"
+  },
+  {
+    "id": 7060094,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(Awww, don't be so hard. Maybe he's tellin' the truth, huh?)"
+  },
+  {
+    "id": 7060095,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "They've gotten really good at this good cop-bad cop thing."
+  },
+  {
+    "id": 7060096,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "You're going down, Butters! You hear me?!"
+  },
+  {
+    "id": 7060097,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(Aw. Now just be nice. Poor lil thing.)"
+  },
+  {
+    "id": 7060098,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "You're worth a two-dollar criminal and you're lying!"
+  },
+  {
+    "id": 7060099,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(Aw, please don't make him confess.)"
+  },
+  {
+    "id": 7060100,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Well I don't have nothin' to confess. Honestly."
+  },
+  {
+    "id": 7060101,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Fine! Then you won't mind giving us a semen sample."
+  },
+  {
+    "id": 7060102,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "How do I do that?"
+  },
+  {
+    "id": 7060103,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "You just make the semen come out of your body and fill it in this cup!"
+  },
+  {
+    "id": 7060104,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Well how do I make semen... come out of my body?"
+  },
+  {
+    "id": 7060105,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Stop playing games!"
+  },
+  {
+    "id": 7060106,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "I'm not playing. I really don't know!"
+  },
+  {
+    "id": 7060107,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "That does it! Wait right here!  Guys, did you hear that? Butters doesn't know how you make seme come out of your body."
+  },
+  {
+    "id": 7060108,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "How... do you make semen come out?"
+  },
+  {
+    "id": 7060109,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "I don't know. I was hoping you guys did."
+  },
+  {
+    "id": 7060110,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "It's that thing we learned about in school where you pull on your weiner until white stuff comes out."
+  },
+  {
+    "id": 7060111,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Really?"
+  },
+  {
+    "id": 7060112,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Ohh, right, you're supposed to pull and mager...venate your weiner really fast."
+  },
+  {
+    "id": 7060113,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Oh okay.  Okay, retard, you really don't know how to make semen come out?!"
+  },
+  {
+    "id": 7060114,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "No-o!"
+  },
+  {
+    "id": 7060115,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Follow me to the bathroom."
+  },
+  {
+    "id": 7060116,
+    "ep_num": 706,
+    "segment": 7,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(Aw, it's okay kid. It's just done in a jiffy)"
+  },
+  {
+    "id": 7060117,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "The Cartman hallway. Cartman takes Butters to the restroom"
+  },
+  {
+    "id": 7060118,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Now, go sit on the toilet and pull and tug on your weiner until white stuff comes out, and then put it in this cup."
+  },
+  {
+    "id": 7060119,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "My weiner??"
+  },
+  {
+    "id": 7060120,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Yes, retard. Semen comes from your weiner. Now do it!  Well Butters?!"
+  },
+  {
+    "id": 7060121,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Ah I'm pullin' on my weiner, but nothin's happening."
+  },
+  {
+    "id": 7060122,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Well pull harder!"
+  },
+  {
+    "id": 7060123,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "...ow... Ow... It's not workin'"
+  },
+  {
+    "id": 7060124,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Try doin' it faster"
+  },
+  {
+    "id": 7060125,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Ow. Ow. Ow ow ow ow ow ow ow ow ow. Naw, nothin'"
+  },
+  {
+    "id": 7060126,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Butters, do you wanna go to jail for the rest of your life?!"
+  },
+  {
+    "id": 7060127,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "NOOooo!"
+  },
+  {
+    "id": 7060128,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "The you'd better get that semen sample no matter how long it takes!"
+  },
+  {
+    "id": 7060129,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Okay!!"
+  },
+  {
+    "id": 7060130,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Cartman! Cartman! We just got a tip that a doll was found near Fosse's house!"
+  },
+  {
+    "id": 7060131,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Let's go!"
+  },
+  {
+    "id": 7060132,
+    "ep_num": 706,
+    "segment": 8,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "...ow... Ow!"
+  },
+  {
+    "id": 7060133,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Fosse's house, a nice rambling house. Cartman approaches the front door as Stan, Kyle, and Kenny stand off to one side. He turns and places his back against the wall, then sneaks up to a window. He looks in just a bit. Inside, a boy plays with a doll... red dress, turned-up nose, blonde curly hair with two blue bows attached... just as Sarah had described. Two boys giggle as they play"
+  },
+  {
+    "id": 7060134,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "Huhuh, Okay Ms., Ms. Jones, heh, me and Doctor... Flick here just need to... check your vagina."
+  },
+  {
+    "id": 7060135,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BILL",
+    "text": "That's gay."
+  },
+  {
+    "id": 7060136,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "Yeah, that's gay."
+  },
+  {
+    "id": 7060137,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Kyle!"
+  },
+  {
+    "id": 7060138,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "What?  What??"
+  },
+  {
+    "id": 7060139,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "I see two guys inside. They have Sarah Peterson's doll, you stupid Jew!"
+  },
+  {
+    "id": 7060140,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "They've got the doll!"
+  },
+  {
+    "id": 7060141,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Okay, okay. Ready? Break the door down!"
+  },
+  {
+    "id": 7060142,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "Huh huh who is it?!"
+  },
+  {
+    "id": 7060143,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "South Park Junior Detectives! We know you have Sarah Peterson's doll!"
+  },
+  {
+    "id": 7060144,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "They're playing Detective."
+  },
+  {
+    "id": 7060145,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BILL",
+    "text": "That's gay."
+  },
+  {
+    "id": 7060146,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "You're gay!"
+  },
+  {
+    "id": 7060147,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "What do we do now?"
+  },
+  {
+    "id": 7060148,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "I don't know."
+  },
+  {
+    "id": 7060149,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Well if they're not gonna give us back the doll, then we have no choice. Let's go tell on them."
+  },
+  {
+    "id": 7060150,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Dude, we just can't tell on them."
+  },
+  {
+    "id": 7060151,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Why not?"
+  },
+  {
+    "id": 7060152,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Because, dude, we're playing detectives! Detectives don't just go tell on people."
+  },
+  {
+    "id": 7060153,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "Detectives!  If you don't get out of here, we're gonna rip the doll's head off!"
+  },
+  {
+    "id": 7060154,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BILL",
+    "text": "Yeah."
+  },
+  {
+    "id": 7060155,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "We were playing gynecologists and now we're playing criminals"
+  },
+  {
+    "id": 7060156,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BILL",
+    "text": "That's gay."
+  },
+  {
+    "id": 7060157,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "We're gay."
+  },
+  {
+    "id": 7060158,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Jesus! They're gonna kill her!"
+  },
+  {
+    "id": 7060159,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "We've got to do something."
+  },
+  {
+    "id": 7060160,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Time! Time is what we need, but time is something we ain't got!"
+  },
+  {
+    "id": 7060161,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "Attention! You in the house!  This is Agent Tucker with the FBI! We have you surrounded. Sort of."
+  },
+  {
+    "id": 7060162,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Hey, you buttholes can't play FBI here!"
+  },
+  {
+    "id": 7060163,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Yeah! This was our hot lead!"
+  },
+  {
+    "id": 7060164,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "And you did a great job leading us here. Now you just stay out of our way!  The gig is up, Fosse! Bring out the doll! Or we'll tell on you!"
+  },
+  {
+    "id": 7060165,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "We're gonna charge the front door and go get it."
+  },
+  {
+    "id": 7060166,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "No you're not."
+  },
+  {
+    "id": 7060167,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Damnit man, this is not the time for negotiations! There's a little doll in there about to have her head twisted off!"
+  },
+  {
+    "id": 7060168,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "Time out, kid! We say you can't charge the front door, and you have to obey what the FBI says! That's the rules!"
+  },
+  {
+    "id": 7060169,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Just because your parents can afford better toys than ours doesn't make you better than us!"
+  },
+  {
+    "id": 7060170,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "Yes it does so!"
+  },
+  {
+    "id": 7060171,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "...Grrrr!!!"
+  },
+  {
+    "id": 7060172,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(What do we do now?)"
+  },
+  {
+    "id": 7060173,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "We go get the doll ourselves."
+  },
+  {
+    "id": 7060174,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "But they said we can't charge the front door."
+  },
+  {
+    "id": 7060175,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "That's right.  But they didn't say anything about going in the back."
+  },
+  {
+    "id": 7060176,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TUCKER",
+    "text": "Come on guys. You don't wanna hurt that doll."
+  },
+  {
+    "id": 7060177,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BILL",
+    "text": "Huhuh.  Oh crap, they're coming in the back!  That's gay."
+  },
+  {
+    "id": 7060178,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Bang bang bang! I got you, Fosse!"
+  },
+  {
+    "id": 7060179,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "No you didn't!"
+  },
+  {
+    "id": 7060180,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Did so!"
+  },
+  {
+    "id": 7060181,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "No, 'cause I got... special wizard armor on."
+  },
+  {
+    "id": 7060182,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "We're not playing Dungeons and Dragons, assface!"
+  },
+  {
+    "id": 7060183,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "All right, that does it! Cover me! I'm going slo-mo!  Wwwaaahhh!"
+  },
+  {
+    "id": 7060184,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "Oooh, they got me!  Whooaaa, whooaaa, whooaaa."
+  },
+  {
+    "id": 7060185,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BILL",
+    "text": "rr uh rr uh, uhhhh."
+  },
+  {
+    "id": 7060186,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FOSSE",
+    "text": "We're dead."
+  },
+  {
+    "id": 7060187,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BILL",
+    "text": "That's gay."
+  },
+  {
+    "id": 7060188,
+    "ep_num": 706,
+    "segment": 9,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "We got it."
+  },
+  {
+    "id": 7060189,
+    "ep_num": 706,
+    "segment": 10,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Sarah's house, later. Stan and the boys walk up to the house again. Stan knocks on the door, and Sarah's mother answers"
+  },
+  {
+    "id": 7060190,
+    "ep_num": 706,
+    "segment": 10,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Ms. Peterson, is your daughter home?"
+  },
+  {
+    "id": 7060191,
+    "ep_num": 706,
+    "segment": 10,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "SARAH",
+    "text": "My dollie!"
+  },
+  {
+    "id": 7060192,
+    "ep_num": 706,
+    "segment": 10,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "We got her back safe. We lost a lot of good men in the process."
+  },
+  {
+    "id": 7060193,
+    "ep_num": 706,
+    "segment": 10,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "SARAH'S MOM",
+    "text": "Well you boys are little heroes. I'm going to call the police department and let them know what brave little detectives you are!"
+  },
+  {
+    "id": 7060194,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Park County Police Station, day. This building is much bigger than the building Barbrady upholds the law from in South Park."
+  },
+  {
+    "id": 7060195,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Hello there little crime stoppers, I'm Lieutenant Dawson with the Park County Police. I heard you did a great job finding Sarah Peterson's doll."
+  },
+  {
+    "id": 7060196,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "We do what we can, sir."
+  },
+  {
+    "id": 7060197,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "W-hell, that's fantastic, kids. And for all your terrific sleuth-solving, I'm hereby making you all Jenior Detectives."
+  },
+  {
+    "id": 7060198,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Wow!"
+  },
+  {
+    "id": 7060199,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "That means you boys are now an official part of the department."
+  },
+  {
+    "id": 7060200,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Kewl!"
+  },
+  {
+    "id": 7060201,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "All right, so ready for your first assignment?"
+  },
+  {
+    "id": 7060202,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Sure."
+  },
+  {
+    "id": 7060203,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Okay. There's a meth lab down at 567 Mala Vista. The operators are probably armed to the hilt with illegal weapons. I want you to get down there and see what you can find!"
+  },
+  {
+    "id": 7060204,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Ah... a a a meth lab?"
+  },
+  {
+    "id": 7060205,
+    "ep_num": 706,
+    "segment": 11,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "I don't want any problems. Just take them down by the books. Now get over there; the mayor's all over my ass on this one!  On, and deputies: you screw this up and I'll have you working graveyard shift behind a desk! Move it!"
+  },
+  {
+    "id": 7060206,
+    "ep_num": 706,
+    "segment": 12,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Nighttime in the boondocks. The boys walk along a barren stretch of road"
+  },
+  {
+    "id": 7060207,
+    "ep_num": 706,
+    "segment": 12,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "What is a meth lab, anyway?"
+  },
+  {
+    "id": 7060208,
+    "ep_num": 706,
+    "segment": 12,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "I don't know. Let's just hurry up. I wanna get home in time to watch Crime Drama."
+  },
+  {
+    "id": 7060209,
+    "ep_num": 706,
+    "segment": 13,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "The meth lab. Three men sit around a table as a forth man works behind them. The juniro detectives approach the front door. Stan knocks. The men inside quickly arm themselves"
+  },
+  {
+    "id": 7060210,
+    "ep_num": 706,
+    "segment": 13,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Uh police. Open up. ...Oh crap, did you guys do your math homework?"
+  },
+  {
+    "id": 7060211,
+    "ep_num": 706,
+    "segment": 13,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Nah. Dude, I totally spaced it."
+  },
+  {
+    "id": 7060212,
+    "ep_num": 706,
+    "segment": 13,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MAN 1",
+    "text": "You die, pigs!  You want to die, huh?"
+  },
+  {
+    "id": 7060213,
+    "ep_num": 706,
+    "segment": 13,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MAN 3",
+    "text": "You won't take us alive!"
+  },
+  {
+    "id": 7060214,
+    "ep_num": 706,
+    "segment": 13,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MAN 5",
+    "text": "So long, coppers!"
+  },
+  {
+    "id": 7060215,
+    "ep_num": 706,
+    "segment": 13,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Damn."
+  },
+  {
+    "id": 7060216,
+    "ep_num": 706,
+    "segment": 14,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Park County Police Dept., Dawson's office, later that night. He reads the police report and paces behind his desk"
+  },
+  {
+    "id": 7060217,
+    "ep_num": 706,
+    "segment": 14,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "One UPS vehicle valued at twenty-five thousand dollars, one civilian vehicle valued at sixteen thousand, the second floor of the post office AND a coffee shop valued at sixteen thousand! The mayor's gonna have my ass!"
+  },
+  {
+    "id": 7060218,
+    "ep_num": 706,
+    "segment": 14,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Uh, sir, we just kinda got blind-sided by the-"
+  },
+  {
+    "id": 7060219,
+    "ep_num": 706,
+    "segment": 14,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "You got careless! Now, I don't know how they do things down at that dog-and-pony show they call the Fourth Grade, but here we have rules! Jesus, we don't have guys to question now, because you killed them all!"
+  },
+  {
+    "id": 7060220,
+    "ep_num": 706,
+    "segment": 14,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "We're sorry."
+  },
+  {
+    "id": 7060221,
+    "ep_num": 706,
+    "segment": 14,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "One more slip-up like that and I'll have your badges! You hear me?! Now hit the showers!"
+  },
+  {
+    "id": 7060222,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Park County Police Dept., locker room. Three men are changing clothes, so they're all in their briefs. The boys enter."
+  },
+  {
+    "id": 7060223,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OFFICER 1",
+    "text": "Well well well, if it isn't the supercops."
+  },
+  {
+    "id": 7060224,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OFFICER 2",
+    "text": "Hey Murphy, think they'll let me borrow their G.I. Joes?"
+  },
+  {
+    "id": 7060225,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OFFICER 4",
+    "text": "Come on, you guys. Leave them alone."
+  },
+  {
+    "id": 7060226,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "Relax, Hopkins!  All fun and games, right?  Soho, tell us, rookies, you ah... find yourself a little bonus in that house??"
+  },
+  {
+    "id": 7060227,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Uh bonus?"
+  },
+  {
+    "id": 7060228,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "Come on! We all skim a little off the top. Oh. Or are you too good for that? So you think you're gonna waltz in here and clean up the system. Is that it?"
+  },
+  {
+    "id": 7060229,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "We just wanna be junior detectives."
+  },
+  {
+    "id": 7060230,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "LOOK, we all work hard! And we deserve more than the thirty-thousand a year we get paid! So what if we take in a little on the side?"
+  },
+  {
+    "id": 7060231,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OFFICER 2",
+    "text": "Yeah! Who the hell are you to say that?!"
+  },
+  {
+    "id": 7060232,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "HOPKINS",
+    "text": "I said, back off Murphy!"
+  },
+  {
+    "id": 7060233,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "Why don't you and your rookie friends make us"
+  },
+  {
+    "id": 7060234,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OFFICER 2",
+    "text": "That's right. Come on, bring it!"
+  },
+  {
+    "id": 7060235,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OFFICER 3",
+    "text": "Yeah, let's go! Come on, bring it!"
+  },
+  {
+    "id": 7060236,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "What the hell is the problem here??"
+  },
+  {
+    "id": 7060237,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "No problem, sir. No problem at all."
+  },
+  {
+    "id": 7060238,
+    "ep_num": 706,
+    "segment": 15,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Then hit the showers, all of ya!"
+  },
+  {
+    "id": 7060239,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "The shower room, moments later. Stan, Kyle, and Cartman are taking their showers. Kyle drops his soap to fart, then picks it up again. Cartman works on his hair"
+  },
+  {
+    "id": 7060240,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Dude, I don't wanna play Detective anymore."
+  },
+  {
+    "id": 7060241,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Me neither."
+  },
+  {
+    "id": 7060242,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "It'll get better, guys."
+  },
+  {
+    "id": 7060243,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Better how, dude?"
+  },
+  {
+    "id": 7060244,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Look, we said we wanted to form a club to protect and serve South Park. We put all this time to it, I mean... What do you guys wanna do, huh? Go back to playing Car Mechanics? Or Laundromat Owners?"
+  },
+  {
+    "id": 7060245,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "We were happy playing Laundromat Owners."
+  },
+  {
+    "id": 7060246,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "I wasn't. We started playing Detective because we wanted our play time to mean something. Or have you forgotten why you joined the force, Kyle?"
+  },
+  {
+    "id": 7060247,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Hey! Broflovski's a good cop!"
+  },
+  {
+    "id": 7060248,
+    "ep_num": 706,
+    "segment": 16,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "You guys can go back to playing Laundromat Owners if you want, but... I'm not gonna give those kids playing the FBI a chance to laugh at us. See you guys at school tomorrow."
+  },
+  {
+    "id": 7060249,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Cartman's house, night. His door opens, and a tired Cartman walks in"
+  },
+  {
+    "id": 7060250,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Awwwwrrr-auugh."
+  },
+  {
+    "id": 7060251,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "LIANE",
+    "text": "Eric, where have you been? It's ten thirty."
+  },
+  {
+    "id": 7060252,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "We had to take down a meth lab on Mala Vista."
+  },
+  {
+    "id": 7060253,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "LIANE",
+    "text": "Well you should've called Mommy."
+  },
+  {
+    "id": 7060254,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Will you get off my back?! It's hard enough I gotta work the beat, and now I gotta come home to your nagging?! Look look, I'm I'm sorry. It's just this case, and... the guys down at the station, I... I'm tired, alright? I'm I'm tired."
+  },
+  {
+    "id": 7060255,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "LIANE",
+    "text": "Well, why don't you get ready for snoogums' night-night, and I'll bring you some toasty chocolate nummers?"
+  },
+  {
+    "id": 7060256,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Okay."
+  },
+  {
+    "id": 7060257,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Who-o-o-o-a. Oowwww!"
+  },
+  {
+    "id": 7060258,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Butters?"
+  },
+  {
+    "id": 7060259,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Yes?"
+  },
+  {
+    "id": 7060260,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Are you still trying to give a semen sample?"
+  },
+  {
+    "id": 7060261,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Well I'm tryin', but nothin's comin' out."
+  },
+  {
+    "id": 7060262,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Well, keep tryin', Butters."
+  },
+  {
+    "id": 7060263,
+    "ep_num": 706,
+    "segment": 17,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Okay.  Ow. Ooww!"
+  },
+  {
+    "id": 7060264,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "South Park Elementary, day. The boys are in class, sleeping. As Butters was at home at 9 am the previous day, this day is Monday"
+  },
+  {
+    "id": 7060265,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MR. GARRISON",
+    "text": "And so you can see, children, that the women's movement of the late fifties and the early sixties had a profound effect on feminism in America.  Uh, boys!  Would it trouble you terribly not to sleep in my class?"
+  },
+  {
+    "id": 7060266,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Uh wu we weren't sleeping, Mr. Garrison."
+  },
+  {
+    "id": 7060267,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MR. GARRISON",
+    "text": "Oh well, then maybe you can tell me who was in charge of the feminist movement of the early sixties!"
+  },
+  {
+    "id": 7060268,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "A bunch of fat old skanks on their periods?"
+  },
+  {
+    "id": 7060269,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MR. GARRISON",
+    "text": "Right, but who was the fattest oldest skank on her period?!  That's what I thought! Now pay attention!  Okay, children, now, the biggest fatass was an old skank by the name of-"
+  },
+  {
+    "id": 7060270,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Marsh! Broflovski! McCormick! Cartman! In my office!"
+  },
+  {
+    "id": 7060271,
+    "ep_num": 706,
+    "segment": 18,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "THE BOYS",
+    "text": "Eeagh!"
+  },
+  {
+    "id": 7060272,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Park County Police Department, later. The boys walk in sleepily. Dawson holds a file in his right hand"
+  },
+  {
+    "id": 7060273,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Looks like that meth lab you took down was the tip of the iceberg. They found a paper trail leading all the way to the biggest crime syndicate in Colorado."
+  },
+  {
+    "id": 7060274,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Un oh..."
+  },
+  {
+    "id": 7060275,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "The operators apparently run their business out of a sleazy strip joint down in Inglewood. They're all cop killers, so I'm sending you in undercover."
+  },
+  {
+    "id": 7060276,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Uh, sir, d'I have a lot of homework to do tonight and I was-"
+  },
+  {
+    "id": 7060277,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "What?! Now you listen to me! I'm givin' you one last chance! You're good cops, but you let your emotions get in the way! And your little \"shoot first ask questions later\" technique has no place in this century! Now you get down to that strip joint and you do it by the books, you got it?! The mayor is on my ass and blablablah!"
+  },
+  {
+    "id": 7060278,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "So, what did you boys have to say to the lieutenant?"
+  },
+  {
+    "id": 7060279,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Nothing, he just told us a bunch of stuff."
+  },
+  {
+    "id": 7060280,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "Maybe you decided you needed to tell him about our... bonus money."
+  },
+  {
+    "id": 7060281,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "No."
+  },
+  {
+    "id": 7060282,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OFFICER 2",
+    "text": "They're lying."
+  },
+  {
+    "id": 7060283,
+    "ep_num": 706,
+    "segment": 19,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "They're dead!"
+  },
+  {
+    "id": 7060284,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Inglewood, Colorado, night. A big city. The strip club shown is The Peppermint Hippo. Inside there are several dancers undulating for their patrons on individual stages. Other dancers dance on the club floor for individual patrons. The boys enter the club"
+  },
+  {
+    "id": 7060285,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Dude, if my mom knew I was in here, I would be in super big trouble."
+  },
+  {
+    "id": 7060286,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(Woohoo!!)"
+  },
+  {
+    "id": 7060287,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STRIPPER",
+    "text": "Would you like a dance?"
+  },
+  {
+    "id": 7060288,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "No thanks."
+  },
+  {
+    "id": 7060289,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STRIPPER",
+    "text": "Dance?  Anyone like a dance?"
+  },
+  {
+    "id": 7060290,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DJ",
+    "text": "Well all right, guests, put your hands together. Be sure to tip the dancers. And now, come on, let's here it for Candy!"
+  },
+  {
+    "id": 7060291,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BOUNCER",
+    "text": "Whoa whoa, what the hell are you kids doin' in here? This isn't an appropriate place for children"
+  },
+  {
+    "id": 7060292,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STRIPPER",
+    "text": "Dance? Anyone like a dance?"
+  },
+  {
+    "id": 7060293,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Uh, it's okay. We know the owner."
+  },
+  {
+    "id": 7060294,
+    "ep_num": 706,
+    "segment": 20,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STRIPPER",
+    "text": "Oh, really? Let's go see."
+  },
+  {
+    "id": 7060295,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "The Peppermint Hippo back room. Nice opulent place."
+  },
+  {
+    "id": 7060296,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "OWNER",
+    "text": "All right, so we'll have to start havin' the McCormicks make our meth again and-"
+  },
+  {
+    "id": 7060297,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BOUNCER",
+    "text": "Hey Gino, these kids say they know you."
+  },
+  {
+    "id": 7060298,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GINO",
+    "text": "What? Ha-I don't know no kids."
+  },
+  {
+    "id": 7060299,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BOUNCER",
+    "text": "I didn't think so. All right, you kids-"
+  },
+  {
+    "id": 7060300,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GINO",
+    "text": "Hey wait a minute. These kids might be just what we need to get our drugs past the security at DIA. How would you like to join our family?"
+  },
+  {
+    "id": 7060301,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TALL GOON",
+    "text": "Yo Gino, I know I've seen these kids before, man. These kids are 5-0!"
+  },
+  {
+    "id": 7060302,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GINO",
+    "text": "What?"
+  },
+  {
+    "id": 7060303,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "TALL GOON",
+    "text": "These kids are cops, man!"
+  },
+  {
+    "id": 7060304,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Bang bang bang..."
+  },
+  {
+    "id": 7060305,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN, KYLE, CARTMAN",
+    "text": "Bang bang bang..."
+  },
+  {
+    "id": 7060306,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KENNY",
+    "text": "(Pakew! Pakew!)"
+  },
+  {
+    "id": 7060307,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Kenny, it doesn't go \"Pakew! Pakew!\", it goes \"BANG BANG BANG!!\""
+  },
+  {
+    "id": 7060308,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "God damnit! Those junior detectives and their heroicly reckless ways! Murphy! Jenkins! Hopkins! Get in there!"
+  },
+  {
+    "id": 7060309,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STRIPPER",
+    "text": "Dance??? Anybody like a dance???"
+  },
+  {
+    "id": 7060310,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "HOPKINS",
+    "text": "Freeze! South Park detectives!  Great job, boys. You found the meth boss!"
+  },
+  {
+    "id": 7060311,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GINO",
+    "text": "Detective Murphy! Jenkins! Uh what the hell are you doing? We had a deal."
+  },
+  {
+    "id": 7060312,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "HOPKINS",
+    "text": "A deal?"
+  },
+  {
+    "id": 7060313,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "That's right. We're partners in the drug business. Everything was fine until these \"supercops\" joined the force."
+  },
+  {
+    "id": 7060314,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "JENKINS",
+    "text": "Now we've gotta kill you all."
+  },
+  {
+    "id": 7060315,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "HOPKINS",
+    "text": "Boys! Down!"
+  },
+  {
+    "id": 7060316,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DJ",
+    "text": "Huh alright guys, put your hands together, a lot of shootin' and killin' goin' on, but be sure to tip your waitress let's hear it for Rebecca."
+  },
+  {
+    "id": 7060317,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Christ! Those junior detectives have no regard for the law!"
+  },
+  {
+    "id": 7060318,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "LEAD FBI AGENT",
+    "text": "Get me a hard line to the phone! And I want choppers on the roof!"
+  },
+  {
+    "id": 7060319,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Who the hell are you??"
+  },
+  {
+    "id": 7060320,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "LEAD FBI AGENT",
+    "text": "Agent Fields, FBI!"
+  },
+  {
+    "id": 7060321,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "Hey, I'm in charge of this investigation."
+  },
+  {
+    "id": 7060322,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FIELDS",
+    "text": "Not anymore, you're not."
+  },
+  {
+    "id": 7060323,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "But that's not fair!"
+  },
+  {
+    "id": 7060324,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "FIELDS",
+    "text": "Is so! Is so!"
+  },
+  {
+    "id": 7060325,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "JENKINS",
+    "text": "Sorry, Detective Hopkins. We can't let anybody know about our partnership."
+  },
+  {
+    "id": 7060326,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "GINO",
+    "text": "That's right. We split it all, fifty-fifty!"
+  },
+  {
+    "id": 7060327,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "That's right.  I think we'll take a hundred percent now."
+  },
+  {
+    "id": 7060328,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "JENKINS",
+    "text": "Huhuh yeah. Sorry, Gino, but in business like this, sometimes partnerships need to end."
+  },
+  {
+    "id": 7060329,
+    "ep_num": 706,
+    "segment": 21,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "MURPHY",
+    "text": "That's right.  Sometimes partnerships need to end.  Well, supercops, looks like I'll be taking in all the money now. I'm in business alone. And that means that the only person I can't trust... is myself."
+  },
+  {
+    "id": 7060330,
+    "ep_num": 706,
+    "segment": 22,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Outside the Peppermint Club. The paramedics have arrived and are removing the bodies. Hopkins, up and about, reaches the boys"
+  },
+  {
+    "id": 7060331,
+    "ep_num": 706,
+    "segment": 22,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "HOPKINS",
+    "text": "It looks like Murphy and Jenkins got what they deserved. If it weren't for you boys, we would have never cleaned up the department."
+  },
+  {
+    "id": 7060332,
+    "ep_num": 706,
+    "segment": 22,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "All right, detectives, let's get one thing straight! I do not agree with your methods! You're uncontrolled, and you're negligent! But by God you get the job done. Congratulations!"
+  },
+  {
+    "id": 7060333,
+    "ep_num": 706,
+    "segment": 22,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Thanks."
+  },
+  {
+    "id": 7060334,
+    "ep_num": 706,
+    "segment": 22,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "DAWSON",
+    "text": "I'm probably going to regret this, but, well, I'm promoting you to full detectives. There'll be lots of action, and that big paycheck you've always wanted."
+  },
+  {
+    "id": 7060335,
+    "ep_num": 706,
+    "segment": 22,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "...I think I have a better idea."
+  },
+  {
+    "id": 7060336,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "description",
+    "text": "Cartman's basement, next day. The boys are back at playing Laundromat. The wall under the stairs has been removed to show the washer and dryer, which are now framed by a doorway saying \"Employees Only.\" Two clothes racks are seen, and the detectives' desks are refashioned as washer/dryer combos. A \"Laundromat\" sign on the wall looks over the whole thing"
+  },
+  {
+    "id": 7060337,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Hello, sir. Welcome to the Broflovski Laundromat."
+  },
+  {
+    "id": 7060338,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "STAN",
+    "text": "Yes, I have a suit that needs to be dry-cleaned. And pressed, please."
+  },
+  {
+    "id": 7060339,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "Certainly."
+  },
+  {
+    "id": 7060340,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Here you are, Mister McCormick. Your laundry is all done and folded. That will be nine ninety five.  On your American Express."
+  },
+  {
+    "id": 7060341,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Fellas! Hehey fellas! I got it! Ah I got my semen sample!"
+  },
+  {
+    "id": 7060342,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "You did?"
+  },
+  {
+    "id": 7060343,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "BUTTERS",
+    "text": "Yeah. I was up there poundin' my weiner for two days straight, aaand finally, I thought about Stan's Mom's boobs, and this little timy spooge of... this white stuff came out."
+  },
+  {
+    "id": 7060344,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "KYLE",
+    "text": "That's great, Butters, but we're not playing Detective anymore. We're playing laundromat owners."
+  },
+  {
+    "id": 7060345,
+    "ep_num": 706,
+    "segment": 23,
+    "title": "LIL  CRIME STOPPERS",
+    "role": "CARTMAN",
+    "text": "Would you like those pants cleaned for four ninety five?"
+  }
+]

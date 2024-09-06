@@ -1,0 +1,2306 @@
+[
+  {
+    "id": 9020001,
+    "ep_num": 902,
+    "segment": 1,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "An elderly woman's home. Cartman rings her doorbell, and she answers it. Cartman is dressed in an orange hazmat suit and is carrying a tank of something on his back"
+  },
+  {
+    "id": 9020002,
+    "ep_num": 902,
+    "segment": 1,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Hello, ma'am. I'm working to clean up the neighborhood from parasites. Do you mind if I take a quick look around your house? I'm afraid you may have hippies."
+  },
+  {
+    "id": 9020003,
+    "ep_num": 902,
+    "segment": 1,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ELDERLY WOMAN",
+    "text": "Hippies?"
+  },
+  {
+    "id": 9020004,
+    "ep_num": 902,
+    "segment": 1,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Yeah, they've been poppin' up all over the neighborhood lately. Ms. Nelson next door had seven hippies in her basement; they usually live in colonies.  Hm, I don't like the sound of that. Could I take a look in your attic?"
+  },
+  {
+    "id": 9020005,
+    "ep_num": 902,
+    "segment": 2,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The attic. He opens the door and looks in. He gets out a flashlight, turns it on, and looks around again. He stops after a few seconds."
+  },
+  {
+    "id": 9020006,
+    "ep_num": 902,
+    "segment": 2,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Oh yeah, boy. Take a look at this, ma'am. See that? Hippies."
+  },
+  {
+    "id": 9020007,
+    "ep_num": 902,
+    "segment": 2,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ELDERLY WOMAN",
+    "text": "Oh my."
+  },
+  {
+    "id": 9020008,
+    "ep_num": 902,
+    "segment": 2,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "These are what we call the uh giggling stoners. Pretty common form of hippie, usually found in the attics. Problem is, if you see one hippie, there's probably a whole lot more you're not seein'. Uh, whe-where's the backyard."
+  },
+  {
+    "id": 9020009,
+    "ep_num": 902,
+    "segment": 3,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The backyard. The elderly lady opens the door and Cartman walks out onto the back porch"
+  },
+  {
+    "id": 9020010,
+    "ep_num": 902,
+    "segment": 3,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Yep, that's what I thought. See that? You've got a drum circle in your backyard."
+  },
+  {
+    "id": 9020011,
+    "ep_num": 902,
+    "segment": 3,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ELDERLY WOMAN",
+    "text": "Oh, well they showed up a few days ago, but I didn't think they were hurting anything."
+  },
+  {
+    "id": 9020012,
+    "ep_num": 902,
+    "segment": 3,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Yeah. You know, I had a guy in Jackson county. He had a little drum circle in his backyard. It turned into a drum circle four miles in diameter. You get a few hippies playing drums and next thing you know, you got yourself a colony."
+  },
+  {
+    "id": 9020013,
+    "ep_num": 902,
+    "segment": 3,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ELDERLY WOMAN",
+    "text": "Oh dear."
+  },
+  {
+    "id": 9020014,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "back inside the house"
+  },
+  {
+    "id": 9020015,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ELDERLY WOMAN",
+    "text": "Oh, well, so, so what do I do?"
+  },
+  {
+    "id": 9020016,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Well, your attic could be so we can fumigate with polymerethane. The drum circle we're gonna have to gas.  Goddamnit!"
+  },
+  {
+    "id": 9020017,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 1",
+    "text": "Whoa, how did I get here? Man, I'm so high."
+  },
+  {
+    "id": 9020018,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Goddamn hippie!"
+  },
+  {
+    "id": 9020019,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 1",
+    "text": "Whoa, dude!"
+  },
+  {
+    "id": 9020020,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Get out of here!"
+  },
+  {
+    "id": 9020021,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 1",
+    "text": "Not cool!  What's up?!"
+  },
+  {
+    "id": 9020022,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Ma'am, I need to clear out your giggling stoners and your drum-cricle hippies RIGHT NOW, or soon they're gonna attract something much worse!"
+  },
+  {
+    "id": 9020023,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ELDERLY WOMAN",
+    "text": "Ooooo.what's that?"
+  },
+  {
+    "id": 9020024,
+    "ep_num": 902,
+    "segment": 4,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "The college know-it-all hippies."
+  },
+  {
+    "id": 9020025,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The neighborhood, day. A red car pulls up to the curb. On the back window is a decal which says \"University of Colorado at Boulder\" Three men and three women step out of the car"
+  },
+  {
+    "id": 9020026,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "Wow, my friend Brittany was right. This is a really laid-back place."
+  },
+  {
+    "id": 9020027,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "WOMAN 1",
+    "text": "Yeah, this will be a great place to spend spring break."
+  },
+  {
+    "id": 9020028,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Hey, let's ask them."
+  },
+  {
+    "id": 9020029,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "All right.  'Scuse me.  Hello, we are selling magazine subscriptions for our community youth program. Would you like to help young people like us by purchasing a subscription of your choice?"
+  },
+  {
+    "id": 9020030,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "Oh wow, you guys shouldn't be doing that. Don't you know what you're doing to the world?"
+  },
+  {
+    "id": 9020031,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Wha- whataya mean?"
+  },
+  {
+    "id": 9020032,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 1",
+    "text": "You're playing into the corporate game! See, the corporations are trying to turn you into little Eichmanns so that they can make money."
+  },
+  {
+    "id": 9020033,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Who are the corporations?"
+  },
+  {
+    "id": 9020034,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "WOMAN 2",
+    "text": "The corporations run the entire world. And now they fooled you into working for them."
+  },
+  {
+    "id": 9020035,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Are you serious?? We never heard that."
+  },
+  {
+    "id": 9020036,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "We just spent our first semester at college. Our professors opened our eyes. The government is using its corporate ties to make you sell magazines so they can get rich."
+  },
+  {
+    "id": 9020037,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Ugh! Those dirty liars!"
+  },
+  {
+    "id": 9020038,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KENNY",
+    "text": "(Sonofabitch!)"
+  },
+  {
+    "id": 9020039,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 2",
+    "text": "This is a really nice town you have here. That's why the corporations are trying to use you to take it down."
+  },
+  {
+    "id": 9020040,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Well... Well what do we do?"
+  },
+  {
+    "id": 9020041,
+    "ep_num": 902,
+    "segment": 5,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "Just hang with us for a bit. We'll fill you in on everything you haven't been told."
+  },
+  {
+    "id": 9020042,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Cartman's basement. He's gathered a bunch of hippies in there and one of them pounds the door to get out"
+  },
+  {
+    "id": 9020043,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 2",
+    "text": "It is time to let us out! I'm sending your names! Open this door right now!"
+  },
+  {
+    "id": 9020044,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "All right, in you go."
+  },
+  {
+    "id": 9020045,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 2",
+    "text": "What are you doing, man?!"
+  },
+  {
+    "id": 9020046,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 3",
+    "text": "Let us out!"
+  },
+  {
+    "id": 9020047,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Get back. Get back or you're all gonna get maced!"
+  },
+  {
+    "id": 9020048,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 2",
+    "text": "What's up, man?! You can't keep us down here like this!"
+  },
+  {
+    "id": 9020049,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 4",
+    "text": "What's wrong with you?!"
+  },
+  {
+    "id": 9020050,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "What's wrong is that there's more of you showing up every day and I need to find out why!"
+  },
+  {
+    "id": 9020051,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 5",
+    "text": "What makes you think you could tell us where to live?!"
+  },
+  {
+    "id": 9020052,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 6",
+    "text": "This is a free country, man!"
+  },
+  {
+    "id": 9020053,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Brah, I'm not gonna argue with you, all right? Just go with it."
+  },
+  {
+    "id": 9020054,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 3",
+    "text": "Just go with it? We've been down here for days!"
+  },
+  {
+    "id": 9020055,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "And you're gonna be here a little longer, brah, all right? Here, here's some joints , and a guitar!"
+  },
+  {
+    "id": 9020056,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SINGER",
+    "text": "What's goin' on in this world o'mine?"
+  },
+  {
+    "id": 9020057,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "There's a whole lot of killin' in this world o'mine.",
+    "text": ""
+  },
+  {
+    "id": 9020058,
+    "ep_num": 902,
+    "segment": 6,
+    "title": "DIE HIPPIE  DIE",
+    "role": "Somebody's gotta help this world o'mine...",
+    "text": ""
+  },
+  {
+    "id": 9020059,
+    "ep_num": 902,
+    "segment": 7,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Stan's house, at about the same time. He's sitting at the edge of the porch playing a guitar quietly. On his cap he wears a peace sign"
+  },
+  {
+    "id": 9020060,
+    "ep_num": 902,
+    "segment": 7,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Sign, sign everywhere. Sign"
+  },
+  {
+    "id": 9020061,
+    "ep_num": 902,
+    "segment": 7,
+    "title": "DIE HIPPIE  DIE",
+    "role": "Done something to my mind.",
+    "text": ""
+  },
+  {
+    "id": 9020062,
+    "ep_num": 902,
+    "segment": 7,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SHARON",
+    "text": "Stan, sweetie, we're gonna go to the mall. Do you wanna come?"
+  },
+  {
+    "id": 9020063,
+    "ep_num": 902,
+    "segment": 7,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Mom, the mall is a way for the corporate fatcats to imprison you into a life of servitude. I've got some stuff you should read."
+  },
+  {
+    "id": 9020064,
+    "ep_num": 902,
+    "segment": 7,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SHARON",
+    "text": "Okay, sweetie."
+  },
+  {
+    "id": 9020065,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "City Hall, City Council meeting. Mayor McDaniels is seated at the head of a boardroom table, with leading citizens of the town sitting on either side."
+  },
+  {
+    "id": 9020066,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "All right, people, we can move onto issue number 14B."
+  },
+  {
+    "id": 9020067,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "Mayor, we have got to do somethin' about all these potholes on our roads!"
+  },
+  {
+    "id": 9020068,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA STOTCH",
+    "text": "We don't have it in the budget to fix them right now."
+  },
+  {
+    "id": 9020069,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE'S FATHER",
+    "text": "We'll wish we spent the money when we have a lawsuit on our hands."
+  },
+  {
+    "id": 9020070,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "We-"
+  },
+  {
+    "id": 9020071,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "GUARD",
+    "text": "You can't go in there!"
+  },
+  {
+    "id": 9020072,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Please, I have to talk to you all right now!"
+  },
+  {
+    "id": 9020073,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "Kid, we're have a city council meeting."
+  },
+  {
+    "id": 9020074,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Mayor, something very big is happening, and if you all don't give me a moment of your time, there may be no more South Park to council over!"
+  },
+  {
+    "id": 9020075,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "What are you talking about?"
+  },
+  {
+    "id": 9020076,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "I'm talking about the end of all life as we know it.  For the past several days I've been... noticing a steep rise in the number of hippies coming to town. At first I thought maybe it was just a coincidence.  Then I saw this... Three new drum circles have sprouted up here, here, and here. They're all growing in diameter, at a rate of two hippies per hour. What this means... is that the hippies are conglomerating. They'er thriving, if you will. I think that they're setting up for a... . hippie music festival."
+  },
+  {
+    "id": 9020077,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "A what?"
+  },
+  {
+    "id": 9020078,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Ti's, it's simple science. Look: When hippies start to nest in a new area, it draws other hippies in. With the right weather conditions and topography, it can lead to a music festival. One that last for days, even weeks. Reggae on the River, Woodstock, Burning Man, they will all pale in comparison to what we're looking at now. In my professional opinion... I think we're looking at a full-blown hippie jam festival the size of which we've never seen."
+  },
+  {
+    "id": 9020079,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "Kid, what the hell are you talking about?"
+  },
+  {
+    "id": 9020080,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "I know hippies. I've hated them all my life. I've kept this town free of hippies on my own since I was five and a half. But I can't contain them on my own anymore. We have to do something, fast!"
+  },
+  {
+    "id": 9020081,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "COUNSELOR MACKEY",
+    "text": "Uh, Eric, we're, we're talkin' about potholes right now, m'kay."
+  },
+  {
+    "id": 9020082,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "It's not potholes you need to worry about. It's potheads. I know what these people are capable of."
+  },
+  {
+    "id": 9020083,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "Johnson, get him out of here."
+  },
+  {
+    "id": 9020084,
+    "ep_num": 902,
+    "segment": 8,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "What are you doing?!  You have to listen to me! You can't sweep this problem under the rug!  The town is in serious danger!"
+  },
+  {
+    "id": 9020085,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "A park in town. The college hippies sit at a table... and on it"
+  },
+  {
+    "id": 9020086,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "You see, the corporations take their profits and invest it in the war machine while keeping everyone blind."
+  },
+  {
+    "id": 9020087,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Right, so how do we get back at them?"
+  },
+  {
+    "id": 9020088,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Yeah, we're pissed off."
+  },
+  {
+    "id": 9020089,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "Well, so my idea was this: Let's have like a weeklong music festival, draw everyone here, and then together, we can tear it all down.  Whoa, what the hell?!"
+  },
+  {
+    "id": 9020090,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "I knew you were trying to have a hippie jam festival! All right, everyone pack up your crap, we're going to our basement!"
+  },
+  {
+    "id": 9020091,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Cartman, what the hell are you doing?!"
+  },
+  {
+    "id": 9020092,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Oh Jesus, not you guys?  What happened? Were you bit? Did you eat their brownies? DID YOU EAT THEIR BROWNIES?!"
+  },
+  {
+    "id": 9020093,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "NO!"
+  },
+  {
+    "id": 9020094,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Listen, you're my friends, but if you've been comprimised, I'll have no problem taking you out! I'll expect the same from you."
+  },
+  {
+    "id": 9020095,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 1",
+    "text": "What is your problem? Get lost, little Eichmann."
+  },
+  {
+    "id": 9020096,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "WOMAN 2",
+    "text": "Oh my God!"
+  },
+  {
+    "id": 9020097,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 2",
+    "text": "What the hell are you doing?!"
+  },
+  {
+    "id": 9020098,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Everybody get in a single-file line!"
+  },
+  {
+    "id": 9020099,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "OFFICER BARBRADY",
+    "text": "There you are!"
+  },
+  {
+    "id": 9020100,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Ah, Officer Barbrady, you're just in time. These college know-it-all hippies were setting up for a music festival, just as I predicted."
+  },
+  {
+    "id": 9020101,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "OFFICER BARBRADY",
+    "text": "Eric Cartman, you are under arrest."
+  },
+  {
+    "id": 9020102,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "What?"
+  },
+  {
+    "id": 9020103,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "OFFICER BARBRADY",
+    "text": "I was just over at your house and freed sixty-three people you had locked in your basement."
+  },
+  {
+    "id": 9020104,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "You let them out?! Jesus, we have to find them!"
+  },
+  {
+    "id": 9020105,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "OFFICER BARBRADY",
+    "text": "Oh no, you're coming downtown!"
+  },
+  {
+    "id": 9020106,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "No! No, we have to stop them! You know how we-?! We gotta stop them! Hebbiaaay!"
+  },
+  {
+    "id": 9020107,
+    "ep_num": 902,
+    "segment": 9,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "Who was that?"
+  },
+  {
+    "id": 9020108,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "South Park Police Dept. Cartman is in jail, confused"
+  },
+  {
+    "id": 9020109,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "What did I do?!"
+  },
+  {
+    "id": 9020110,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "OFFICER BARBRADY",
+    "text": "You can't kidnap people and lock them in your basement."
+  },
+  {
+    "id": 9020111,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "They're not people, they're HIPPIES!"
+  },
+  {
+    "id": 9020112,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS.",
+    "text": "Is this problem under control?"
+  },
+  {
+    "id": 9020113,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "OFFICER BARBRADY",
+    "text": "I handled it, Mayor. Gee whiz."
+  },
+  {
+    "id": 9020114,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Mayor! Mayor, I confirmed the data! The hippies are going to have a massive jam band concert!"
+  },
+  {
+    "id": 9020115,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "I know. I signed the permit."
+  },
+  {
+    "id": 9020116,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "You... You what?"
+  },
+  {
+    "id": 9020117,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "I signed a permit allowing them to have their concert here. Their little \"festival\" should pump some money into our economy."
+  },
+  {
+    "id": 9020118,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "They're hippies! They don't HAVE any money! Does the city council know about this?!"
+  },
+  {
+    "id": 9020119,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "They don't have to know. I can sign whatever permit I want!"
+  },
+  {
+    "id": 9020120,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "You just SOLD OUT OUR TOWN!  That kid really needs some psychiatric help."
+  },
+  {
+    "id": 9020121,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "OFFICER BARBRADY",
+    "text": "Yeah."
+  },
+  {
+    "id": 9020122,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "All right, let's go."
+  },
+  {
+    "id": 9020123,
+    "ep_num": 902,
+    "segment": 10,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "How much money is enough, Mayor?! How many people's lives it it all worth?! GODDAMNED HIPPIE!"
+  },
+  {
+    "id": 9020124,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Breaking News"
+  },
+  {
+    "id": 9020125,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ANNOUNCER",
+    "text": "This is a South Park News special report!"
+  },
+  {
+    "id": 9020126,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ANCHORMAN",
+    "text": "Thousands of people have descended on South Park for a hippie music jam festival. The event is said to be the largest such gathering in the history of man."
+  },
+  {
+    "id": 9020127,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MC",
+    "text": "All right, welcome to Hippie Jam Fest 2005!  Sooo great to see sooo many people turn out to make an impact on on the world!"
+  },
+  {
+    "id": 9020128,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Yeah!"
+  },
+  {
+    "id": 9020129,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "You said it!"
+  },
+  {
+    "id": 9020130,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MC",
+    "text": "For too long, the corporations have bled the world of its love and resources! It is time for us to get to work and make the world a better place! And we'reg onna start right now."
+  },
+  {
+    "id": 9020131,
+    "ep_num": 902,
+    "segment": 11,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 1",
+    "text": "Oh man, I can't wait to see the look on those little Eichmanns' faces when they hear this crunchy groove."
+  },
+  {
+    "id": 9020132,
+    "ep_num": 902,
+    "segment": 12,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The Marsh house. Sharon and Randy run into each other in the kitchen"
+  },
+  {
+    "id": 9020133,
+    "ep_num": 902,
+    "segment": 12,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Sharon, have, have you seen Stan?"
+  },
+  {
+    "id": 9020134,
+    "ep_num": 902,
+    "segment": 12,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SHARON",
+    "text": "He went with his friends to that music festival."
+  },
+  {
+    "id": 9020135,
+    "ep_num": 902,
+    "segment": 12,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Oh, Jesus, what has gotten into that kid?!"
+  },
+  {
+    "id": 9020136,
+    "ep_num": 902,
+    "segment": 12,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SHARON",
+    "text": "Now, Randy, we were the same way once, too. Don't forget that we were both considered hippies back in the '60s."
+  },
+  {
+    "id": 9020137,
+    "ep_num": 902,
+    "segment": 12,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Yeah, but when we did it we actually stood for something. I mean, remember Woodstock, Sharon? We actually did something there."
+  },
+  {
+    "id": 9020138,
+    "ep_num": 902,
+    "segment": 13,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Flash back to Woodstock, 1969, a crowd scene quite similar to the current one. Randy jumps into view and yells like a barbarian. Sharon jumps into view and they both dance around. Sharon turns and bares her tits and Randy dances so hard he gets dizzy and throws up."
+  },
+  {
+    "id": 9020139,
+    "ep_num": 902,
+    "segment": 13,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SHARON",
+    "text": "You ate too much acid, man!"
+  },
+  {
+    "id": 9020140,
+    "ep_num": 902,
+    "segment": 14,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Flash forward to the present. They consider how such activity would be seen these days..."
+  },
+  {
+    "id": 9020141,
+    "ep_num": 902,
+    "segment": 14,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SHARON",
+    "text": "...Oh my God. Our son is with those people."
+  },
+  {
+    "id": 9020142,
+    "ep_num": 902,
+    "segment": 14,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "S-stan. STAAAN!"
+  },
+  {
+    "id": 9020143,
+    "ep_num": 902,
+    "segment": 15,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Breaking News"
+  },
+  {
+    "id": 9020144,
+    "ep_num": 902,
+    "segment": 15,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ANNOUNCER",
+    "text": "This is South Park News!"
+  },
+  {
+    "id": 9020145,
+    "ep_num": 902,
+    "segment": 15,
+    "title": "DIE HIPPIE  DIE",
+    "role": "ANCHORMAN",
+    "text": "Fear and horror in South Park today as the music festival continues to grow. They're arriving in droves and apparently no end is in sight."
+  },
+  {
+    "id": 9020146,
+    "ep_num": 902,
+    "segment": 15,
+    "title": "DIE HIPPIE  DIE",
+    "role": "REPORTER",
+    "text": "Tom, the crowd just keeps getting bigger and the town is literally bursting at the seams. We don't know where this music festival came from, but, it's very close to consuming us all."
+  },
+  {
+    "id": 9020147,
+    "ep_num": 902,
+    "segment": 16,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Butters' house. Linda and Steven hug each other before the TV as they watch the news brief."
+  },
+  {
+    "id": 9020148,
+    "ep_num": 902,
+    "segment": 16,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "Steven, what do we do?"
+  },
+  {
+    "id": 9020149,
+    "ep_num": 902,
+    "segment": 17,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Kyle's house. Music is heard outside. Gerald opens the door and looks out to see hippies milling on his front lawn, and screams. A view from a long distance shows just how big the crowd has gotten, then another shot shows the heart of the festival. Randy is seen looking for his son"
+  },
+  {
+    "id": 9020150,
+    "ep_num": 902,
+    "segment": 17,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Stan?! Stan?! I need to get through, please!"
+  },
+  {
+    "id": 9020151,
+    "ep_num": 902,
+    "segment": 17,
+    "title": "DIE HIPPIE  DIE",
+    "role": "JIMBO",
+    "text": "Randy! Randy, you've got to get out of here! If they just trample this park, we'll be trapped! It's too dangerous!"
+  },
+  {
+    "id": 9020152,
+    "ep_num": 902,
+    "segment": 17,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "My son is in there! Duh-uh!  Stan?! Stan! Stan!"
+  },
+  {
+    "id": 9020153,
+    "ep_num": 902,
+    "segment": 17,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MALE HIPPIE",
+    "text": "Heey, chill man. It's all good."
+  },
+  {
+    "id": 9020154,
+    "ep_num": 902,
+    "segment": 17,
+    "title": "DIE HIPPIE  DIE",
+    "role": "FEMALE HIPPIE",
+    "text": "Have some water laced with acid."
+  },
+  {
+    "id": 9020155,
+    "ep_num": 902,
+    "segment": 17,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Sta-ogh. Ugh!"
+  },
+  {
+    "id": 9020156,
+    "ep_num": 902,
+    "segment": 18,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "City Hall. The Mayor looks at the festival from her office window."
+  },
+  {
+    "id": 9020157,
+    "ep_num": 902,
+    "segment": 18,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "What have I done?"
+  },
+  {
+    "id": 9020158,
+    "ep_num": 902,
+    "segment": 18,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MC",
+    "text": "Yeah, South Park is now the hippie capital of the world!"
+  },
+  {
+    "id": 9020159,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "South Park Police Department. Cartman relaxes in his cell, having nothing to do. He senses he's not alone and looks towards the cell door. The town's adults are on the other side."
+  },
+  {
+    "id": 9020160,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "COUNSELOR MACKEY",
+    "text": "Uh huh hi Eric, uh, how's it goin'?"
+  },
+  {
+    "id": 9020161,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Great, I love crapping in a toilet with no rim on it."
+  },
+  {
+    "id": 9020162,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Eric, you were right. About the hippies. Could you... get rid of them for us now?"
+  },
+  {
+    "id": 9020163,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Let me guess: they've started a hippie jam band music festival."
+  },
+  {
+    "id": 9020164,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE'S MOTHER",
+    "text": "We we need to take care of them, Eric! They're out of control!"
+  },
+  {
+    "id": 9020165,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Forget it."
+  },
+  {
+    "id": 9020166,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Please. Some of our kids are in there. We should've listened to you earlier."
+  },
+  {
+    "id": 9020167,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "Yeah. We apologise."
+  },
+  {
+    "id": 9020168,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE'S FATHER",
+    "text": "Please. Don't let them ruin our town."
+  },
+  {
+    "id": 9020169,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "It's too late! Even if I did agree to help, there's too many of them now!"
+  },
+  {
+    "id": 9020170,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "COUNSELOR MACKEY",
+    "text": "We know you can do it, Eric. You're smart. Wha- why you're the smartest kid in school, m'kay?"
+  },
+  {
+    "id": 9020171,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "We're just asking you to try. The whole town even got together and, and baked you a cake."
+  },
+  {
+    "id": 9020172,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Don't think that you can buy me with presents! ...Unless of course it's the new Tonka radio-controlled play bulldozer."
+  },
+  {
+    "id": 9020173,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "It's yours."
+  },
+  {
+    "id": 9020174,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "I want the batteries for it too. And I get to drive it around in the school parking lot."
+  },
+  {
+    "id": 9020175,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "PRINCIPAL VICTORIA",
+    "text": "Fine."
+  },
+  {
+    "id": 9020176,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "JIMBO",
+    "text": "Anything else?"
+  },
+  {
+    "id": 9020177,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Yes.  Kyle doesn't get to have one! Ever! And he has to watch me drive mine around the school parking lot and get super-jealous!"
+  },
+  {
+    "id": 9020178,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE'S MOTHER",
+    "text": "Well, we can promise not to buy one for Kyle, but we we can't make him watch you play th-  Oh yes! Fine! We'll force Kyle to watch you."
+  },
+  {
+    "id": 9020179,
+    "ep_num": 902,
+    "segment": 19,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "All right, fine. But now listen up and listen good! I've never tried to get rid of this many hippies before, so I'm gonna need every resource this town has! And even if I don't succeed, and it's a million-to-one shot that I will, I still get the Tonka radio-controlled bulldozer and get to play with it in the school parking lot where Kyle has to watch me and get super-jealous because he doesn't have one! Are we clear?!"
+  },
+  {
+    "id": 9020180,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The music festival, day 6. The crowd has grown so big the camera has to pull back a loooong way to get it all into view. The boys are again present with the college hippies. The band is playing reggae music."
+  },
+  {
+    "id": 9020181,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "Wow, this band is so crunchy. Dude, I need more weed."
+  },
+  {
+    "id": 9020182,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "So it seems like we have enough people now. When do we start taking down the corporations?"
+  },
+  {
+    "id": 9020183,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 1",
+    "text": "Yeah man, the corporations. Right now they're raping the world for money!"
+  },
+  {
+    "id": 9020184,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Yeah, so, where are they. Let's go get 'em."
+  },
+  {
+    "id": 9020185,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 2",
+    "text": "Right now we're proving we don't need corporations. We don't need money. This can become a commune where everyone just helps each other."
+  },
+  {
+    "id": 9020186,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 1",
+    "text": "Yeah, we'll have one guy who like, who like, makes bread. A-and one guy who like, l-looks out for other people's safety."
+  },
+  {
+    "id": 9020187,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "You mean like a baker and a cop?"
+  },
+  {
+    "id": 9020188,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 2",
+    "text": "No no, can't you imagine a place where people live together and like, provide services for each other in exchange for their services?"
+  },
+  {
+    "id": 9020189,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Yeah, it's called a town."
+  },
+  {
+    "id": 9020190,
+    "ep_num": 902,
+    "segment": 20,
+    "title": "DIE HIPPIE  DIE",
+    "role": "DRIVER",
+    "text": "You kids just haven't been to college yet. But just you wait, this thing is about to get HUGE."
+  },
+  {
+    "id": 9020191,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Park County Community Center, night. Cartman and the adults are meeting there. Cartman stands next to an easel with various pictures on a tabloid-size book"
+  },
+  {
+    "id": 9020192,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "All right, everyone listen up! The hippie jam band festival is now fourteen miles in diameter and five hundred thousand hippies thick."
+  },
+  {
+    "id": 9020193,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "My God..."
+  },
+  {
+    "id": 9020194,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "In less than three days, all of South Park will be completely consumed. My only hope is to fight our way to the center of the crowd, and reach the heart, here.  If we can reach the stage, we can upload this Slayer CD into their music system.  Hippies can't stand death metal. If everything works, they should disperse just before they consume us all."
+  },
+  {
+    "id": 9020195,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "JIMBO",
+    "text": "Nice plan, kid, except there's one giant flaw. That hippie crowd is massive! How the hell are we supposed to get through it and reach the stage?"
+  },
+  {
+    "id": 9020196,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "We drill.  I've designed a vehicle that can bore its way through even the densest hippie crowd. They pilots inside will be safe from the pot smoke and the crappy music outside."
+  },
+  {
+    "id": 9020197,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STEVEN",
+    "text": "Yuh... actually suggesting that somebody drives right into the heart of that mob?? It's a suicide mission!"
+  },
+  {
+    "id": 9020198,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Not just somebody. I need a complete team to operate this vehicle. Along with me I'm gonna need a scientest, an engineer, and of course, a black person who can sacrifice himself in case something goes wrong."
+  },
+  {
+    "id": 9020199,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "I'm the... only scientist in town."
+  },
+  {
+    "id": 9020200,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "I'm your engineer."
+  },
+  {
+    "id": 9020201,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STEVEN",
+    "text": "Honey, no!"
+  },
+  {
+    "id": 9020202,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "I have to do it, Steven."
+  },
+  {
+    "id": 9020203,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "All right, then we just need a black person who can sacrifice himself in case something goes wrong.  Lessee, anyone would do, anyone who meets the qualifications, let's see...  Oh, I know. How about-"
+  },
+  {
+    "id": 9020204,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "Yeah, yeah! I get it! Fine!"
+  },
+  {
+    "id": 9020205,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STEVEN",
+    "text": "I I can't believe we're actually listening to this. This is a crazy plan!"
+  },
+  {
+    "id": 9020206,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "You got a better ides, Steven?! Damnit, my son is in there!"
+  },
+  {
+    "id": 9020207,
+    "ep_num": 902,
+    "segment": 21,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "There's no more time for ideas! We have to have this vehicle up and operational in less than three days! Look, it's a long shot! But it's also the only shot we-  got."
+  },
+  {
+    "id": 9020208,
+    "ep_num": 902,
+    "segment": 22,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The music festival, day 6. The camera pans across the site and stops where the townsfolk stand around the vehicle"
+  },
+  {
+    "id": 9020209,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "New report"
+  },
+  {
+    "id": 9020210,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "REPORTER",
+    "text": "Tom, I'm standing in South Park, Colorado, where a desparate attempt to save the town is underway. Some call it a suicide mission, but the heroic men and women of the hippie digger may be our only hope of survival."
+  },
+  {
+    "id": 9020211,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RAMDU",
+    "text": "Well I... guess this is it, Sharon."
+  },
+  {
+    "id": 9020212,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SHARON",
+    "text": "Please, save our boy, Randy."
+  },
+  {
+    "id": 9020213,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "Butters, if anything happens to Mommy, I, I want you to be a good boy."
+  },
+  {
+    "id": 9020214,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "BUTTERS",
+    "text": "Ah I will, Mom."
+  },
+  {
+    "id": 9020215,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "Now, now, don't cry, ladies. Everything's gonna be fine."
+  },
+  {
+    "id": 9020216,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "I... don't want you to worry about me, Clyde Frog.  Hey! You're the best stuffed animal I've ever had."
+  },
+  {
+    "id": 9020217,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE'S MOTHER",
+    "text": "Look out for yourselves!"
+  },
+  {
+    "id": 9020218,
+    "ep_num": 902,
+    "segment": 23,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MRS. GARRISON",
+    "text": "Godspeed!"
+  },
+  {
+    "id": 9020219,
+    "ep_num": 902,
+    "segment": 24,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Inside the digger"
+  },
+  {
+    "id": 9020220,
+    "ep_num": 902,
+    "segment": 24,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Primary engine running?"
+  },
+  {
+    "id": 9020221,
+    "ep_num": 902,
+    "segment": 24,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Check."
+  },
+  {
+    "id": 9020222,
+    "ep_num": 902,
+    "segment": 24,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Navigation systems?"
+  },
+  {
+    "id": 9020223,
+    "ep_num": 902,
+    "segment": 24,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "Online"
+  },
+  {
+    "id": 9020224,
+    "ep_num": 902,
+    "segment": 24,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Let's punch this baby.  We're coming up on the outer perimeter of the hippies. Hang on.  Reaching hippie crowd. Hull status?"
+  },
+  {
+    "id": 9020225,
+    "ep_num": 902,
+    "segment": 24,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Vehicle shell holding!"
+  },
+  {
+    "id": 9020226,
+    "ep_num": 902,
+    "segment": 25,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "A command center nearby. Townsfolk mill around inside"
+  },
+  {
+    "id": 9020227,
+    "ep_num": 902,
+    "segment": 25,
+    "title": "DIE HIPPIE  DIE",
+    "role": "JIMBO",
+    "text": "They're in!"
+  },
+  {
+    "id": 9020228,
+    "ep_num": 902,
+    "segment": 25,
+    "title": "DIE HIPPIE  DIE",
+    "role": "TOWNSFOLK",
+    "text": "All right! All right, yeah! We did it!"
+  },
+  {
+    "id": 9020229,
+    "ep_num": 902,
+    "segment": 25,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "All right, people, let's save it! They still have a long way to go!"
+  },
+  {
+    "id": 9020230,
+    "ep_num": 902,
+    "segment": 26,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The music festival. The boys are in front of the stage sitting on throw rugs. They're bored."
+  },
+  {
+    "id": 9020231,
+    "ep_num": 902,
+    "segment": 26,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "All right, I can't take it anymore! I'm getting on that stage!"
+  },
+  {
+    "id": 9020232,
+    "ep_num": 902,
+    "segment": 26,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "You're doing what?"
+  },
+  {
+    "id": 9020233,
+    "ep_num": 902,
+    "segment": 26,
+    "title": "DIE HIPPIE  DIE",
+    "role": "GUARD",
+    "text": "Hey, you can't go up there. Hoohoo, woo!"
+  },
+  {
+    "id": 9020234,
+    "ep_num": 902,
+    "segment": 27,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Inside the digger"
+  },
+  {
+    "id": 9020235,
+    "ep_num": 902,
+    "segment": 27,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Switching to secondary fuel line.  What's that?"
+  },
+  {
+    "id": 9020236,
+    "ep_num": 902,
+    "segment": 27,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "The drill is getting too hot from all the hippies."
+  },
+  {
+    "id": 9020237,
+    "ep_num": 902,
+    "segment": 28,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The command center nearby. Townsfolk mill around inside"
+  },
+  {
+    "id": 9020238,
+    "ep_num": 902,
+    "segment": 28,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "What's happened?"
+  },
+  {
+    "id": 9020239,
+    "ep_num": 902,
+    "segment": 28,
+    "title": "DIE HIPPIE  DIE",
+    "role": "COUNSELOR MACKEY",
+    "text": "They, they s- they stopped. Somethin's wrong."
+  },
+  {
+    "id": 9020240,
+    "ep_num": 902,
+    "segment": 28,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STEVEN",
+    "text": "Jesus... they're dead in the water."
+  },
+  {
+    "id": 9020241,
+    "ep_num": 902,
+    "segment": 29,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The music festival. The digger is dead. Stan approaches the mic"
+  },
+  {
+    "id": 9020242,
+    "ep_num": 902,
+    "segment": 29,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Uh, excuse me. Excuse me, can I have your attention please? What are we doing? It's been nine days! Doesn't it seem like we should accomplish something?"
+  },
+  {
+    "id": 9020243,
+    "ep_num": 902,
+    "segment": 29,
+    "title": "DIE HIPPIE  DIE",
+    "role": "A HIPPIE",
+    "text": "We're using the power of rock and roll to change the world! Woo!"
+  },
+  {
+    "id": 9020244,
+    "ep_num": 902,
+    "segment": 29,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Maybe instead of complaining about corporations being selfish, we should lookt at ourselves. I mean, is there anything more selfish than doing nothing but getting high and listening to music all day long?"
+  },
+  {
+    "id": 9020245,
+    "ep_num": 902,
+    "segment": 29,
+    "title": "DIE HIPPIE  DIE",
+    "role": "SINGER",
+    "text": "He's right. It's time for all of us to focus our energy and get this hippie jam into full swing."
+  },
+  {
+    "id": 9020246,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "Inside the digger, the crew tries to start it up again."
+  },
+  {
+    "id": 9020247,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Come on, come on!"
+  },
+  {
+    "id": 9020248,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "It's useless. The main power line has been shut down."
+  },
+  {
+    "id": 9020249,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Somebody's gonna have to go outside and activate the backup boosters."
+  },
+  {
+    "id": 9020250,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "No, Chef, I'm not gonna let you go out there!"
+  },
+  {
+    "id": 9020251,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "...I didn't volunteer!"
+  },
+  {
+    "id": 9020252,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "...All right, fine Chef, go!"
+  },
+  {
+    "id": 9020253,
+    "ep_num": 902,
+    "segment": 30,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "...Aw damnit!"
+  },
+  {
+    "id": 9020254,
+    "ep_num": 902,
+    "segment": 31,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The command center nearby. The Mayor takes command"
+  },
+  {
+    "id": 9020255,
+    "ep_num": 902,
+    "segment": 31,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAYOR MCDANIELS",
+    "text": "That's it. We're going to Plan B. Nuke the crowd!"
+  },
+  {
+    "id": 9020256,
+    "ep_num": 902,
+    "segment": 31,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STEVEN",
+    "text": "Goddamnit no! Y-you have to give them more time!"
+  },
+  {
+    "id": 9020257,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The music festival. Chef makes his way through the crowd to the booster switch and turns it on. The digger revs up and zooms towards the stage. Kyle seems to be saying something, but what it is we don't hear."
+  },
+  {
+    "id": 9020258,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Dude, these people have no idea what's going on. Let's get out of here."
+  },
+  {
+    "id": 9020259,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "We can't. Kenny just checked. There's a wall of people like seven miles thick behind us."
+  },
+  {
+    "id": 9020260,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "What?? You mean, we're stuck here listening to this crap?"
+  },
+  {
+    "id": 9020261,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 2",
+    "text": "Hey, what happened to the tunes, man?"
+  },
+  {
+    "id": 9020262,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 1",
+    "text": "More tunes. More tunes!"
+  },
+  {
+    "id": 9020263,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "We made it, We made it!"
+  },
+  {
+    "id": 9020264,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Hit the PA system NOW!  Put me in the main line!"
+  },
+  {
+    "id": 9020265,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Which cord is it?"
+  },
+  {
+    "id": 9020266,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "You're the scientist, jackass!"
+  },
+  {
+    "id": 9020267,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "I'm a geologist!"
+  },
+  {
+    "id": 9020268,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "We don't have time to argue! They're gonna nuke us!"
+  },
+  {
+    "id": 9020269,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Nyugh!"
+  },
+  {
+    "id": 9020270,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Put them in my laptop!"
+  },
+  {
+    "id": 9020271,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "A HIPPIE",
+    "text": "Oh man, not cool."
+  },
+  {
+    "id": 9020272,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "HIPPIE 3",
+    "text": "This music is so angry."
+  },
+  {
+    "id": 9020273,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 2",
+    "text": "This is killing my buzz."
+  },
+  {
+    "id": 9020274,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MAN 1",
+    "text": "Let's bail on this whole angry scene."
+  },
+  {
+    "id": 9020275,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "It's working!"
+  },
+  {
+    "id": 9020276,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "LINDA",
+    "text": "What?"
+  },
+  {
+    "id": 9020277,
+    "ep_num": 902,
+    "segment": 32,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "It's, it's working!"
+  },
+  {
+    "id": 9020278,
+    "ep_num": 902,
+    "segment": 33,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The command center."
+  },
+  {
+    "id": 9020279,
+    "ep_num": 902,
+    "segment": 33,
+    "title": "DIE HIPPIE  DIE",
+    "role": "MRS. GARRISON",
+    "text": "We did it! We did it!"
+  },
+  {
+    "id": 9020280,
+    "ep_num": 902,
+    "segment": 34,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "The music festival. Stan sees his father"
+  },
+  {
+    "id": 9020281,
+    "ep_num": 902,
+    "segment": 34,
+    "title": "DIE HIPPIE  DIE",
+    "role": "STAN",
+    "text": "Dad!"
+  },
+  {
+    "id": 9020282,
+    "ep_num": 902,
+    "segment": 34,
+    "title": "DIE HIPPIE  DIE",
+    "role": "RANDY",
+    "text": "Stan!"
+  },
+  {
+    "id": 9020283,
+    "ep_num": 902,
+    "segment": 34,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CHEF",
+    "text": "I'm alive!"
+  },
+  {
+    "id": 9020284,
+    "ep_num": 902,
+    "segment": 34,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Hold it right there, Kyle!"
+  },
+  {
+    "id": 9020285,
+    "ep_num": 902,
+    "segment": 34,
+    "title": "DIE HIPPIE  DIE",
+    "role": "KYLE",
+    "text": "Whoa, Cartman. We aren't gonna be hippies anymore. Y-you don't have to kill us."
+  },
+  {
+    "id": 9020286,
+    "ep_num": 902,
+    "segment": 34,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Kill you? Oh no. I have much bigger plans for you now."
+  },
+  {
+    "id": 9020287,
+    "ep_num": 902,
+    "segment": 35,
+    "title": "DIE HIPPIE  DIE",
+    "role": "description",
+    "text": "South Park Elementary's parking lot. Kyle sits on the curb watching Cartman play with his Tonka radio-controlled play bulldozer. Cartman has the scoop haul some rocks from one pile to another"
+  },
+  {
+    "id": 9020288,
+    "ep_num": 902,
+    "segment": 35,
+    "title": "DIE HIPPIE  DIE",
+    "role": "CARTMAN",
+    "text": "Hoho! Aw man, this is awesome! Weeeee! Oh here, Kyle, you wanna play with it a little while.  Oh, psych! You don't get to! Hehe. Oh, check it out! Cooool!"
+  }
+]

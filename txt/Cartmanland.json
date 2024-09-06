@@ -1,0 +1,2434 @@
+[
+  {
+    "id": 5060001,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "A bright, sunny day, with some clouds in the sky. The camera pans down to a funeral scene in a cemetery with robust trees"
+  },
+  {
+    "id": 5060002,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "PRIEST",
+    "text": "...And so it is with heavy hearts that we say good-bye to Mabel Louise Cartman. She was a good woman, a community leader, a caring wife, a providing mother , and a loving grandmother ."
+  },
+  {
+    "id": 5060003,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Mom, it's 3:30! This is taking up my whole Saturday!"
+  },
+  {
+    "id": 5060004,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "LIANE",
+    "text": "Ssshhh, pumpkin, it's almost over."
+  },
+  {
+    "id": 5060005,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Why couldn't the funeral have been on a school day?"
+  },
+  {
+    "id": 5060006,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "PRIEST",
+    "text": "And now, let us bow our heads in a moment of silence and reflect on how Mabel touched our lives."
+  },
+  {
+    "id": 5060007,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "God! She didn't take this long to die!"
+  },
+  {
+    "id": 5060008,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "PRIEST",
+    "text": "And now we release the doves to symbolize the Lord taking Mabel into his arms and giving her everlasting peace."
+  },
+  {
+    "id": 5060009,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "ASSISTANT",
+    "text": "Peace."
+  },
+  {
+    "id": 5060010,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Great! Now can we go?!"
+  },
+  {
+    "id": 5060011,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "LIANE",
+    "text": "No, sweetie, we have to tend to some of Grandma's business."
+  },
+  {
+    "id": 5060012,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Ogh! God-damnit!!"
+  },
+  {
+    "id": 5060013,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "JOHNSON'S & ASSOCIATES",
+    "text": ""
+  },
+  {
+    "id": 5060014,
+    "ep_num": 506,
+    "segment": 1,
+    "title": "CARTMANLAND",
+    "role": "LAW FIRM",
+    "text": ""
+  },
+  {
+    "id": 5060015,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "The city, day"
+  },
+  {
+    "id": 5060016,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "EXECUTOR",
+    "text": "...And so I leave my stocks and bonds, worth an estimate fourteen dollars and twelve cents, to be divided amongst my loving family."
+  },
+  {
+    "id": 5060017,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Mom, I wanna go home!"
+  },
+  {
+    "id": 5060018,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "LIANE",
+    "text": "In a minute, sweetie. This is important."
+  },
+  {
+    "id": 5060019,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "EXECUTOR",
+    "text": "To my loving son, Stinky: I leave you the house in Nebraska. Look after it as your father and I did."
+  },
+  {
+    "id": 5060020,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Bluh bluh bluhbluh bluh bluh!"
+  },
+  {
+    "id": 5060021,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "EXECUTOR",
+    "text": "To my grandson Eric: You are always my favorite fat little man, my perfect round little pudding-piler."
+  },
+  {
+    "id": 5060022,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Oh, God, do you have to embarrass me even in death, Grandma?!"
+  },
+  {
+    "id": 5060023,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "EXECUTOR",
+    "text": "For you, Eric, I leave from my life savings, the sum of one million dollars, to be transferred to you immediately."
+  },
+  {
+    "id": 5060024,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Hoosajiggawha?"
+  },
+  {
+    "id": 5060025,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "LIANE",
+    "text": "A million dollars?"
+  },
+  {
+    "id": 5060026,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "EXECUTOR",
+    "text": "Eric is the primary benefactor of my estate, since it is likely the rest of you would spend the money on crack."
+  },
+  {
+    "id": 5060027,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "LIANE",
+    "text": "Oh my."
+  },
+  {
+    "id": 5060028,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "UNCLE STINKY",
+    "text": "That can't be!"
+  },
+  {
+    "id": 5060029,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Uh yah sir, excuse me: Du- Does this mean that I... have... one... million dollars?"
+  },
+  {
+    "id": 5060030,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "EXECUTOR",
+    "text": "Yes, Eric, it's yours."
+  },
+  {
+    "id": 5060031,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Nonowait, you don't understand:  since I was th-three years old it has been my dream to have one million dollars"
+  },
+  {
+    "id": 5060032,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "EXECUTOR",
+    "text": "And now, you do."
+  },
+  {
+    "id": 5060033,
+    "ep_num": 506,
+    "segment": 2,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Egh."
+  },
+  {
+    "id": 5060034,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "South Park, day. A car with a woman seated in it appears on a hill"
+  },
+  {
+    "id": 5060035,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "\"There you are, Jennifer Lopez!\"  \"You've been most uncooperative, Ms. Lopez.\""
+  },
+  {
+    "id": 5060036,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "\"No, please! I promise I'll never make another album or movie!\""
+  },
+  {
+    "id": 5060037,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "\"It's too late for that, Ms. Lopez.\""
+  },
+  {
+    "id": 5060038,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "\"Have mercy!\"  Yeah ha ha!"
+  },
+  {
+    "id": 5060039,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Yeah, awesome!  ...Why?"
+  },
+  {
+    "id": 5060040,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Nuh uh."
+  },
+  {
+    "id": 5060041,
+    "ep_num": 506,
+    "segment": 3,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "You'd better not be lying, Kenny."
+  },
+  {
+    "id": 5060042,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "South Park, the Bank, later. Inside, a banker counts the money out in $100 bills. Mr. Garrison, Principal Victoria, Chef, and others are there."
+  },
+  {
+    "id": 5060043,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "BANKER",
+    "text": "Nine hundred ninety nine thousand four hundred, nine hundred ninety nine thousand five hundred..."
+  },
+  {
+    "id": 5060044,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "JIMBO",
+    "text": "Damn, Ned, I've never seen that much cash."
+  },
+  {
+    "id": 5060045,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "NED",
+    "text": "Mm-me neither."
+  },
+  {
+    "id": 5060046,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "BANKER",
+    "text": "...Nine hundred ninety nine thousand nine hundred, one million."
+  },
+  {
+    "id": 5060047,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Look at it. Look at it, mother. See how the light reflects the spearmint green from its surface."
+  },
+  {
+    "id": 5060048,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "MR. GARRISON",
+    "text": "Eric, that is a lot of money. Don't you think you should keep it in the bank instead of at your hosue?"
+  },
+  {
+    "id": 5060049,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "I'm not keeping it, Mr. Garrison, I'm spending it."
+  },
+  {
+    "id": 5060050,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "JIMBO",
+    "text": "On what?"
+  },
+  {
+    "id": 5060051,
+    "ep_num": 506,
+    "segment": 4,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "On my dream.  On the one thing that I've wanted ever since I could remember..."
+  },
+  {
+    "id": 5060052,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "South Park, the Bank, outside. Cartman leads the others out of the bank and down the street. The money is in hsi Radio Flyer wagon"
+  },
+  {
+    "id": 5060053,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "BROKER",
+    "text": "Excuse me son, I'm an investment broker; I can help you invest that money."
+  },
+  {
+    "id": 5060054,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Nuh uh, I'm spendin' it."
+  },
+  {
+    "id": 5060055,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "PRIEST MAXI",
+    "text": "Eric, God could sure use that money for a bigger church."
+  },
+  {
+    "id": 5060056,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Huh, I think God has plenty of money."
+  },
+  {
+    "id": 5060057,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "What the hell are you doing, fatass?!"
+  },
+  {
+    "id": 5060058,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Not much, just taking my  one million dollars out of the bank."
+  },
+  {
+    "id": 5060059,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Oh my God."
+  },
+  {
+    "id": 5060060,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Kenny wasn't lying."
+  },
+  {
+    "id": 5060061,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Would you mind stepping aside? I have a purchase to make."
+  },
+  {
+    "id": 5060062,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Dude, can you loan me twenty bucks for a new jacket?"
+  },
+  {
+    "id": 5060063,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "HA! If you need money, you can get a JOB, Stan! No freeloadeers are gonna take my hard-earned cash!"
+  },
+  {
+    "id": 5060064,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Your grandma left it to you! You didn't earn it!"
+  },
+  {
+    "id": 5060065,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Didn't earn it?! What about all the years I spent making Grandma like me?! All the wet spit-filled kisses I put up with?! The constant smell of aspirin and pee?! Don't tell me I didn't earn it, you son of a bitch!"
+  },
+  {
+    "id": 5060066,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "No... No, this isn't possible."
+  },
+  {
+    "id": 5060067,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Yeah, it's unbelievable."
+  },
+  {
+    "id": 5060068,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "No, I mean, this is impossible, Stan! Cartman is the biggest asshole in the world! How is it that God gives him a million dollars?"
+  },
+  {
+    "id": 5060069,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Come on, we gotta see what Cartman is doing with his money."
+  },
+  {
+    "id": 5060070,
+    "ep_num": 506,
+    "segment": 5,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Why? How could you do this? There are people starving in Alabama and... and you give Cartman a million dollars?"
+  },
+  {
+    "id": 5060071,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "North Park Funland, day. Cartman and his mom are in the park office signing papers"
+  },
+  {
+    "id": 5060072,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "BROKER",
+    "text": "...Aaand if we can just get you to sign here...  and here... ."
+  },
+  {
+    "id": 5060073,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "LIANE",
+    "text": "Are you sure this is what you want, sweetie?"
+  },
+  {
+    "id": 5060074,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "My own amusement park, Mother. I'm sure."
+  },
+  {
+    "id": 5060075,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "BROKER",
+    "text": "And now you just sign here, Mr. Foon."
+  },
+  {
+    "id": 5060076,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "I can't do it."
+  },
+  {
+    "id": 5060077,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "BROKER",
+    "text": "What?"
+  },
+  {
+    "id": 5060078,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "What?!"
+  },
+  {
+    "id": 5060079,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "Uh uh I can't sell this poor kid my park.  Look, I haven't been honest with you. The park hasn't been doing great business."
+  },
+  {
+    "id": 5060080,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "BROKER",
+    "text": "Frank..."
+  },
+  {
+    "id": 5060081,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "Sshhhh. It ain't right, Chris.  The truth is, the park is a financial flop. I haven't turned a profit in years because I can't keep attendance up."
+  },
+  {
+    "id": 5060082,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Oh, but I'm not buying the park to get people to come."
+  },
+  {
+    "id": 5060083,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "You... you're not?"
+  },
+  {
+    "id": 5060084,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "No no no! I'm buying it to keep people out!  Don't you see? Forever it has been my dream to have my very own theme park, so that I could be alone in it, all day, every day. I love theme parks. But the lines! Everywhere you go, people, crowds,  The rides are great, but... All the lines, lines, LINES!  If there's one thing I hate,  all the lines, lines, lines, LINES!!  And then there get to be so many people  that they make FastPass. So then there's lines for FastPass. You stand in line to get a ticket to stand in line later. Then there's lines for the bathrooms , lines for the drinks , lines for cantakuras  and rare Kartankulas Plinks!  ...And, so you see, this park is for me. Nobody else will be allowed in it."
+  },
+  {
+    "id": 5060085,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "Nn-oh. Well then, I guess I don't feel bad."
+  },
+  {
+    "id": 5060086,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "CHRIS",
+    "text": "Mr. Cartman, congratulations, the theme park is yours."
+  },
+  {
+    "id": 5060087,
+    "ep_num": 506,
+    "segment": 6,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Gentlemen, I thank you."
+  },
+  {
+    "id": 5060088,
+    "ep_num": 506,
+    "segment": 7,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "South Park Synangogue, night. A main door opens and Stan enters"
+  },
+  {
+    "id": 5060089,
+    "ep_num": 506,
+    "segment": 7,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Kyle?  Dude, what are you doing here? Everybody's looking for you. Kyle?"
+  },
+  {
+    "id": 5060090,
+    "ep_num": 506,
+    "segment": 7,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Do you know what happened to me this morning, Stan? This morning... I woke up and felt a sharp pain in my ass. I felt down there and, and found this... big sore lump. On my ass, Stan. I couldn't even sit down, so... I, I had to tell my mother, which, which was humiliating. She took me to the doctor, which was more humiliating, a- a- nd he told me. I-I have a hemorrhoid. It's like an infected blood vessel on your ass. I'm nine years old, and I have a hemorrhoid, Stan. I have a hemorrhoid, and, Cartman has his own theme park."
+  },
+  {
+    "id": 5060091,
+    "ep_num": 506,
+    "segment": 7,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Kyle, I, I understand what you mean, but-"
+  },
+  {
+    "id": 5060092,
+    "ep_num": 506,
+    "segment": 7,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Do you?! Do you, Stan?! Because all my life I was raised to believe in Jehovah! To believe that we should all behave a certain way and good things will come tu us. I make mistakes, but every week I try to better myself. I'm always saying, \"You know, I learned something today...\" and what does this so-called God give me in return? A hemorrhoid. He doesn't make sense!  What is your logic?!  Ow."
+  },
+  {
+    "id": 5060093,
+    "ep_num": 506,
+    "segment": 7,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Look. Cartman... he thinks he's gonna be happy because he has his own amusement park, but, he's gonna find out that without other people, the rides are totally lame. I mean, who could really have fun by themselves at a theme park? I'll bet he's sick of it already."
+  },
+  {
+    "id": 5060094,
+    "ep_num": 506,
+    "segment": 8,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "North Park Funland, day. Cartman is on the Carousel on a white horse, alone"
+  },
+  {
+    "id": 5060095,
+    "ep_num": 506,
+    "segment": 8,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Yyeessss! Yyeessss!  Awesome!  Ho ho! Sweet!  Yes!  Folks, please keep your arms and legs inside the vehicle at all times, make sure your seatbelts are fastened, and enjoy the Mine Shaft! Yes!  Yes!  Oh, cool!  Oh, look how much fun I had!  Whoa! Heheheheh.  Ah! Heheh.  Whoa! Heh, heheh.  Woooo, Adventure Island! Check it out! Awesome!  Yoohoo! Yeh-hehess!  Yehess!  I'm so happy! I'm so happy!"
+  },
+  {
+    "id": 5060096,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Stan's house. Kyle enters carrying a padded seat ring"
+  },
+  {
+    "id": 5060097,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Oh, hey dude. Terrance & Phillip is just about to start."
+  },
+  {
+    "id": 5060098,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Great."
+  },
+  {
+    "id": 5060099,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "What that?"
+  },
+  {
+    "id": 5060100,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "It's my seat ring. I have to sit on it because of my hemorrhoid.  Ow."
+  },
+  {
+    "id": 5060101,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Heh, heh.  Sorry."
+  },
+  {
+    "id": 5060102,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "So, how are things going at Cartman's theme park?!"
+  },
+  {
+    "id": 5060103,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Dude, just forget about it. We can't let him get to us, or he wins."
+  },
+  {
+    "id": 5060104,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Hunh, I guess you're right."
+  },
+  {
+    "id": 5060105,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Hey, everybody! Check out the all new Cartmanland! It's our Graaand Opening! Cartmanland has over a hundred fabulous rides , six roller coasters , and tons of great surprises!  And the best part is:  You can't come!!  That's right, because at Cartmanland, only I, Eric Cartman, can get in! That means only I can ride the all-new Tornado Twister , a roller coaster that splashes in the water! Wow!  It's the greatest amusement park in the Colorado area! And nobody can go!! Especially Stan and Kyle!! HAHA!!  So come on down to Cartmanland now!  But don't plan on getting past the parking lot,  'cause remember: So much to do at Cartmanland, but you can't come!  Especially you, Stan and Kyle."
+  },
+  {
+    "id": 5060106,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "That does it, dude!"
+  },
+  {
+    "id": 5060107,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Where are we going?"
+  },
+  {
+    "id": 5060108,
+    "ep_num": 506,
+    "segment": 9,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "We're getting into that fatass's park whether he likes it or not!"
+  },
+  {
+    "id": 5060109,
+    "ep_num": 506,
+    "segment": 10,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland, Haunted Mansion, night. Cartman is back on the ride."
+  },
+  {
+    "id": 5060110,
+    "ep_num": 506,
+    "segment": 10,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Whoa! Heheh.  Whoa!  Whoa! Heheheheheh. Aw, man, that was awesohome! That one part, with the-uum, with the spider that dropped on ya? Oho, man, that totally got me. That was sweet! Heheh."
+  },
+  {
+    "id": 5060111,
+    "ep_num": 506,
+    "segment": 10,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Ah! Ow! Hey, it hurts!  Owie-ow! Help! Ow, that hurts!"
+  },
+  {
+    "id": 5060112,
+    "ep_num": 506,
+    "segment": 10,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "What the hell?"
+  },
+  {
+    "id": 5060113,
+    "ep_num": 506,
+    "segment": 10,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Hohohooho! Oowwww!"
+  },
+  {
+    "id": 5060114,
+    "ep_num": 506,
+    "segment": 10,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "You sons of bitches!"
+  },
+  {
+    "id": 5060115,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland, perimeter fence. Stan is in the park waiting for Kyle to come down, but Kyle is stranded on top of the fence. The view is from the park towards the parking lot."
+  },
+  {
+    "id": 5060116,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Come on, dude!"
+  },
+  {
+    "id": 5060117,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Hoh Gohod, I popped it!! Oh hit huhurts!!"
+  },
+  {
+    "id": 5060118,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "What the hell are you doing?!"
+  },
+  {
+    "id": 5060119,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Aw, crap."
+  },
+  {
+    "id": 5060120,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Oho God, get me off of here!!"
+  },
+  {
+    "id": 5060121,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Dude!"
+  },
+  {
+    "id": 5060122,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Stahan, I have to go home!! I need my cream!! I need my creeheam!!"
+  },
+  {
+    "id": 5060123,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Alright, let's go."
+  },
+  {
+    "id": 5060124,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "That's right! You stay out!"
+  },
+  {
+    "id": 5060125,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "You can't keep us out forever, you fucking fastass! We'll be back as soon as Kyle's hemorrhoid is better!"
+  },
+  {
+    "id": 5060126,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "My life can't get any worse!"
+  },
+  {
+    "id": 5060127,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "You'll see! We'll get in!"
+  },
+  {
+    "id": 5060128,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "...Alright, so listen: All I want you to do is keep anybody out who tries to get in here. If you see anybody on my propertih, especially Stan and Kyle, you are to shoot on sight!"
+  },
+  {
+    "id": 5060129,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "So what does does this job pay?"
+  },
+  {
+    "id": 5060130,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Alright, now this is very hard for me to do, you understand. But, in return for you working security, I'll let you ride two rides a day. But only two rides, and only if I'm not on them."
+  },
+  {
+    "id": 5060131,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "Uh, I'm afraid I don't really like rides."
+  },
+  {
+    "id": 5060132,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "But, you can ride anything you want. And you don't have to wait in line."
+  },
+  {
+    "id": 5060133,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "I'm not interested."
+  },
+  {
+    "id": 5060134,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Dude, are you from Mars or something? Any ride you want. No lines."
+  },
+  {
+    "id": 5060135,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "If you need security, I need a cash salary."
+  },
+  {
+    "id": 5060136,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "But I don't have any cash. I spent everything on this park."
+  },
+  {
+    "id": 5060137,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "Well, look: Why don't you just let a couple of people in each day? Every day you can just let two people in, charge $29.95 per ticket, and then you can use that to pay my daily salary."
+  },
+  {
+    "id": 5060138,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Ugh. Two people?"
+  },
+  {
+    "id": 5060139,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "This place is huge. You'll never notice two people. And then you'll have security for your park."
+  },
+  {
+    "id": 5060140,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Well, all alright, Goddamnit! I'll open the park to two people each day! But remember: anybody else you see trespassing the park..."
+  },
+  {
+    "id": 5060141,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "I will shoot on sight."
+  },
+  {
+    "id": 5060142,
+    "ep_num": 506,
+    "segment": 11,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Sweet."
+  },
+  {
+    "id": 5060143,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Hell's Pass Hospital, day. Kyle is on a gurney face down. A doctor stands behind him as his parents look on"
+  },
+  {
+    "id": 5060144,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "DOCTOR",
+    "text": "You're a very lucky little boy. I've never seen a hemorrhoid so infected. It could have killed you."
+  },
+  {
+    "id": 5060145,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Sucky."
+  },
+  {
+    "id": 5060146,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "Oh, look, Kyle. Your little friend Stan is here to see you."
+  },
+  {
+    "id": 5060147,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Dude, are you okay?"
+  },
+  {
+    "id": 5060148,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Oh, I'm swell, Stan. I popped my hemorrhoid trying to climb the fence into Cartmanland, and it got infected. I really need to go to the bathroom, but if I do, it will pop again and the pain will make me pass out. How are you?"
+  },
+  {
+    "id": 5060149,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Well um, ah-I found out that Cartman is letting a few people each day into his theme park. I wa thinking we could put on disguises and get in."
+  },
+  {
+    "id": 5060150,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Ah-ah-ah-I'm afraid Kyle can't ride any amusement park rides for over a year because of his horrible hemorrhoid."
+  },
+  {
+    "id": 5060151,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Jesus."
+  },
+  {
+    "id": 5060152,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "But it's okay, Stan, because I finally figured it out. You see, if someone like Cartman can get a million dollars and his own theme park, then there is no God. There's no God, dude."
+  },
+  {
+    "id": 5060153,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle, don't say such things!"
+  },
+  {
+    "id": 5060154,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Why? Why, Mom? Because if I do something bad will happen to me? Because if I do your God might not shower me with his blessings of infected hemorrhoids?"
+  },
+  {
+    "id": 5060155,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "Kyle, youyouyou just don't understand. It's-"
+  },
+  {
+    "id": 5060156,
+    "ep_num": 506,
+    "segment": 12,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "No! I finally do understand! There is no justice! There is no God!. Do you hear me?! I renounce my faith!!"
+  },
+  {
+    "id": 5060157,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland, day. Barbed wire has been placed atop every fence imaginable. A crowd of people shows up. Among the people are Butters, Clyde, Jordan, Bebe..."
+  },
+  {
+    "id": 5060158,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Alrightalright, listen up, people. Cartmanland is open, but only to two people each day."
+  },
+  {
+    "id": 5060159,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "KIDS",
+    "text": "Aw."
+  },
+  {
+    "id": 5060160,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "BOY",
+    "text": "That's gay."
+  },
+  {
+    "id": 5060161,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "I just gotta cover my security expenses. Butters, Clyde, you can come in."
+  },
+  {
+    "id": 5060162,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "BUTTERS",
+    "text": "Hoh."
+  },
+  {
+    "id": 5060163,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CLYDE",
+    "text": "Oh."
+  },
+  {
+    "id": 5060164,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "The rest of you will just have to try another day."
+  },
+  {
+    "id": 5060165,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "KIDS",
+    "text": "Aw."
+  },
+  {
+    "id": 5060166,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "'K, one park admission? That will be twenty-nine ninety five, sir.  Five cents is your change and enjoy your stay at Cartmanland."
+  },
+  {
+    "id": 5060167,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "BUTTERS",
+    "text": "Hoh boy, oh boy!"
+  },
+  {
+    "id": 5060168,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "...and enjoy your stay at Cartmanland. Ogh, finally, work is over. Now I can get back to riding my rides.  Dada da, I've got my own theme park. Hm, what should I go on now? I know! I'll go on the Haunted Mansion ride again! Da dait daa da Da dat dadadadadadaa da-ah-  What are you doing?"
+  },
+  {
+    "id": 5060169,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "BUTTERS",
+    "text": "We're waitin' in line for the-ah spook house."
+  },
+  {
+    "id": 5060170,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Line? Lines! I HATE LINES!!! Can't you go on something else right now?"
+  },
+  {
+    "id": 5060171,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "BUTTERS",
+    "text": "Well we wanna see the spook house. Uh well, we paid twenty-nine ninety five; we should be able to go in the spook house."
+  },
+  {
+    "id": 5060172,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CLYDE",
+    "text": "Yeah! But I think it's broke down. The cars aren't moving."
+  },
+  {
+    "id": 5060173,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Ugh, alrightalright, hang on.  Security!"
+  },
+  {
+    "id": 5060174,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "What?"
+  },
+  {
+    "id": 5060175,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Oh, Jesus! Uh, look, the haunted house ride broke down. I need you to fix it."
+  },
+  {
+    "id": 5060176,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "Uh, I'm security, not maintenance."
+  },
+  {
+    "id": 5060177,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "But I don't know how it works."
+  },
+  {
+    "id": 5060178,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "Well your rides are gonna break down every now and then. You need to hire a maintenance person."
+  },
+  {
+    "id": 5060179,
+    "ep_num": 506,
+    "segment": 13,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Ogh, alrightalright! I'll let two more people in each day so I can hire a maintenance person."
+  },
+  {
+    "id": 5060180,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland, another day. A crowd of people shows up. Among the people are Bebe, Token, Timmy, Kenny, Filmore..."
+  },
+  {
+    "id": 5060181,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Alright folks, we've had another change in policy. I've had to hire a maintenance person, and to pay his salary I have to let in two more people a day.  However, the stupid maintenance worker demanded I have food and drinks inside the park, so now I've had to hire a beverage person, and a cotton-candy person, which means I now have to let eight people come in a day! BUT, you are to try your best not to ride any rides that I am on! Understood?  Alright, let's go."
+  },
+  {
+    "id": 5060182,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "TIMMY",
+    "text": "Timmay!"
+  },
+  {
+    "id": 5060183,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Wait a minute! Who are you?"
+  },
+  {
+    "id": 5060184,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "BOY",
+    "text": "Mike Gainor."
+  },
+  {
+    "id": 5060185,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "HA! Get the hell out of here, Stan!"
+  },
+  {
+    "id": 5060186,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Goddamnit Cartman, let me in!"
+  },
+  {
+    "id": 5060187,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "I thought you said buying a theme park was stupid! SECURITY!"
+  },
+  {
+    "id": 5060188,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "It is stupid, Cartman! You made Kyle lose his faith in God, you fat asshole!"
+  },
+  {
+    "id": 5060189,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Get him out of here!"
+  },
+  {
+    "id": 5060190,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "Move along, sir."
+  },
+  {
+    "id": 5060191,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "AAAH!  This isn't over, Cartman!"
+  },
+  {
+    "id": 5060192,
+    "ep_num": 506,
+    "segment": 14,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Eugh. Well, now I can finally get back to my riding my rides!  Uh oh! Oh man, I'm so scared!  AAAAaaaa...."
+  },
+  {
+    "id": 5060193,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Hell's Pass Hospital, day. A nurse works on Kyle's hemorrhoid with pincers"
+  },
+  {
+    "id": 5060194,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Ah!  Aaah!"
+  },
+  {
+    "id": 5060195,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "NURSE",
+    "text": "Just a little more  There we go."
+  },
+  {
+    "id": 5060196,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "Hello, Kyle. How's the hemorrhoid today?"
+  },
+  {
+    "id": 5060197,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Awesome."
+  },
+  {
+    "id": 5060198,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle, we wanna tell you about the book of Job. It's a story from the Bible."
+  },
+  {
+    "id": 5060199,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "I've had enough of the Bible. What has it gotten me?"
+  },
+  {
+    "id": 5060200,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "Oh, I think you'll see differently after hearing this. Sit down, Kyle.  Uh, okay. You see, Job lived in the east of Jordan a long long time ago.  Job was a great man. He was blessed with ten lovely children , a wonderful wife, and many friends."
+  },
+  {
+    "id": 5060201,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "He was godly, and a good man, and fed the poor."
+  },
+  {
+    "id": 5060202,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "He was the most upright and honorable of men, and every day he praised God."
+  },
+  {
+    "id": 5060203,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "But one day, Satan went up to heaven and talked to God."
+  },
+  {
+    "id": 5060204,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Satan talked to God?"
+  },
+  {
+    "id": 5060205,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Yes, in the book of Job, Satan talks to God. And God says to Satan, \"Have you seen Job? He is a great man, and he praises me every day.\""
+  },
+  {
+    "id": 5060206,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "But Satan said, \"Oh yeah? He only praises you because you gave him so much. If you didn't give him those things, he would curse your name.\""
+  },
+  {
+    "id": 5060207,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "To which God said, \"Oh yeah? I'll show you, Satan! I'll take those things away from Job and he will still praise my name.\""
+  },
+  {
+    "id": 5060208,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "And so, God had a bunch of barbarians come in and slaughter Job's oxen and donkeys, and murder all his workers."
+  },
+  {
+    "id": 5060209,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Then God sent his fireballs from the sky and killed his sheep and the rest of his employees."
+  },
+  {
+    "id": 5060210,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "And then, as Job's sons and daughters were eating, God sent a mighty wind to collapse the house and crush and kill them all."
+  },
+  {
+    "id": 5060211,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Job was terribly sad, but he fell to his knees and said, \"The Lord giveth, and the Lord taketh away,\" and praised God's name."
+  },
+  {
+    "id": 5060212,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "So then, Job got painful sores all over his body."
+  },
+  {
+    "id": 5060213,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "He was in terrible, miserable pain all day, every day. But he still kept his faith."
+  },
+  {
+    "id": 5060214,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "God said to Sata, \"See? I told you. Job still praises me.\""
+  },
+  {
+    "id": 5060215,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "And that's it? That's the end?"
+  },
+  {
+    "id": 5060216,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Basically."
+  },
+  {
+    "id": 5060217,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "That's the most horrible story I've ever heard. Why would God do such a horrible thing to a good person just to prove a point to Satan?"
+  },
+  {
+    "id": 5060218,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "Oh. Uhhh, I don't know."
+  },
+  {
+    "id": 5060219,
+    "ep_num": 506,
+    "segment": 15,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Then I was right. Job has all his children killed, and Michael Bay gets to keep making movies. There isn't a God."
+  },
+  {
+    "id": 5060220,
+    "ep_num": 506,
+    "segment": 16,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland, day. Yet another crowd of people awaits to get in. Cartman greets them"
+  },
+  {
+    "id": 5060221,
+    "ep_num": 506,
+    "segment": 16,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "...And, since the stupid security guard needs video surveillance, I have to let in two more people a day to cover those expenses... Need to cover the new ticket guy's salary, so that's three more admissions a day...  Cleanup crew for the bathroom, money to cover paint and upkeep - so that's about four admissions - that brings the grand total to... God-damnit!  Eight hundred and sixteen people can come into the park today!"
+  },
+  {
+    "id": 5060222,
+    "ep_num": 506,
+    "segment": 16,
+    "title": "CARTMANLAND",
+    "role": "CLERK",
+    "text": "Welcome to Cartmanland."
+  },
+  {
+    "id": 5060223,
+    "ep_num": 506,
+    "segment": 17,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Hell's Pass Hospital, day. The doctor has been in to see Kyle's recovery progress and is now talking to the parents"
+  },
+  {
+    "id": 5060224,
+    "ep_num": 506,
+    "segment": 17,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Isn't he getting any better, doctor?"
+  },
+  {
+    "id": 5060225,
+    "ep_num": 506,
+    "segment": 17,
+    "title": "CARTMANLAND",
+    "role": "DOCTOR",
+    "text": "I don't understand it. He's not fighting the infected hemorrhoid at all. It's like he... like he's lost all hope. Well if you'll excuse me, I've got more tests to run."
+  },
+  {
+    "id": 5060226,
+    "ep_num": 506,
+    "segment": 17,
+    "title": "CARTMANLAND",
+    "role": "ANNOUNCER",
+    "text": "And now back to Money Quest, on HBC."
+  },
+  {
+    "id": 5060227,
+    "ep_num": 506,
+    "segment": 17,
+    "title": "CARTMANLAND",
+    "role": "HOST 1",
+    "text": "Welcome back to Money Quest.  In just over two weeks, young financial genius Eric Cartman  has managed to turn a theme park that was seeing less than a hundred attendees a day into a thriving park with attendance in the thousands."
+  },
+  {
+    "id": 5060228,
+    "ep_num": 506,
+    "segment": 17,
+    "title": "CARTMANLAND",
+    "role": "HOST 2",
+    "text": "And the way he did it is with the brilliant \"You Can't Come\" technique. For the first several days, the young businessman saturated the market with the claim that nobody could get into his park. It made the public crazy. So then, weeks later, when he opened the doors, they were lining up around the block. Simply amazing."
+  },
+  {
+    "id": 5060229,
+    "ep_num": 506,
+    "segment": 17,
+    "title": "CARTMANLAND",
+    "role": "HOST 1",
+    "text": "Well, ahah I thnk we should point out that this technique is already being applied by businesses all over the country."
+  },
+  {
+    "id": 5060230,
+    "ep_num": 506,
+    "segment": 18,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "At a restaurant where all the tables are empty and everyone is waiting in line..."
+  },
+  {
+    "id": 5060231,
+    "ep_num": 506,
+    "segment": 18,
+    "title": "CARTMANLAND",
+    "role": "WAITRESS",
+    "text": "I'm sorry, we're no longer taking reservations. Nobody can eat here. You'll have to leave now."
+  },
+  {
+    "id": 5060232,
+    "ep_num": 506,
+    "segment": 19,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "At the Bijou, where everyone is waiting outside...."
+  },
+  {
+    "id": 5060233,
+    "ep_num": 506,
+    "segment": 19,
+    "title": "CARTMANLAND",
+    "role": "CLERK",
+    "text": "No, I'm sorry. You can't see this movie. Nobody can see this movie. I can't even go in."
+  },
+  {
+    "id": 5060234,
+    "ep_num": 506,
+    "segment": 20,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "At Gracy's clothing store, a sales associates barks orders..."
+  },
+  {
+    "id": 5060235,
+    "ep_num": 506,
+    "segment": 20,
+    "title": "CARTMANLAND",
+    "role": "ASSOCIATE",
+    "text": "Out! Nobody is allowed into Gracy's anymore! Get out of here!"
+  },
+  {
+    "id": 5060236,
+    "ep_num": 506,
+    "segment": 21,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Back to Money Quest..."
+  },
+  {
+    "id": 5060237,
+    "ep_num": 506,
+    "segment": 21,
+    "title": "CARTMANLAND",
+    "role": "HOST 1",
+    "text": "Amazing. Eric Cartman is surely the financial genius of our time."
+  },
+  {
+    "id": 5060238,
+    "ep_num": 506,
+    "segment": 22,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Back to Kyle's room at Hell's Pass Hospital..."
+  },
+  {
+    "id": 5060239,
+    "ep_num": 506,
+    "segment": 22,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Oh. Oohh.Ohuhughughhh."
+  },
+  {
+    "id": 5060240,
+    "ep_num": 506,
+    "segment": 22,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle? Kyle?  Get the doctor!"
+  },
+  {
+    "id": 5060241,
+    "ep_num": 506,
+    "segment": 23,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland, day. Every ride has people on it, and every ride Cartman is on shows a dejected Cartman as the others enjoy themselves. At the Carousel he rides his favorite white horse, but shows no joy in riding it. At Java Jam!!! he's in a purple teacup with three other kids, and is not enjoying it. At Bumbper Buggies he's in the #7 bumper car"
+  },
+  {
+    "id": 5060242,
+    "ep_num": 506,
+    "segment": 23,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Eh!  Goddamnit, stop running into me!"
+  },
+  {
+    "id": 5060243,
+    "ep_num": 506,
+    "segment": 23,
+    "title": "CARTMANLAND",
+    "role": "KENNY",
+    "text": "(Woohoo!)  (Heeheehee!!)"
+  },
+  {
+    "id": 5060244,
+    "ep_num": 506,
+    "segment": 23,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "AGH!  DAAAAAAH!!"
+  },
+  {
+    "id": 5060245,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland, Main Street. The crowds bustle about and business is good. Chris the Broker and Mr. Foon are seen walking down Main Street."
+  },
+  {
+    "id": 5060246,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "My God, look at it, Chris! That kid completely turned this place around!"
+  },
+  {
+    "id": 5060247,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "CHRIS",
+    "text": "He sure did!"
+  },
+  {
+    "id": 5060248,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "Oh, if I could only have a park that worked like this!"
+  },
+  {
+    "id": 5060249,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Hey, there you are!"
+  },
+  {
+    "id": 5060250,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "Oh, hello. Congratulations on your success."
+  },
+  {
+    "id": 5060251,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Just give me my money back."
+  },
+  {
+    "id": 5060252,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "What?"
+  },
+  {
+    "id": 5060253,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "I changed my mind! I don't want your stupid park!"
+  },
+  {
+    "id": 5060254,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "...But it's doing great!"
+  },
+  {
+    "id": 5060255,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "You call this great?! I call it Hell! Trade me back, Goddamnit!"
+  },
+  {
+    "id": 5060256,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "You bet! I'll go get your money right now!"
+  },
+  {
+    "id": 5060257,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "BOY",
+    "text": "Daddy, daddy, can we ride the rockets?"
+  },
+  {
+    "id": 5060258,
+    "ep_num": 506,
+    "segment": 24,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "GODDAMNIT GET THE FUCK OUT OF MY WAY!!!"
+  },
+  {
+    "id": 5060259,
+    "ep_num": 506,
+    "segment": 25,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Hell's Pass Hospital, day. The doctor has brought Kyle's vitals back, and Kyle is on oxygen, but he's still unconscious. Gerald and Sheila look on"
+  },
+  {
+    "id": 5060260,
+    "ep_num": 506,
+    "segment": 25,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S FATHER",
+    "text": "Isn't he responding at all, doctor?"
+  },
+  {
+    "id": 5060261,
+    "ep_num": 506,
+    "segment": 25,
+    "title": "CARTMANLAND",
+    "role": "DOCTOR",
+    "text": "I'm sorry. Your son appears to be losing the battle. I'm afraid that the hemorrhoid has spread to his lungs. Normally, the body would fight the infection, but he's... he's just... given up on life."
+  },
+  {
+    "id": 5060262,
+    "ep_num": 506,
+    "segment": 25,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "But then... are you saying...?"
+  },
+  {
+    "id": 5060263,
+    "ep_num": 506,
+    "segment": 25,
+    "title": "CARTMANLAND",
+    "role": "DOCTOR",
+    "text": "There's nothing I can do. Little fella's just... lost his will to live."
+  },
+  {
+    "id": 5060264,
+    "ep_num": 506,
+    "segment": 25,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Oh Kyle! Kyle, you've got to fight!"
+  },
+  {
+    "id": 5060265,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Cartmanland... ahem, North Park Funland, day. The old North Park Funland sign is being restored, as are many of the rides Cartman replaced. The ticket booths are missing. A bulldozer sits outside the park ready to clear out anything else that needs removal. Cartman exits with the million dollars he originally paid for the park. The money is back on the Radio Flyer"
+  },
+  {
+    "id": 5060266,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Good riddance, you stupid park! You can all kiss my ass!"
+  },
+  {
+    "id": 5060267,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "AGENT",
+    "text": "Excuse me? Eric Cartman?"
+  },
+  {
+    "id": 5060268,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Yeah?"
+  },
+  {
+    "id": 5060269,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "AGENT",
+    "text": "I'm Frank Garrett with the IRS. You haven't kept records of your income or payout, and there's a five hundred thousand dollar discrepancy.  Seize the assets."
+  },
+  {
+    "id": 5060270,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "He- Hey, that's my money!"
+  },
+  {
+    "id": 5060271,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "MR. GARRETT",
+    "text": "There's also the lawsuit of the little boy who died in your park. The family's entitled to the rest of this."
+  },
+  {
+    "id": 5060272,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "What?! Kenny?! He dies all the time!"
+  },
+  {
+    "id": 5060273,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "MR. GARRETT",
+    "text": "You still owe thirteen thousand dollars more than this, Mr. Cartman. We'll see you in court."
+  },
+  {
+    "id": 5060274,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Yeh- You can't take my money, Goddamnit!"
+  },
+  {
+    "id": 5060275,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "MR. GARRETT",
+    "text": "We know how well your park is doing; you'll make it back in no time."
+  },
+  {
+    "id": 5060276,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "No! But I don't... ah... ah...  Hey! Hey Mr. Foon, I changed my mind. I need the park to make my money back."
+  },
+  {
+    "id": 5060277,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "Nohoho way, José!"
+  },
+  {
+    "id": 5060278,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "But I'm getting sued now. If I don't have the park I lose everything!"
+  },
+  {
+    "id": 5060279,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "MR. FOON",
+    "text": "\"I don't care,\" said Pierre. \"I'm from France.\""
+  },
+  {
+    "id": 5060280,
+    "ep_num": 506,
+    "segment": 26,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "This can't be happening! AAAAAHH!!"
+  },
+  {
+    "id": 5060281,
+    "ep_num": 506,
+    "segment": 27,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "Hell's Pass Hospital, day. Stan bursts into Kyle's room"
+  },
+  {
+    "id": 5060282,
+    "ep_num": 506,
+    "segment": 27,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Kyle, you gotta see!!"
+  },
+  {
+    "id": 5060283,
+    "ep_num": 506,
+    "segment": 27,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "Kyle's not going to make it, Stanley. Oh, Gerald!"
+  },
+  {
+    "id": 5060284,
+    "ep_num": 506,
+    "segment": 27,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Doctor, can we wheel Kyle out of here on his bed with the machines attached?"
+  },
+  {
+    "id": 5060285,
+    "ep_num": 506,
+    "segment": 27,
+    "title": "CARTMANLAND",
+    "role": "DOCTOR",
+    "text": "Well, I sssuppsed it could be rigged, but I-"
+  },
+  {
+    "id": 5060286,
+    "ep_num": 506,
+    "segment": 27,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Then damnit man, do it!"
+  },
+  {
+    "id": 5060287,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "description",
+    "text": "North Park Funland, day. The ticket booths are back, and business is as strong now as it was when the park was Cartmanland. Off to the side, Cartman is throwing stones at one of the park walls"
+  },
+  {
+    "id": 5060288,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "It isn't fair!  You Goddamned assholes, it isn't fair!"
+  },
+  {
+    "id": 5060289,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Look, Kyle. Look."
+  },
+  {
+    "id": 5060290,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Huh?"
+  },
+  {
+    "id": 5060291,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "You just build me up to chop me down, didn't you?! What about my dream?! What about my money?!"
+  },
+  {
+    "id": 5060292,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "Huh?"
+  },
+  {
+    "id": 5060293,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "I'M SO PISSED OFF!"
+  },
+  {
+    "id": 5060294,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "SECURITY GUARD",
+    "text": "Move along, sir! You are vandalizing private property!"
+  },
+  {
+    "id": 5060295,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Ey! You used to work for me!  Ut ut aw! Aw, Goddamnit, you sonfofabitch!"
+  },
+  {
+    "id": 5060296,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Kyle!"
+  },
+  {
+    "id": 5060297,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "DOCTOR",
+    "text": "He's coming back."
+  },
+  {
+    "id": 5060298,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "KYLE'S MOTHER",
+    "text": "That's it, baby. That's it."
+  },
+  {
+    "id": 5060299,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "Oho, Goddamnit, this sucks!"
+  },
+  {
+    "id": 5060300,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "DOCTOR",
+    "text": "Wait a minute. Yes! The hemorrhoid is going into remission!"
+  },
+  {
+    "id": 5060301,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "HEMORRHOID",
+    "text": "Oh, shih."
+  },
+  {
+    "id": 5060302,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "STAN",
+    "text": "Look, Kyle, Cartman is totally miserable. Even more miserable than he was before because he's had his dream and lost it."
+  },
+  {
+    "id": 5060303,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "CARTMAN",
+    "text": "It's not fair! It's not fair; I wanna die! I wanna daaahahie!"
+  },
+  {
+    "id": 5060304,
+    "ep_num": 506,
+    "segment": 28,
+    "title": "CARTMANLAND",
+    "role": "KYLE",
+    "text": "You are up there!"
+  }
+]
