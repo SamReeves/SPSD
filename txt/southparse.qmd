@@ -1,0 +1,227 @@
+---
+title: "Text Mining on Southpark"
+format:
+  html:
+    code-fold: true
+  pdf:
+    code-fold: true
+editor: visual
+---
+
+Declaring constants and importing libraries
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(magrittr)
+library(purrr)
+library(stringr)
+library(jsonlite)
+library(readr)
+library(dplyr)
+
+txt_path = '~/SPSD/'
+```
+
+Loading in the .txt files and extract information about each script
+
+```{r}
+load_txt <- function(file_path) {
+  # TAKES IN TXT, RETURNS METADATA AND FLAT SCRIPT
+  lines <- readLines(file_path, warn = FALSE)
+  
+  ep_num <- NA
+  title <- NA
+  
+  # Search for the episode number
+  for (i in seq_along(lines)) {
+    # Check if the line contains "Episode"
+    if (str_detect(lines[i], regex("Episode", ignore_case = TRUE))) {
+      # Extract episode number using regex
+      ep_match <- str_extract(lines[i], "\\d{3,}")
+      
+      if (!is.na(ep_match)) {
+        ep_num <- as.integer(ep_match)
+      }
+      
+      # Assuming title is on the next lines
+      if (i + 1 <= length(lines)) {
+        title <- paste(lines[i + 2], lines[i+3])
+        title <- gsub("[^a-zA-Z]", " ", title) %>%
+          trimws()
+      }
+      break  # Exit loop after finding the episode number
+    }
+  }
+  
+  # combine script lines to a single string
+  # beginning after metadata and stopping before THE END
+  script_lines <- lines[21:length(lines) - 1]
+  combined_script <- paste(script_lines,
+                           collapse = '\n') %>%
+    trimws()
+  
+  # isolate individual lines and segment descriptions
+  script <- unlist(strsplit(
+    combined_script, '\\n\\s*\\n')) %>%
+    trimws()
+  
+  return(list(
+    ep_num = ep_num,
+    title = title,
+    script = script
+  ))
+}
+```
+
+Labeling each block of text according to its source
+
+```{r}
+label_text <- function(text) {
+  # ATTRIBUTE DIALOGUE TO CHARACTERS
+  
+  if (grepl("^\\[.*\\]$", text)) {
+    # if the text is bounded by brackets, it is description
+    role <- 'description'
+    text <- substr(text, 2, nchar(text) - 1)
+  } else {
+    # else it is dialogue, role on own line
+    pattern <- "\\n.*"
+    role <- sub(pattern, "", text)
+    text <- substr(text, nchar(role) + 1, nchar(text))
+  }
+  
+  # remove extra linebreaks and whitespace
+  text <- gsub("\\s*\\n\\s*", " ", text) %>% 
+    trimws()
+  
+  return(list(
+    role = role,
+    text = text))
+}
+```
+
+Separating each script into segments following description blocks
+
+```{r}
+enumerate_segments <- function(ep_num, roles) {
+  # return a vector with segment numbers for each text
+  segment <- 1
+  segment_vec <- c(1)
+  
+  for (i in 2:length(roles)) {
+    # new segment at each description
+    # first text may be dialogue or description
+    if (roles[[i]] == 'description') {
+      segment <- segment + 1
+    }
+    segment_vec <- append(segment_vec, segment)
+  }
+  return(segment_vec)
+}
+```
+
+Using the helper functions to output csv/json structured data for a script.
+
+```{r}
+process_episode <- function(file_path) {
+  # CONVERT A SOUTHPARK EPISODE TXT TO STRUCTURE DATA
+
+  data <- load_txt(file_path)
+  ep_num <- data[[1]]
+  title <- data[[2]]
+  script <- data[[3]]
+  roles <- list()
+  texts <- list()
+  
+  # for each block of text, role text, append to list
+  for (text in script) {
+    output <- label_text(text)
+    roles[[length(roles) + 1]] <- output$role
+    texts[[length(texts) + 1]] <- output$text
+  }
+  
+  # break the script into segments, with transitions
+  # indicated by segment description
+  segments <- enumerate_segments(ep_num, roles)
+  
+  index_range <- c(ep_num*10000:ep_num*10000 + length(texts) -1)
+  
+  df <- data.frame(
+    id = seq.int(ep_num * 10000 + 1,
+                 ep_num * 10000 + length(texts)),
+    ep_num = unlist(ep_num),
+    segment = unlist(segments),
+    title = unlist(title),
+    role = unlist(roles),
+    text = unlist(texts),
+    stringsAsFactors = FALSE)
+  
+  # return episode number, title, roled text
+  return(df)
+}
+```
+
+Running the parse script on every script available.
+
+```{r}
+southparse <- function(dir_path = txt_path){
+  # PARSE EVERY SOUTHPARK SCRIPT,
+  # OUTPUT: NAME.CSV, NAME.JSON
+  
+  file_list <- list.files(dir_path,
+                          pattern = "\\.txt$",
+                          full.names = TRUE)
+  #print(file_list)
+  
+  for (file_path in file_list) {
+    df <- process_episode(file_path)
+    base_name <- tools::file_path_sans_ext(basename(file_path))
+    print(base_name)
+    
+    csv_path <- file.path(dir_path, paste0(base_name, '.csv'))
+    write.csv(df, csv_path, row.names = FALSE)
+    
+    json_data <- toJSON(df, pretty = TRUE)
+    json_path <- file.path(dir_path, paste0(base_name, '.json'))
+    write(json_data, file = json_path)
+  }
+}
+```
+
+Calling the main function
+
+```{r}
+southparse(txt_path)
+# "An elephant makes love to a pig" is not available online and throws error.
+
+```
+
+Combining the structured data into one master called South Park Structured Dataset:
+
+```{r}
+build_SPSD <- function() {
+  cat(getwd())
+  files <- list.files(pattern = '.json')
+  
+    # Check if there are any CSV files to process
+  if (length(files) == 0) {
+    stop("No JSON files found in the directory. Try running southparse() with your scripts.txt.")
+  }
+  
+  data_list <- lapply(files, fromJSON)
+  combined_data <- bind_rows(data_list)
+  
+  write_csv(combined_data, 'SPSD.csv')
+  
+  json_data <- toJSON(combined_data, pretty = TRUE)
+  
+  write(json_data, 'SPSD.json')
+}
+```
+
+```{r}
+#setwd('SET WORKING DIRECTORY HERE')
+build_SPSD()
+```
